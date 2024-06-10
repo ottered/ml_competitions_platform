@@ -1,0 +1,3407 @@
+id,platform,year,genre,publisher,na_sales,eu_sales,other_sales
+2463,DS,2009,Adventure,Arc System Works,0.0,0.0,0.0
+2495,PSP,2006,Action,Namco Bandai Games,0.0,0.0,0.0
+2398,Wii,2010,Platform,Nintendo,1.02,0.52,0.14
+4095,PSP,2011,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+5590,PSP,2011,Misc,Asgard,0.0,0.0,0.0
+5795,3DS,2014,Sports,Nintendo,0.15,0.14,0.03
+3854,PS3,2012,Adventure,5pb,0.0,0.0,0.0
+1886,PS4,2014,Shooter,Activision,2.8,3.3,1.37
+489,PS4,2015,Role-Playing,Idea Factory International,0.0,0.0,0.0
+3146,X360,2008,Action,Capcom,0.79,0.34,0.13
+5958,PSV,2016,Misc,Tecmo Koei,0.0,0.0,0.0
+2767,X360,2014,Shooter,Take-Two Interactive,0.46,0.22,0.06
+3723,PS2,2008,Adventure,D3Publisher,0.0,0.0,0.0
+3916,PS2,2003,Action,Capcom,0.05,0.04,0.01
+293,PS3,2010,Action,Ubisoft Annecy,0.06,0.03,0.02
+833,WiiU,2012,Role-Playing,Nintendo,0.26,0.19,0.04
+3869,Wii,2009,Action,Konami Digital Entertainment,0.23,0.19,0.05
+5633,PSP,2010,Misc,Sega,0.0,0.0,0.0
+2265,PS2,2006,Action,Banpresto,0.0,0.0,0.0
+5957,PSV,2015,Adventure,Prototype,0.0,0.0,0.0
+4788,PSV,2013,Action,Nippon Ichi Software,0.09,0.02,0.03
+667,XOne,2013,Action,Microsoft Game Studios,1.06,0.35,0.12
+2026,PS,1998,Sports,Magical Company,0.15,0.1,0.03
+5889,XB,2004,Fighting,Tecmo Koei,0.3,0.1,0.02
+5085,N64,1997,Sports,Konami Digital Entertainment,0.09,0.26,0.02
+5794,PS2,2005,Action,Konami Digital Entertainment,0.18,0.14,0.05
+2875,PS4,2015,Action,Tecmo Koei,0.02,0.01,0.01
+2709,PS2,2006,Adventure,Sega,0.05,0.04,0.16
+440,PSP,2008,Action,Sony Computer Entertainment,1.48,1.01,0.66
+648,PS3,2010,Sports,Electronic Arts,0.3,0.64,0.22
+2035,PS3,2012,Action,Sony Computer Entertainment,0.47,0.14,0.09
+2562,SAT,1995,Fighting,Sega,0.0,0.0,0.0
+1143,PS4,2016,Role-Playing,Square Enix,0.0,0.0,0.0
+2433,PS,1998,Sports,989 Studios,1.65,0.46,0.1
+5901,SAT,1997,Action,Capcom,0.0,0.0,0.0
+1532,PSP,2009,Simulation,From Software,0.0,0.0,0.0
+5438,N64,1999,Platform,Konami Digital Entertainment,0.06,0.02,0.0
+5146,DS,2007,Platform,Nintendo,0.26,0.04,0.03
+913,PS2,2002,Role-Playing,Atari,0.1,0.08,0.03
+602,PS2,2006,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+312,PS3,2014,Misc,Sega,0.09,0.04,0.03
+3368,DS,2011,Strategy,Konami Digital Entertainment,0.1,0.03,0.01
+4986,3DS,2012,Adventure,Unknown,0.0,0.0,0.0
+3507,3DS,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+1867,DS,2008,Role-Playing,Rising Star Games,0.11,0.0,0.01
+862,GBA,2006,Action,Banpresto,0.0,0.0,0.0
+5524,Wii,2008,Adventure,Sega,0.0,0.0,0.0
+732,SNES,1993,Sports,Namco Bandai Games,0.0,0.0,0.0
+441,SNES,1994,Shooter,Konami Digital Entertainment,0.0,0.0,0.0
+3659,NG,1993,Fighting,SNK,0.0,0.0,0.0
+3959,PSP,2008,Role-Playing,Nippon Ichi Software,0.05,0.0,0.01
+4509,PSV,2015,Action,Idea Factory,0.0,0.0,0.0
+4364,DS,2008,Role-Playing,Nintendo,2.82,1.78,0.55
+4049,WiiU,2015,Platform,Nintendo,0.23,0.14,0.04
+3762,PSP,2006,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.0
+3905,PS2,2006,Action,Capcom,0.15,0.12,0.04
+2249,PS,1995,Strategy,Sony Computer Entertainment,0.0,0.0,0.01
+4549,DS,2006,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.0
+28,PS4,2015,Role-Playing,Nippon Ichi Software,0.1,0.08,0.04
+2813,PS2,2009,Adventure,Enterbrain,0.0,0.0,0.0
+882,PS,1999,Role-Playing,Sony Computer Entertainment,0.19,0.13,0.04
+4037,PSP,2009,Adventure,TGL,0.0,0.0,0.0
+4739,GEN,1994,Platform,Sega,1.24,0.43,0.12
+2064,PS2,2007,Simulation,Banpresto,0.0,0.0,0.0
+5861,DS,2007,Adventure,Capcom,0.33,0.05,0.04
+225,DC,1999,Sports,Sega,0.0,0.0,0.0
+2034,DS,2007,Simulation,Electronic Arts,0.0,0.03,0.0
+1213,GB,1998,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+1657,3DS,2012,Adventure,D3Publisher,0.0,0.0,0.0
+971,DS,2008,Action,Namco Bandai Games,0.0,0.0,0.0
+387,SNES,1991,Shooter,Capcom,0.0,0.0,0.0
+1536,PSV,2013,Fighting,Tecmo Koei,0.0,0.05,0.02
+2343,DS,2009,Action,Take-Two Interactive,0.59,0.57,0.14
+1966,PSV,2013,Role-Playing,FuRyu,0.0,0.0,0.0
+604,X360,2013,Shooter,Electronic Arts,0.51,0.33,0.08
+4062,DS,2007,Role-Playing,Rising Star Games,0.0,0.0,0.0
+2056,3DS,2014,Role-Playing,Atlus,0.0,0.0,0.0
+1348,PS2,2007,Misc,D3Publisher,0.0,0.0,0.0
+5613,PS3,2013,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+578,X360,2014,Shooter,Electronic Arts,0.87,0.38,0.11
+6081,PS,1998,Fighting,THQ,1.1,0.48,0.07
+4228,DS,2005,Simulation,Marvelous Interactive,0.0,0.0,0.0
+5674,DS,2005,Role-Playing,Tomy Corporation,0.0,0.0,0.0
+1129,PSP,2007,Adventure,Prototype,0.0,0.0,0.0
+607,PSP,2013,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+2695,PS2,2004,Platform,Activision,1.12,0.69,0.02
+757,X360,2011,Shooter,Electronic Arts,4.46,2.13,0.69
+4876,SNES,1991,Strategy,Banpresto,0.0,0.0,0.0
+1431,PS3,2008,Sports,Tecmo Koei,0.0,0.0,0.0
+3898,PS,1996,Misc,Sony Computer Entertainment,0.02,0.01,0.01
+4299,PS2,2000,Racing,Electronic Arts,0.04,0.03,0.01
+5138,DS,2010,Strategy,Tecmo Koei,0.0,0.0,0.0
+2099,PS2,2003,Role-Playing,Square Enix,0.0,0.0,0.0
+3301,X360,2010,Role-Playing,Sega,0.12,0.13,0.03
+2799,DS,2008,Simulation,Electronic Arts,0.81,0.6,0.17
+494,PS3,2010,Misc,Sony Computer Entertainment,0.0,0.0,0.0
+1509,PS3,2012,Action,Sega,0.0,0.0,0.0
+5726,PS,1999,Role-Playing,SquareSoft,0.62,0.42,0.12
+2574,Wii,2008,Misc,Sega,0.42,0.37,0.1
+4999,PS3,2008,Fighting,THQ,0.51,0.31,0.13
+5848,PS4,2015,Action,Bethesda Softworks,0.11,0.18,0.06
+849,PS,1998,Fighting,SNK,0.0,0.0,0.01
+3900,N64,1998,Action,Nintendo,4.1,1.89,0.16
+962,Wii,2008,Platform,Namco Bandai Games,0.11,0.02,0.01
+5835,PSP,2004,Puzzle,Namco Bandai Games,0.0,0.0,0.0
+4988,PSP,2009,Adventure,CyberFront,0.0,0.0,0.0
+1730,3DS,2015,Fighting,Namco Bandai Games,0.12,0.03,0.02
+664,PSP,2010,Simulation,D3Publisher,0.0,0.0,0.0
+1024,PS2,2007,Role-Playing,Sega,0.0,0.0,0.0
+3608,DS,2009,Role-Playing,Atlus,0.14,0.0,0.01
+2582,3DS,2012,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+1845,NES,1990,Role-Playing,Enix Corporation,0.08,0.0,0.01
+1823,PSV,2016,Action,Nippon Ichi Software,0.0,0.0,0.0
+4904,NES,1984,Shooter,Nintendo,0.68,0.16,0.02
+5867,DS,2010,Action,Kadokawa Shoten,0.0,0.0,0.0
+2954,X360,2012,Shooter,Microsoft Game Studios,6.63,2.36,0.73
+2681,3DS,2013,Role-Playing,Nintendo,0.21,0.3,0.04
+5999,3DS,2011,Action,Alchemist,0.0,0.0,0.0
+6000,PS2,2000,Fighting,Tecmo Koei,0.0,0.0,0.0
+5046,PS3,2011,Action,THQ,0.86,1.06,0.39
+4759,PSP,2009,Adventure,Namco Bandai Games,0.0,0.0,0.0
+2027,Wii,2011,Role-Playing,Nintendo,0.32,0.13,0.04
+486,X360,2010,Action,Ubisoft,1.2,0.63,0.19
+1078,NES,1986,Shooter,Hudson Soft,0.32,0.06,0.01
+226,PS4,2014,Shooter,Electronic Arts,0.21,0.29,0.11
+4728,DC,2000,Adventure,Sega,0.0,0.0,0.0
+4474,PS,1999,Strategy,Namco Bandai Games,0.0,0.0,0.04
+3375,DS,2006,Misc,Atlus,0.0,0.0,0.0
+3113,SAT,1997,Action,Capcom,0.0,0.0,0.0
+2597,PS,1995,Action,Namco Bandai Games,0.0,0.0,0.03
+198,PSV,2015,Action,Unknown,0.0,0.0,0.0
+1934,PSP,2013,Adventure,Namco Bandai Games,0.0,0.0,0.0
+554,PS2,2006,Misc,Yamasa Entertainment,0.0,0.0,0.0
+1412,PS2,2007,Strategy,Konami Digital Entertainment,0.0,0.0,0.0
+4089,PS2,2007,Role-Playing,Sega,0.0,0.0,0.0
+2532,PS3,2006,Action,Sony Computer Entertainment,0.18,0.38,0.14
+3182,PS2,2003,Role-Playing,Ghostlight,0.07,0.05,0.02
+271,PC,2004,Shooter,Vivendi Games,2.28,0.02,0.0
+299,PS2,2003,Shooter,Sony Computer Entertainment,2.22,0.51,0.15
+4510,PS3,2014,Simulation,Kadokawa Games,0.0,0.0,0.0
+3812,PS,1997,Fighting,Namco Bandai Games,0.0,0.0,0.01
+4241,SNES,1993,Sports,Nintendo,0.0,0.0,0.0
+4521,GB,1996,Platform,Nintendo,1.39,0.48,0.08
+4296,PS,1998,Fighting,SNK,0.0,0.0,0.0
+4591,PS2,2006,Role-Playing,Namco Bandai Games,0.09,0.07,0.02
+5959,GBA,2002,Strategy,Banpresto,0.0,0.0,0.01
+2814,PS2,2007,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+1461,PS4,2015,Fighting,Marvelous Interactive,0.01,0.0,0.0
+1076,PS2,2005,Action,Sony Computer Entertainment,2.71,1.29,0.43
+5696,Wii,2008,Sports,Namco Bandai Games,0.0,0.0,0.0
+4346,PS2,2000,Fighting,Virgin Interactive,0.32,0.25,0.08
+4566,DS,2010,Role-Playing,Nintendo,0.22,0.21,0.03
+1576,PSV,2014,Racing,Tecmo Koei,0.0,0.0,0.0
+2742,DS,2010,Role-Playing,Square Enix,0.12,0.0,0.01
+462,PSP,2012,Action,Idea Factory,0.0,0.0,0.0
+1031,X360,2011,Fighting,Capcom,0.79,0.18,0.07
+365,PSP,2009,Adventure,Yeti,0.0,0.0,0.0
+3919,SNES,1992,Platform,Capcom,0.66,0.17,0.03
+3167,PS4,2016,Sports,Konami Digital Entertainment,0.0,0.21,0.03
+2402,PSP,2013,Adventure,Kadokawa Games,0.0,0.0,0.0
+3147,PSP,2007,Strategy,Rising Star Games,0.05,0.0,0.01
+1717,GB,1999,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+5011,SNES,1994,Strategy,Namco Bandai Games,0.0,0.0,0.0
+1090,X360,2013,Action,Deep Silver,0.08,0.02,0.01
+2386,PSP,2010,Adventure,GN Software,0.0,0.0,0.0
+4058,X360,2005,Racing,Microsoft Game Studios,0.49,0.03,0.05
+3957,PS3,2010,Action,Electronic Arts,0.64,0.28,0.13
+4254,PS2,2001,Adventure,Athena,0.0,0.0,0.0
+4386,PS2,2008,Adventure,Banpresto,0.0,0.0,0.0
+3913,PSP,2009,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+371,DS,2005,Misc,Nintendo,0.0,0.0,0.0
+476,PSV,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+2015,Wii,2008,Fighting,Capcom,0.0,0.0,0.0
+483,PS,1998,Simulation,Konami Digital Entertainment,0.0,0.0,0.02
+5589,PSP,2013,Misc,Tecmo Koei,0.0,0.0,0.0
+688,DS,2009,Strategy,Namco Bandai Games,0.0,0.0,0.0
+4938,3DS,2011,Simulation,Ubisoft,0.11,0.09,0.02
+5900,GB,1998,Role-Playing,Eidos Interactive,0.0,0.0,0.01
+3965,PS2,2001,Racing,Sony Computer Entertainment,6.85,5.09,1.16
+1954,Wii,2011,Role-Playing,Nintendo,0.13,0.1,0.03
+1902,PSP,2007,Sports,Namco Bandai Games,0.01,0.01,0.01
+1487,PSV,2016,Action,Kadokawa Games,0.0,0.0,0.0
+3288,PS3,2012,Strategy,Tecmo Koei,0.0,0.0,0.0
+2453,Wii,2007,Strategy,Nintendo,0.28,0.03,0.03
+1046,Wii,2009,Sports,Konami Digital Entertainment,0.12,0.27,0.05
+3625,PS2,2007,Fighting,Ignition Entertainment,0.0,0.0,0.0
+4808,GC,2003,Misc,Nintendo,0.0,0.0,0.01
+5182,PSV,2013,Action,Tecmo Koei,0.05,0.05,0.03
+4847,PSP,2010,Misc,Asgard,0.0,0.0,0.0
+6046,N64,2000,Fighting,Nintendo,0.0,0.0,0.05
+1622,PSP,2011,Action,Namco Bandai Games,0.0,0.0,0.0
+590,3DS,2011,Simulation,Electronic Arts,0.3,0.37,0.07
+3339,PS3,2009,Role-Playing,Nippon Ichi Software,0.07,0.06,0.02
+4617,PSP,2009,Sports,Takara Tomy,0.09,0.0,0.01
+536,PS3,2012,Fighting,Capcom,0.42,0.22,0.1
+790,SNES,1998,Platform,Capcom,0.0,0.0,0.0
+3426,Wii,2008,Misc,Hudson Soft,0.01,0.0,0.0
+1473,XB,2003,Platform,Sega,0.41,0.43,0.05
+513,PS3,2013,Role-Playing,Activision,0.71,0.83,0.35
+2303,X360,2010,Role-Playing,JoWood Productions,0.03,0.04,0.01
+556,DS,2006,Misc,Nintendo,0.0,0.0,0.0
+404,PSV,2015,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+3881,PS4,2016,Shooter,Ubisoft,1.28,1.61,0.57
+2387,X360,2009,Role-Playing,Compile Heart,0.0,0.0,0.0
+3355,PS2,2000,Action,Namco Bandai Games,0.24,0.19,0.06
+4743,DC,2001,Fighting,Capcom,0.0,0.0,0.0
+331,3DS,2011,Puzzle,Tetris Online,0.2,0.13,0.03
+5821,PSP,2011,Adventure,Acquire,0.0,0.0,0.0
+2854,GB,1991,Racing,Nintendo,0.58,0.37,0.04
+2046,DS,2010,Fighting,Hudson Soft,0.0,0.0,0.0
+2318,PS,2002,Fighting,Namco Bandai Games,0.0,0.0,0.0
+5455,Wii,2006,Sports,Nintendo,41.49,29.02,8.46
+5619,PSP,2007,Role-Playing,505 Games,0.07,0.0,0.01
+3593,PS,1997,Sports,Tecmo Koei,0.0,0.0,0.02
+2894,PS3,2006,Simulation,505 Games,0.09,0.0,0.01
+2838,GEN,1991,Platform,Sega,3.03,0.91,0.13
+2134,DS,2008,Adventure,Marvelous Interactive,0.0,0.0,0.0
+649,WiiU,2013,Sports,Nintendo,0.39,0.24,0.06
+1128,PS2,2000,Racing,Crave Entertainment,0.66,0.52,0.17
+2965,X360,2012,Fighting,Capcom,0.31,0.1,0.03
+2938,PS3,2015,Role-Playing,Namco Bandai Games,0.05,0.09,0.03
+1324,3DS,2015,Role-Playing,Nippon Ichi Software,0.09,0.01,0.01
+223,3DS,2014,Adventure,Namco Bandai Games,0.0,0.0,0.0
+72,PSP,2009,Fighting,Square Enix,0.0,0.0,0.0
+527,GC,2002,Action,Activision,0.86,0.27,0.04
+4494,SAT,1995,Role-Playing,Atlus,0.0,0.0,0.0
+1438,PS3,2015,Sports,Take-Two Interactive,0.44,0.19,0.13
+506,PSP,2009,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3583,DS,2006,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+1860,PS2,2009,Adventure,Alchemist,0.0,0.0,0.0
+4358,PS2,2005,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+3094,NES,1990,Sports,Nintendo,0.28,0.5,0.05
+3640,SAT,1996,Shooter,Namco Bandai Games,0.0,0.0,0.0
+1930,DS,2009,Role-Playing,Square Enix,0.0,0.0,0.0
+641,SAT,1996,Adventure,Sega,0.0,0.0,0.0
+2978,SNES,1991,Shooter,Nintendo,1.06,0.38,0.05
+1883,XB,2002,Fighting,Capcom,0.09,0.03,0.0
+3454,PS2,2005,Adventure,Sony Computer Entertainment,0.0,0.0,0.0
+4866,X360,2011,Misc,Microsoft Game Studios,1.45,0.42,0.16
+103,PS3,2010,Shooter,Electronic Arts,0.44,0.27,0.12
+2855,PS3,2011,Misc,Namco Bandai Games,0.0,0.0,0.0
+4317,DS,2010,Adventure,Arc System Works,0.0,0.0,0.0
+1131,DS,2008,Action,Tecmo Koei,0.17,0.02,0.02
+2480,PSP,2011,Misc,Aqua Plus,0.0,0.0,0.0
+1640,PSP,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+4838,PS2,2008,Fighting,Namco Bandai Games,0.08,0.06,0.02
+3635,PS4,2015,Adventure,PQube,0.0,0.0,0.0
+5034,PSV,2016,Action,Marvelous Entertainment,0.0,0.0,0.0
+1139,PS2,2008,Sports,Tecmo Koei,0.0,0.0,0.0
+1416,SNES,1995,Role-Playing,SquareSoft,0.0,0.0,0.0
+1132,PS,1998,Strategy,Tecmo Koei,0.0,0.0,0.0
+1005,X360,2005,Action,Tecmo Koei,0.0,0.0,0.0
+5108,DS,2004,Misc,Tecmo Koei,0.0,0.0,0.0
+3106,PSP,2010,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+581,GB,2000,Platform,Nintendo,1.11,0.51,0.23
+620,PS4,2015,Action,Tecmo Koei,0.07,0.04,0.02
+380,PS3,2011,Adventure,Aqua Plus,0.0,0.0,0.0
+4288,SAT,1995,Misc,Sega,0.0,0.0,0.0
+5882,PSP,2010,Adventure,CyberFront,0.0,0.0,0.0
+2926,GB,2000,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.0
+2228,DS,2007,Misc,D3Publisher,0.0,0.0,0.0
+3740,3DS,2013,Role-Playing,Nintendo,0.89,0.57,0.13
+3653,PS2,2008,Adventure,Tecmo Koei,0.0,0.0,0.0
+1002,PSP,2009,Action,Konami Digital Entertainment,0.0,0.0,0.0
+5683,PSV,2011,Role-Playing,Square Enix,0.0,0.0,0.0
+4370,DS,2010,Sports,Konami Digital Entertainment,0.0,0.02,0.0
+988,DS,2005,Fighting,Nintendo,0.0,0.0,0.0
+3861,3DS,2011,Simulation,Namco Bandai Games,0.1,0.06,0.01
+5014,PS4,2015,Shooter,Take-Two Interactive,0.36,0.32,0.14
+3440,SNES,1994,Sports,Namco Bandai Games,0.0,0.0,0.0
+5780,XB,2002,Role-Playing,Ubisoft,2.09,0.63,0.11
+2712,DS,2008,Action,Spike,0.0,0.0,0.0
+5116,DS,2009,Role-Playing,Hudson Soft,0.08,0.03,0.01
+1903,DS,2006,Fighting,Sega,0.3,0.01,0.03
+1327,PSP,2009,Role-Playing,GungHo,0.19,0.0,0.02
+4160,3DS,2015,Action,Nintendo,0.0,0.0,0.0
+761,PS2,2006,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+5070,PS4,2014,Action,Ubisoft,1.4,1.86,0.77
+751,PSV,2015,Action,Kadokawa Games,0.0,0.0,0.0
+960,DS,2011,Racing,Disney Interactive Studios,0.72,0.44,0.12
+6077,PS3,2015,Action,Arc System Works,0.0,0.0,0.0
+1015,X360,2012,Shooter,Ubisoft,0.93,0.4,0.12
+2161,PS,1998,Sports,Victor Interactive,0.0,0.0,0.01
+1977,XB,2001,Fighting,Microsoft Game Studios,1.19,0.29,0.06
+4755,X360,2012,Role-Playing,Electronic Arts,1.94,0.86,0.24
+4780,PS2,2007,Fighting,THQ,0.92,0.0,1.41
+5082,DS,2007,Action,Konami Digital Entertainment,0.0,0.0,0.0
+5261,DS,2008,Misc,Namco Bandai Games,0.0,0.0,0.0
+3843,PS2,2003,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+760,PS3,2015,Adventure,5pb,0.0,0.0,0.0
+4915,N64,1997,Shooter,Nintendo,2.78,0.58,0.04
+2205,DS,2006,Fighting,Nintendo,0.02,0.02,0.0
+3103,GC,2004,Shooter,Nintendo,0.87,0.35,0.04
+2186,PSP,2012,Adventure,Idea Factory,0.0,0.0,0.0
+2805,PS2,2003,Action,Atari,1.78,1.12,0.19
+1851,DS,2006,Role-Playing,Sega,0.18,0.0,0.02
+5908,Wii,2008,Shooter,Sega,0.78,0.5,0.15
+4696,PS3,2012,Shooter,Ubisoft,0.41,0.33,0.12
+5084,Wii,2011,Misc,Nintendo,0.27,0.04,0.02
+808,GBA,2004,Adventure,Banpresto,0.0,0.0,0.01
+2756,X360,2010,Shooter,Microsoft Game Studios,7.03,1.98,0.78
+3901,PSP,2007,Shooter,Ignition Entertainment,0.02,0.0,0.01
+810,PSP,2010,Shooter,Namco Bandai Games,0.0,0.0,0.0
+3141,PS3,2016,Role-Playing,Square Enix,0.0,0.0,0.0
+5061,SAT,1994,Shooter,Sega,0.0,0.0,0.0
+3535,DS,2011,Misc,Nintendo,0.0,0.0,0.0
+470,PSP,2010,Role-Playing,Nippon Ichi Software,0.05,0.0,0.01
+2807,X360,2008,Action,Touchstone,0.46,0.21,0.07
+3359,X360,2006,Strategy,Banpresto,0.0,0.0,0.0
+4983,SNES,1994,Puzzle,Hudson Soft,0.0,0.0,0.0
+3385,SAT,1994,Racing,Sega,0.0,0.0,0.0
+3251,3DS,2013,Role-Playing,Atlus,0.28,0.0,0.02
+5808,PS4,2016,Fighting,Namco Bandai Games,0.1,0.08,0.04
+1402,PS2,2007,Action,Tecmo Koei,0.11,0.09,0.03
+5377,PS2,2008,Adventure,Prototype,0.0,0.0,0.0
+5052,PS2,2004,Sports,Electronic Arts,4.18,0.26,0.08
+1573,PS2,2005,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+2360,PS2,2004,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+2531,SAT,1996,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+3972,SNES,1993,Sports,T&E Soft,0.0,0.0,0.0
+1904,Wii,2011,Misc,Namco Bandai Games,0.0,0.0,0.0
+2234,PSV,2015,Misc,Marvelous Entertainment,0.0,0.0,0.0
+747,PSP,2012,Action,Quinrose,0.0,0.0,0.0
+241,PS3,2012,Misc,Namco Bandai Games,0.0,0.0,0.0
+1901,PSV,2014,Role-Playing,Idea Factory,0.02,0.02,0.01
+1186,DS,2007,Action,Sega,0.0,0.0,0.0
+6007,PSV,2014,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+4301,DS,2006,Misc,Nintendo,0.0,0.0,0.0
+2493,GC,2006,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2082,PSV,2011,Sports,Sega,0.05,0.3,0.12
+3317,PS3,2013,Action,Konami Digital Entertainment,0.45,0.4,0.18
+4078,WiiU,2015,Misc,Level 5,0.0,0.0,0.0
+2577,PSP,2009,Misc,Aqua Plus,0.0,0.0,0.0
+1135,PS3,2013,Action,Namco Bandai Games,0.0,0.2,0.07
+4837,PS,1998,Misc,Syscom,0.0,0.0,0.01
+3873,PSP,2010,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+4434,X360,2009,Shooter,Rising Star Games,0.15,0.06,0.02
+1360,PS,1994,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.01
+3369,PS,1997,Sports,Konami Digital Entertainment,0.0,0.0,0.04
+1177,DS,2007,Misc,Nintendo,0.0,0.0,0.0
+186,X360,2010,Action,Electronic Arts,0.63,0.2,0.07
+5778,3DS,2015,Platform,Yacht Club Games,0.07,0.04,0.01
+1312,PS3,2008,Sports,Sega,0.14,0.54,0.18
+2060,PSP,2013,Adventure,Namco Bandai Games,0.0,0.0,0.0
+1175,3DS,2014,Role-Playing,Rocket Company,0.0,0.0,0.0
+3176,X360,2010,Adventure,5pb,0.0,0.0,0.0
+5291,PS,1998,Puzzle,Sony Computer Entertainment,0.06,0.04,0.02
+5574,PS3,2012,Simulation,5pb,0.0,0.0,0.0
+4067,PS3,2011,Sports,Electronic Arts,0.84,4.32,1.42
+5224,3DS,2015,Simulation,Happinet,0.0,0.0,0.0
+4598,PS2,2008,Adventure,Minato Station,0.0,0.0,0.0
+1144,Wii,2008,Sports,Hudson Soft,0.0,0.0,0.0
+3816,3DS,2013,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+4131,PS3,2016,Sports,Konami Digital Entertainment,0.0,0.01,0.0
+1783,PS3,2012,Action,Sega,0.09,0.08,0.03
+4524,PS3,2009,Sports,Electronic Arts,0.46,0.26,0.12
+1927,PS2,2003,Racing,Electronic Arts,3.27,2.83,1.02
+38,PS4,2015,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+4439,X360,2007,Role-Playing,Microsoft Game Studios,0.45,0.27,0.09
+4849,GB,1997,Platform,Nintendo,0.7,0.35,0.04
+2272,GBA,2003,Strategy,Nintendo,0.49,0.18,0.01
+3569,PSP,2004,Misc,Sony Computer Entertainment,0.0,0.0,0.0
+5101,GEN,1992,Adventure,Sega,0.0,0.0,0.0
+54,PSV,2014,Misc,Idea Factory,0.0,0.0,0.0
+694,PSV,2014,Role-Playing,Nihon Falcom Corporation,0.0,0.0,0.0
+4007,SNES,1994,Role-Playing,Laguna,0.0,0.0,0.0
+2910,NES,1987,Fighting,Nintendo,0.77,0.18,0.03
+3289,DS,2006,Role-Playing,Konami Digital Entertainment,0.17,0.01,0.02
+4371,PS3,2014,Shooter,Bethesda Softworks,0.14,0.25,0.09
+4011,GB,1995,Misc,Nintendo,0.0,0.0,0.0
+4430,GBA,2005,Misc,Nintendo,0.5,0.19,0.02
+4012,PS3,2011,Fighting,Capcom,0.81,0.29,0.14
+1343,PS2,2006,Role-Playing,Square Enix,1.88,0.0,1.74
+3597,PS2,2009,Adventure,Idea Factory,0.0,0.0,0.0
+4219,DS,2007,Platform,Nintendo,0.28,0.02,0.03
+5256,DS,2007,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+1621,PSP,2011,Simulation,Namco Bandai Games,0.0,0.0,0.0
+711,SNES,1993,Fighting,Namco Bandai Games,0.0,0.0,0.0
+3105,SNES,1995,Puzzle,Nintendo,0.0,0.0,0.0
+5709,PS2,2009,Adventure,Idea Factory,0.0,0.0,0.0
+152,PSP,2012,Role-Playing,Atlus,0.0,0.0,0.0
+5285,PS,1998,Fighting,Sony Computer Entertainment,0.09,0.06,0.02
+3994,N64,2000,Action,Electronic Arts,1.13,0.38,0.03
+5140,DS,2008,Misc,D3Publisher,0.0,0.0,0.0
+2905,X360,2009,Action,Gamebridge,0.12,0.05,0.02
+3865,SNES,1996,Role-Playing,ASCII Entertainment,0.0,0.0,0.0
+1181,PSV,2015,Action,FuRyu,0.0,0.0,0.0
+5741,GC,2003,Adventure,Nintendo,0.24,0.06,0.01
+5892,PSV,2016,Action,Tecmo Koei,0.0,0.0,0.0
+2917,PS2,2003,Misc,Namco Bandai Games,0.0,0.0,0.0
+756,3DS,2016,Action,Nintendo,0.01,0.01,0.0
+953,3DS,2015,Action,Warner Bros. Interactive Entertainment,0.05,0.1,0.01
+3922,SAT,1998,Strategy,Sega,0.0,0.0,0.0
+2366,PS3,2010,Action,Take-Two Interactive,0.59,0.99,0.36
+4271,GB,1992,Adventure,Nintendo,6.16,2.04,0.29
+1997,SAT,1995,Simulation,Micro Cabin,0.0,0.0,0.0
+4304,PSP,2012,Adventure,Namco Bandai Games,0.0,0.0,0.0
+529,PS2,2000,Adventure,Tecmo Koei,0.0,0.0,0.0
+2256,X360,2011,Shooter,Electronic Arts,0.61,0.32,0.08
+993,GBA,2002,Action,Nintendo,1.75,0.52,0.1
+5520,NES,1990,Platform,Capcom,0.68,0.1,0.0
+5238,SNES,1993,Platform,Laguna,0.09,0.02,0.0
+4948,PS3,2010,Action,Ubisoft,1.87,0.57,0.3
+1846,Wii,2008,Sports,Konami Digital Entertainment,1.13,0.87,0.25
+2100,Wii,2007,Simulation,505 Games,1.43,1.13,0.3
+1636,PS3,2008,Sports,Electronic Arts,0.48,1.63,0.43
+791,3DS,2013,Puzzle,Nintendo,0.0,0.48,0.06
+3213,PSV,2016,Action,dramatic create,0.0,0.0,0.0
+2421,PS3,2013,Fighting,Warner Bros. Interactive Entertainment,0.48,0.53,0.23
+2930,3DS,2015,Action,Nintendo,0.0,0.01,0.0
+1092,PSP,2009,Simulation,Success,0.0,0.0,0.0
+279,PS3,2012,Platform,D3Publisher,0.0,0.0,0.0
+2913,SAT,1997,Adventure,NEC Interchannel,0.0,0.0,0.0
+5206,GB,1991,Role-Playing,SquareSoft,0.0,0.0,0.0
+4704,N64,2000,Action,Nintendo,1.9,0.67,0.06
+4824,PSV,2016,Action,Broccoli,0.0,0.0,0.0
+4189,N64,1996,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3451,PS,1999,Simulation,Konami Digital Entertainment,0.0,0.0,0.09
+1408,PS,1998,Sports,Konami Digital Entertainment,0.0,0.0,0.04
+1722,PS3,2008,Fighting,Namco Bandai Games,0.49,0.35,0.16
+5330,PSP,2012,Role-Playing,Square Enix,0.0,0.0,0.0
+6048,PSV,2014,Role-Playing,Nippon Ichi Software,0.04,0.01,0.02
+5413,PSP,2013,Role-Playing,Aqua Plus,0.0,0.0,0.0
+3415,X360,2011,Adventure,5pb,0.0,0.0,0.0
+4652,PSP,2006,Misc,Konami Digital Entertainment,0.02,0.0,0.0
+3033,PS2,2007,Adventure,Marvelous Interactive,0.0,0.0,0.0
+3158,PSP,2013,Adventure,Otomate,0.0,0.0,0.0
+4835,X360,2008,Action,Tecmo Koei,0.65,0.22,0.1
+3786,SNES,1995,Fighting,Nintendo,2.26,0.72,0.1
+2511,3DS,2012,Role-Playing,Level 5,0.0,0.0,0.0
+3902,N64,1998,Sports,Konami Digital Entertainment,0.06,0.3,0.03
+5415,PSP,2005,Shooter,Sony Computer Entertainment,1.03,0.0,0.08
+2903,3DS,2012,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+4040,DS,2008,Simulation,Broccoli,0.0,0.0,0.0
+2715,PS4,2016,Action,Capcom,0.0,0.0,0.0
+1554,3DS,2012,Action,Marvelous Entertainment,0.41,0.17,0.05
+4253,X360,2006,Shooter,Activision,1.49,0.93,0.27
+4513,PSV,2014,Action,Namco Bandai Games,0.0,0.0,0.0
+3403,3DS,2012,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+2486,PSP,2007,Platform,Capcom,0.0,0.0,0.0
+466,PS2,2006,Racing,Sony Computer Entertainment,0.0,0.0,0.0
+6027,X360,2011,Adventure,Cave,0.0,0.0,0.0
+273,X360,2007,Puzzle,Namco Bandai Games,0.14,0.02,0.02
+3186,PS2,2002,Sports,SquareSoft,0.0,0.0,0.0
+2222,DS,2007,Simulation,Electronic Arts,0.33,0.03,0.03
+4962,X360,2010,Sports,Electronic Arts,0.71,2.4,0.4
+4912,PSV,2015,Action,Kaga Create,0.0,0.0,0.0
+2439,DS,2007,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+5859,PSV,2014,Action,Sony Computer Entertainment,0.14,0.1,0.07
+5358,DS,2008,Role-Playing,Sega,0.1,0.02,0.01
+3575,PS,1998,Racing,Human Entertainment,0.0,0.0,0.03
+2782,DS,2010,Sports,Arc System Works,0.01,0.0,0.0
+657,SAT,1996,Adventure,Sega,0.0,0.0,0.0
+6066,DS,2006,Misc,Nintendo,0.0,0.0,0.0
+1578,PS3,2007,Sports,Electronic Arts,0.56,0.02,0.05
+4142,GBA,2001,Role-Playing,Nintendo,0.93,0.38,0.06
+15,PS3,2012,Sports,Electronic Arts,0.35,0.42,0.14
+4148,PSP,2009,Fighting,Namco Bandai Games,0.15,0.04,0.03
+5702,DS,2008,Adventure,Arc System Works,0.0,0.0,0.0
+939,PS3,2007,Fighting,Sega,0.29,0.52,0.2
+2810,PS3,2012,Strategy,Ackkstudios,0.0,0.0,0.0
+5196,SAT,1995,Fighting,Namco Bandai Games,0.0,0.0,0.0
+1382,PS,1997,Strategy,Banpresto,0.0,0.0,0.02
+5118,PSP,2010,Role-Playing,Atlus,0.0,0.0,0.0
+789,PS3,2014,Action,Ubisoft,0.56,0.89,0.37
+2686,SNES,1993,Racing,Nintendo,0.0,0.0,0.0
+429,PSP,2010,Role-Playing,Spike,0.0,0.0,0.0
+5280,PS2,2009,Misc,Namco Bandai Games,0.0,0.0,0.0
+3923,X360,2012,Action,Microsoft Game Studios,1.05,0.57,0.14
+855,N64,2000,Racing,Nintendo,0.0,0.0,0.0
+3807,WiiU,2013,Action,Nintendo,0.93,0.57,0.13
+150,PS,1995,Simulation,Riverhillsoft,0.0,0.0,0.0
+4559,X360,2011,Action,Tecmo Koei,0.0,0.04,0.01
+1674,GBA,2004,Platform,Nintendo,0.0,0.0,0.01
+499,PS2,2008,Action,Namco Bandai Games,0.04,0.03,0.01
+3273,DS,2010,Misc,Konami Digital Entertainment,0.0,0.0,0.0
+417,DS,2007,Role-Playing,Rising Star Games,0.16,0.0,0.01
+194,WiiU,2013,Platform,Nintendo,2.11,1.11,0.3
+3734,PS2,2005,Shooter,Namco Bandai Games,0.0,0.0,0.0
+6064,PS2,2007,Action,Sony Computer Entertainment,2.32,0.04,1.67
+4634,GC,2002,Fighting,Namco Bandai Games,0.0,0.0,0.01
+338,X360,2013,Misc,Microsoft Game Studios,5.58,2.83,0.77
+5119,PSV,2016,Adventure,D3Publisher,0.0,0.0,0.0
+3392,PS2,2006,Racing,Electronic Arts,1.22,0.05,0.01
+5535,Wii,2010,Action,Nintendo,0.87,0.31,0.1
+193,DC,1999,Fighting,Namco Bandai Games,0.0,0.0,0.0
+2718,DS,2006,Sports,Nintendo,0.99,0.04,0.1
+522,PSP,2010,Misc,Hudson Soft,0.0,0.0,0.0
+5678,PS2,2001,Sports,Electronic Arts,2.5,0.16,0.42
+2752,PS3,2013,Action,Warner Bros. Interactive Entertainment,1.07,0.87,0.4
+1637,X360,2010,Action,Tecmo Koei,0.11,0.04,0.01
+2944,PS2,2001,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+98,PS2,2000,Sports,Electronic Arts,0.78,0.61,0.2
+50,PS,1999,Simulation,Konami Digital Entertainment,0.0,0.0,0.03
+5031,3DS,2015,Action,Rocket Company,0.0,0.0,0.0
+372,PSP,2012,Sports,Namco Bandai Games,0.0,0.0,0.0
+4433,PS2,2004,Action,Capcom,0.37,0.47,0.07
+1913,PSP,2006,Shooter,Konami Digital Entertainment,0.04,0.0,0.0
+4813,SNES,1993,Role-Playing,Enix Corporation,0.0,0.0,0.0
+6023,PSP,2010,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+1211,NES,1993,Platform,Nintendo,0.79,0.14,0.02
+63,PSP,2010,Role-Playing,Gust,0.0,0.0,0.0
+892,3DS,2014,Adventure,Capcom,0.0,0.0,0.0
+653,PSV,2016,Adventure,Idea Factory,0.0,0.0,0.0
+1979,DS,2006,Misc,Namco Bandai Games,0.0,0.0,0.0
+2105,PS,1999,Sports,Activision,3.42,1.38,0.2
+4965,X360,2011,Sports,Microsoft Game Studios,1.38,0.74,0.22
+76,DS,2010,Simulation,MTO,0.0,0.0,0.0
+3104,3DS,2015,Sports,Namco Bandai Games,0.0,0.0,0.0
+19,SAT,1996,Fighting,SNK,0.0,0.0,0.0
+3908,DS,2008,Role-Playing,Konami Digital Entertainment,0.09,0.01,0.01
+5288,PSV,2015,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+339,NES,1991,Sports,Namco Bandai Games,0.0,0.0,0.0
+5566,PS2,2006,Role-Playing,505 Games,0.0,0.0,0.0
+2829,PS4,2015,Action,Warner Bros. Interactive Entertainment,0.32,0.58,0.17
+5538,PSP,2006,Fighting,Sony Computer Entertainment,0.76,1.1,0.65
+5421,PS3,2007,Sports,Sony Computer Entertainment,0.31,0.03,0.04
+1297,PSP,2010,Adventure,D3Publisher,0.0,0.0,0.0
+1564,PS,1998,Misc,Sony Computer Entertainment,0.12,0.08,0.04
+4875,PC,1997,Shooter,Vivendi Games,4.03,0.0,0.0
+3557,PS2,2007,Fighting,Sony Computer Entertainment,0.0,0.0,0.0
+5331,3DS,2014,Misc,FuRyu,0.0,0.0,0.0
+5199,PSP,2009,Strategy,Namco Bandai Games,0.0,0.0,0.0
+4313,PS,1999,Shooter,Sony Computer Entertainment,2.03,0.72,0.11
+5993,DS,2008,Platform,505 Games,0.0,0.0,0.0
+570,PSP,2009,Action,Namco Bandai Games,0.0,0.0,0.0
+503,GG,1992,Platform,Sega,0.0,0.0,0.0
+3836,PS3,2013,Action,Ubisoft,0.34,0.41,0.18
+2961,GC,2004,Platform,Activision,0.73,0.26,0.03
+1407,PSP,2013,Adventure,Idea Factory,0.0,0.0,0.0
+3010,PS2,2009,Adventure,Sweets,0.0,0.0,0.0
+3464,PS4,2014,Action,Activision,0.2,0.25,0.09
+886,PS3,2010,Shooter,Electronic Arts,1.33,1.12,0.45
+3897,PS4,2015,Misc,Namco Bandai Games,0.0,0.0,0.0
+1313,PS,1997,Role-Playing,Capcom,0.29,0.19,0.07
+3681,PSP,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+2973,PS2,2000,Role-Playing,Ubisoft,0.1,0.07,0.03
+2136,X360,2005,Shooter,Activision,1.81,0.05,0.15
+5309,PSV,2014,Action,FuRyu,0.0,0.0,0.0
+4159,PSP,2010,Adventure,ASCII Media Works,0.0,0.0,0.0
+4139,PS,2000,Strategy,Namco Bandai Games,0.0,0.0,0.04
+4936,WiiU,2015,Misc,Nintendo,0.0,0.0,0.0
+23,PSP,2008,Role-Playing,Falcom Corporation,0.0,0.0,0.0
+3565,PS,2000,Sports,Konami Digital Entertainment,0.0,0.0,0.03
+5961,PSV,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+4006,PS,1998,Role-Playing,Namco Bandai Games,0.0,0.0,0.04
+5495,PSV,2013,Role-Playing,Compile Heart,0.09,0.0,0.02
+2719,DS,2010,Misc,Konami Digital Entertainment,0.0,0.0,0.0
+4273,PS2,2008,Fighting,Tryfirst,0.0,0.0,0.0
+3532,PSV,2016,Action,Tecmo Koei,0.0,0.0,0.0
+2239,GC,2005,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3533,PSP,2007,Puzzle,Sega,0.0,0.0,0.0
+3560,PS,1995,Shooter,Ocean,0.06,0.04,0.01
+3942,3DS,2012,Action,Level 5,0.0,0.0,0.0
+2631,PS,1999,Strategy,Tecmo Koei,0.0,0.0,0.01
+5701,DS,2007,Misc,Benesse,0.0,0.0,0.0
+1826,PS4,2014,Role-Playing,Square Enix,0.17,0.23,0.09
+1889,SNES,1992,Fighting,Capcom,1.42,0.51,0.07
+5607,PSP,2011,Adventure,Idea Factory,0.0,0.0,0.0
+3107,PSP,2007,Role-Playing,Square Enix,0.36,0.03,0.04
+5945,GBA,2004,Puzzle,Nintendo,0.68,0.25,0.02
+3610,PS3,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+1905,PS2,2007,Sports,Namco Bandai Games,0.0,0.0,0.0
+1709,3DS,2015,Role-Playing,Square Enix,0.0,0.0,0.0
+5708,WiiU,2015,Misc,Nintendo,0.69,0.5,0.11
+3372,PS3,2011,Action,Tecmo Koei,0.25,0.14,0.06
+1215,GEN,1992,Fighting,Sega,1.0,0.3,0.04
+949,X360,2010,Action,Square Enix,0.59,0.85,0.17
+3004,Wii,2008,Sports,Takara Tomy,0.0,0.0,0.0
+3218,X360,2007,Shooter,Take-Two Interactive,1.65,0.86,0.28
+3731,PS4,2015,Fighting,Sega,0.0,0.0,0.0
+1003,PS2,2002,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2414,X360,2011,Adventure,Take-Two Interactive,1.52,0.94,0.24
+2783,PSP,2010,Fighting,SNK Playmore,0.0,0.0,0.0
+3718,3DS,2011,Role-Playing,Acquire,0.0,0.0,0.0
+2476,DS,2010,Adventure,Namco Bandai Games,0.0,0.0,0.0
+5697,DS,2004,Platform,Nintendo,5.08,3.11,0.98
+111,GB,1991,Strategy,Nintendo,0.0,0.0,0.0
+5728,3DS,2011,Simulation,Nintendo,1.44,1.37,0.27
+5877,PS3,2008,Action,THQ,0.88,0.54,0.25
+848,PSP,2011,Fighting,Namco Bandai Games,0.0,0.0,0.0
+5220,DS,2007,Fighting,Namco Bandai Games,0.0,0.0,0.0
+5078,DS,2007,Strategy,Tecmo Koei,0.0,0.0,0.0
+1496,PSP,2007,Adventure,Namco Bandai Games,0.0,0.0,0.0
+2077,PSP,2011,Adventure,Alchemist,0.0,0.0,0.0
+497,PS2,2003,Strategy,Banpresto,0.0,0.0,0.0
+2590,PS2,2004,Sports,Enterbrain,0.0,0.0,0.0
+1570,PS3,2006,Misc,Konami Digital Entertainment,0.0,0.0,0.0
+4236,PS2,2007,Misc,D3Publisher,0.0,0.0,0.0
+5162,3DS,2014,Role-Playing,Nintendo,0.08,0.04,0.01
+4957,PSV,2012,Role-Playing,Falcom Corporation,0.0,0.0,0.0
+2972,GBA,2004,Adventure,Nintendo,0.0,0.0,0.0
+3963,PS2,2006,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+1286,Wii,2012,Role-Playing,Level 5,0.0,0.0,0.0
+2989,PSV,2013,Shooter,Sony Computer Entertainment Europe,0.25,0.49,0.22
+561,PS3,2007,Action,Eidos Interactive,0.57,0.33,0.16
+5635,PS3,2014,Shooter,Take-Two Interactive,0.25,0.26,0.11
+4088,PSP,2011,Fighting,Konami Digital Entertainment,0.0,0.0,0.0
+4863,SNES,1992,Shooter,Konami Digital Entertainment,0.0,0.0,0.0
+2156,PS3,2012,Action,Sony Computer Entertainment,0.18,0.05,0.03
+3609,SNES,1995,Simulation,THQ,0.0,0.0,0.0
+3455,DS,2007,Adventure,PQube,0.06,0.0,0.0
+1990,PS3,2014,Sports,Konami Digital Entertainment,0.1,0.23,0.08
+358,PS2,2010,Adventure,Idea Factory,0.0,0.0,0.0
+4069,PS3,2007,Sports,Tecmo Koei,0.0,0.0,0.0
+1611,PS3,2012,Shooter,Take-Two Interactive,0.19,0.25,0.09
+1806,PSP,2011,Adventure,5pb,0.0,0.0,0.0
+1147,DS,2009,Adventure,Disney Interactive Studios,0.57,0.35,0.1
+4020,DS,2006,Platform,Nintendo,0.79,0.03,0.08
+1745,PS3,2014,Action,Tecmo Koei,0.0,0.0,0.0
+4227,PSP,2013,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+5784,PCFX,1996,Role-Playing,NEC,0.0,0.0,0.0
+2277,PS4,2016,Action,Namco Bandai Games,0.0,0.0,0.0
+1032,DS,2009,Action,Sega,0.0,0.0,0.0
+564,DC,2000,Fighting,Virgin Interactive,0.0,0.0,0.0
+4961,X360,2011,Sports,Take-Two Interactive,2.31,0.14,0.16
+3545,PSV,2015,Action,HuneX,0.0,0.0,0.0
+4210,DS,2008,Role-Playing,Konami Digital Entertainment,0.04,0.01,0.0
+2589,PS3,2007,Action,Activision,0.32,0.04,0.04
+1931,PS3,2008,Shooter,Electronic Arts,0.29,0.4,0.16
+4038,PS3,2013,Action,Deep Silver,0.12,0.04,0.02
+3602,PS2,2002,Role-Playing,Idea Factory,0.0,0.0,0.0
+5272,PS3,2012,Sports,Konami Digital Entertainment,0.18,0.64,0.25
+5976,PSP,2012,Role-Playing,Kadokawa Games,0.0,0.0,0.0
+5691,Wii,2007,Sports,Rising Star Games,0.08,0.0,0.01
+3049,PS4,2014,Action,Warner Bros. Interactive Entertainment,0.24,0.31,0.11
+2620,PSP,2010,Role-Playing,Marvelous Interactive,0.18,0.01,0.02
+1563,PSP,2009,Adventure,CyberFront,0.0,0.0,0.0
+2197,X360,2011,Shooter,Bethesda Softworks,0.59,0.35,0.09
+105,PS3,2008,Action,Namco Bandai Games,0.09,0.07,0.03
+2521,PS4,2014,Action,Take-Two Interactive,3.8,5.81,2.02
+4366,PS2,2007,Role-Playing,Sega,0.1,0.08,0.03
+1842,DS,2010,Adventure,Culture Brain,0.0,0.0,0.0
+47,PS2,2007,Strategy,Banpresto,0.0,0.0,0.0
+563,3DS,2012,Action,FuRyu,0.0,0.0,0.0
+4861,3DS,2012,Action,Disney Interactive Studios,0.36,0.04,0.04
+2280,PS3,2011,Shooter,Codemasters,0.06,0.15,0.05
+3831,3DS,2015,Action,Arc System Works,0.0,0.0,0.0
+2703,DS,2010,Adventure,Sega,0.0,0.0,0.0
+5290,GC,2001,Fighting,Nintendo,4.41,1.04,0.22
+5303,3DS,2013,Simulation,Office Create,0.0,0.0,0.0
+1873,PS2,2005,Role-Playing,Square Enix,0.06,0.04,0.01
+5073,X360,2013,Adventure,5pb,0.0,0.0,0.0
+645,PS2,2008,Misc,Paon,0.0,0.0,0.0
+1480,PSV,2015,Adventure,Idea Factory,0.0,0.0,0.0
+837,GC,2003,Racing,Nintendo,1.01,0.11,0.04
+5785,3DS,2012,Fighting,Nintendo,0.06,0.08,0.01
+3198,PS3,2013,Action,Deep Silver,0.26,0.2,0.09
+2962,N64,1997,Fighting,THQ,1.37,0.28,0.02
+5019,PSP,2010,Misc,Asgard,0.0,0.0,0.0
+250,X360,2012,Shooter,Ubisoft,1.38,1.35,0.28
+515,XOne,2015,Action,Konami Digital Entertainment,0.37,0.26,0.06
+123,NES,1985,Puzzle,Nintendo,0.73,0.16,0.03
+599,PS4,2015,Sports,Take-Two Interactive,2.48,0.65,0.69
+200,PS3,2011,Platform,Sony Computer Entertainment,0.75,0.22,0.12
+5962,PS2,2007,Adventure,Datam Polystar,0.0,0.0,0.0
+4024,N64,1997,Sports,Konami Digital Entertainment,0.0,0.0,0.05
+1061,PS,1998,Action,Konami Digital Entertainment,3.18,1.83,0.24
+2550,PS2,2003,Misc,Hudson Soft,0.0,0.0,0.0
+3387,PS2,2009,Misc,Tecmo Koei,0.0,0.0,0.0
+1862,PSP,2010,Adventure,Sega,0.0,0.0,0.0
+1974,GB,1998,Platform,Nintendo,0.0,0.0,0.0
+2336,PSP,2005,Sports,Sega,0.0,0.0,0.0
+2753,PS2,2006,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+5928,PS2,2005,Action,Sony Computer Entertainment,0.78,0.03,0.13
+3027,SAT,1996,Adventure,Societa,0.0,0.0,0.0
+3931,N64,1999,Shooter,Nintendo,0.78,0.28,0.02
+1153,PS2,2006,Action,Essential Games,0.0,0.0,0.0
+980,DS,2008,Misc,Global A Entertainment,0.0,0.0,0.0
+3133,PSP,2012,Action,Idea Factory,0.0,0.0,0.0
+5971,PS2,2002,Strategy,Namco Bandai Games,0.0,0.0,0.0
+5838,PSP,2009,Role-Playing,Atlus,0.07,0.0,0.01
+2773,X360,2008,Role-Playing,Compile Heart,0.18,0.0,0.01
+3935,PS,1995,Action,Sony Computer Entertainment,0.0,0.0,0.01
+3663,PS2,2004,Strategy,Banpresto,0.0,0.0,0.0
+5388,PSP,2012,Fighting,Namco Bandai Games,0.0,0.0,0.0
+5324,X360,2009,Shooter,DTP Entertainment,0.14,0.02,0.01
+2092,3DS,2013,Role-Playing,GungHo,0.0,0.0,0.0
+5557,GC,2005,Misc,Nintendo,0.95,0.11,0.04
+3832,XOne,2014,Adventure,5pb,0.0,0.0,0.0
+852,PSP,2010,Adventure,5pb,0.0,0.0,0.0
+3590,DS,2008,Misc,Square Enix,0.0,0.0,0.0
+1568,PSV,2014,Action,Sony Computer Entertainment,0.01,0.12,0.04
+2918,PS2,2008,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+4764,N64,1999,Platform,Konami Digital Entertainment,0.44,0.1,0.05
+1288,PS2,2006,Action,Eidos Interactive,0.25,0.19,0.06
+2977,Wii,2006,Misc,Nintendo,14.03,9.2,2.85
+836,PSP,2012,Role-Playing,Image Epoch,0.0,0.0,0.0
+4064,X360,2012,Fighting,Atlus,0.08,0.02,0.01
+4774,NES,1984,Sports,Nintendo,0.48,0.11,0.02
+4136,PS4,2014,Action,Tecmo Koei,0.04,0.05,0.02
+1123,PS2,2004,Role-Playing,Konami Digital Entertainment,0.17,0.13,0.05
+5253,DS,2008,Misc,Nintendo,0.0,0.0,0.0
+3679,DS,2006,Misc,Nintendo,0.0,0.0,0.0
+3940,GBA,2004,Role-Playing,Nintendo,4.34,2.65,0.35
+4608,PS3,2007,Role-Playing,Ghostlight,0.0,0.03,0.01
+1831,WiiU,2013,Action,Warner Bros. Interactive Entertainment,0.31,0.35,0.06
+629,PS2,2002,Sports,Activision,2.13,1.18,0.35
+1486,X360,2009,Action,Eidos Interactive,2.2,0.97,0.31
+3562,DS,2007,Puzzle,D3Publisher,0.28,0.01,0.02
+4497,3DS,2014,Role-Playing,imageepoch Inc.,0.0,0.0,0.0
+3928,PSP,2006,Adventure,Namco Bandai Games,0.0,0.0,0.0
+4138,PS3,2006,Racing,Electronic Arts,0.49,0.52,0.21
+640,3DS,2015,Role-Playing,Atlus,0.16,0.01,0.02
+1136,GC,2003,Platform,Sega,0.87,0.3,0.03
+2172,PS2,2001,Platform,Universal Interactive,2.07,2.29,0.82
+421,PS2,2008,Fighting,Ignition Entertainment,0.0,0.0,0.0
+596,3DS,2014,Misc,Namco Bandai Games,0.0,0.0,0.0
+1679,DS,2010,Action,Namco Bandai Games,0.0,0.0,0.0
+3439,PSP,2014,Action,Tecmo Koei,0.0,0.0,0.0
+288,DS,2008,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+5056,PS2,2007,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+2375,PS2,2009,Misc,D3Publisher,0.0,0.0,0.0
+2483,PS2,2004,Role-Playing,Square Enix,0.65,0.75,0.2
+4688,PSV,2014,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+4178,PS,1995,Sports,Human Entertainment,0.0,0.0,0.01
+2680,PS3,2013,Action,Deep Silver,0.56,0.44,0.21
+4226,GBA,2004,Platform,Nintendo,0.1,0.04,0.01
+5398,PSP,2011,Strategy,Acquire,0.0,0.0,0.0
+3756,DC,1999,Adventure,Activision,0.0,0.0,0.0
+4680,PS4,2015,Sports,Konami Digital Entertainment,0.13,0.42,0.1
+1773,PS3,2013,Role-Playing,Square Enix,0.1,0.0,0.02
+4732,PSP,2009,Adventure,Spike,0.0,0.0,0.0
+2765,PS2,2007,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3115,SAT,1998,Adventure,Imagineer,0.0,0.0,0.0
+2266,PS,1998,Strategy,Virgin Interactive,0.03,0.02,0.02
+4814,PS3,2013,Racing,Codemasters,0.01,0.45,0.15
+4399,X360,2006,Action,Capcom,1.16,0.65,0.2
+4980,SAT,1997,Fighting,Tecmo Koei,0.0,0.0,0.0
+1091,X360,2008,Role-Playing,Atari,0.32,0.18,0.05
+3870,PS2,2004,Sports,Electronic Arts,0.58,2.48,0.59
+2477,GBA,2001,Fighting,Ubisoft,0.09,0.03,0.0
+5283,PS3,2010,Racing,Sony Computer Entertainment,2.96,4.88,2.12
+5159,DS,2007,Puzzle,Nintendo,0.0,0.0,0.0
+5950,N64,2000,Strategy,Nintendo,1.02,0.36,0.23
+3271,X360,2010,Action,THQ,0.67,0.29,0.1
+4294,PS2,2001,Fighting,THQ,1.19,1.15,0.41
+55,PS2,2007,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+2546,PS2,2009,Adventure,Revolution (Japan),0.0,0.0,0.0
+1721,SNES,1996,Role-Playing,SquareSoft,0.0,0.0,0.0
+600,GC,2002,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2878,PS4,2015,Shooter,Electronic Arts,2.93,3.29,1.23
+1162,PS2,2006,Role-Playing,Square Enix,0.06,0.05,0.02
+3058,PS3,2009,Strategy,Aqua Plus,0.0,0.0,0.0
+669,XB,2002,Racing,Sega,0.14,0.04,0.01
+5676,DS,2009,Racing,Tecmo Koei,0.05,0.0,0.0
+1011,N64,1997,Shooter,Acclaim Entertainment,0.0,0.0,0.0
+3599,NES,1983,Platform,Nintendo,0.23,0.05,0.01
+5803,PSP,2010,Adventure,5pb,0.0,0.0,0.0
+5071,PSP,2011,Sports,Sega,0.0,0.0,0.0
+1338,PS2,2010,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+3217,DS,2010,Role-Playing,Atlus,0.24,0.0,0.02
+4920,DS,2006,Fighting,Nintendo,0.0,0.0,0.0
+783,DS,2009,Misc,Nintendo,0.18,0.19,0.04
+3581,PS2,2000,Sports,Electronic Arts,0.17,0.13,0.04
+1283,SNES,1993,Role-Playing,Epoch,0.0,0.0,0.0
+1182,PSV,2012,Action,Electronic Arts,0.0,0.3,0.12
+2601,XB,2003,Sports,Microsoft Game Studios,0.36,0.08,0.02
+5682,X360,2010,Shooter,THQ,0.22,0.24,0.05
+4616,PS,1997,Platform,Konami Digital Entertainment,0.58,0.4,0.08
+5522,Wii,2008,Simulation,Rising Star Games,0.6,0.09,0.05
+5938,PS4,2015,Racing,Slightly Mad Studios,0.17,0.69,0.15
+1549,SAT,1995,Sports,Sega,0.0,0.0,0.0
+1551,WiiU,2014,Fighting,Nintendo,2.59,1.06,0.57
+3645,DS,2007,Adventure,Capcom,0.32,0.06,0.04
+1864,PS3,2010,Role-Playing,Ubisoft Annecy,0.06,0.03,0.02
+2482,DS,2007,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2267,PS2,2009,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+4021,PS2,2005,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+5431,3DS,2014,Role-Playing,Nintendo,0.67,0.49,0.11
+891,PS,1998,Sports,Konami Digital Entertainment,0.0,0.0,0.02
+5625,PSP,2009,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+3925,XOne,2015,Shooter,Microsoft Game Studios,2.64,1.2,0.39
+1229,PS3,2011,Role-Playing,Bethesda Softworks,2.55,2.71,1.05
+4949,SNES,1996,Puzzle,Compile,0.0,0.0,0.0
+4767,PS3,2013,Adventure,Sony Computer Entertainment,0.52,0.88,0.34
+3112,DS,2010,Simulation,Natsume,0.27,0.06,0.03
+3656,PSV,2012,Misc,Sega,0.0,0.0,0.0
+4677,PSV,2013,Sports,Sega,0.0,0.0,0.0
+2643,PSV,2014,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+5942,DS,2008,Role-Playing,Sega,0.51,0.29,0.09
+3783,PSV,2015,Action,Tecmo Koei,0.0,0.0,0.0
+3379,SAT,1995,Misc,Jaleco,0.0,0.0,0.0
+5380,PS2,2006,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+1555,SAT,1997,Strategy,Elf,0.0,0.0,0.0
+4526,PS2,2010,Action,Russel,0.0,0.0,0.0
+525,PS,1997,Role-Playing,Square,0.0,0.0,0.04
+2095,X360,2011,Fighting,Namco Bandai Games,0.39,0.1,0.04
+6008,DS,2008,Action,Takara Tomy,0.0,0.0,0.0
+2819,PS4,2016,Action,Tecmo Koei,0.0,0.0,0.0
+539,DS,2005,Puzzle,Nintendo,3.44,5.36,1.18
+1267,PS2,2003,Action,Tecmo Koei,0.63,0.21,0.13
+5792,PS2,2007,Misc,Jaleco,0.0,0.0,0.0
+4351,PS3,2010,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2438,PSV,2015,Action,Konami Digital Entertainment,0.0,0.0,0.0
+3995,X360,2006,Racing,Atari,0.23,0.04,0.03
+2951,3DS,2011,Role-Playing,Nintendo,0.46,0.29,0.07
+3401,PSV,2014,Misc,Sony Computer Entertainment Europe,0.28,0.79,0.32
+203,PSP,2011,Role-Playing,Square Enix,0.13,0.09,0.06
+1809,PS3,2008,Strategy,Aqua Plus,0.0,0.0,0.0
+2416,GC,2003,Fighting,Namco Bandai Games,0.0,0.0,0.01
+3071,PSP,2006,Fighting,Majesco Entertainment,0.13,0.0,0.01
+1667,XB,2002,Action,Capcom,0.14,0.04,0.01
+3568,PSP,2014,Misc,Marvelous Interactive,0.0,0.0,0.0
+4926,PSP,2012,Role-Playing,Alchemist,0.0,0.0,0.0
+3612,DS,2010,Sports,Arc System Works,0.04,0.0,0.0
+745,PS3,2014,Action,Activision,0.04,0.05,0.02
+4979,PSP,2009,Role-Playing,Nippon Ichi Software,0.1,0.01,0.02
+5822,N64,1997,Sports,Konami Digital Entertainment,0.0,0.0,0.05
+5440,PS4,2015,Action,Namco Bandai Games,0.08,0.22,0.05
+3576,Wii,2008,Action,Activision,0.3,0.29,0.07
+3628,DS,2011,Action,Namco Bandai Games,0.0,0.0,0.0
+616,3DS,2013,Platform,Nintendo,0.51,0.75,0.12
+2412,3DS,2014,Sports,Namco Bandai Games,0.0,0.0,0.0
+1207,DS,2010,Action,Namco Bandai Games,0.05,0.02,0.01
+5922,PS3,2012,Action,Electronic Arts,1.06,5.05,2.01
+1932,PSP,2010,Adventure,Aqua Plus,0.0,0.0,0.0
+4190,PS3,2011,Role-Playing,Compile Heart,0.0,0.0,0.0
+354,PS2,2005,Fighting,Namco Bandai Games,0.93,1.94,0.7
+4807,PS4,2015,Role-Playing,Namco Bandai Games,0.2,0.22,0.08
+5195,PS4,2015,Adventure,Sony Computer Entertainment Europe,0.44,0.89,0.25
+1295,X360,2011,Action,Ubisoft Annecy,0.09,0.03,0.01
+3124,PS,1998,Fighting,Capcom,0.12,0.08,0.03
+2996,PSP,2010,Misc,Ubisoft Annecy,0.07,0.02,0.02
+4087,PS,1998,Fighting,SquareSoft,0.25,0.17,0.04
+6033,PS4,2016,Action,Square Enix,0.0,0.0,0.0
+2023,PS3,2012,Simulation,D3Publisher,0.0,0.0,0.0
+385,X360,2010,Shooter,Sega,0.19,0.17,0.04
+4382,PS2,2006,Adventure,Aqua Plus,0.0,0.0,0.0
+5468,DS,2006,Role-Playing,Nintendo,0.0,0.0,0.0
+3322,N64,1999,Racing,Takara,0.0,0.0,0.0
+5102,PSV,2014,Adventure,Type-Moon,0.0,0.0,0.0
+138,PS,1997,Simulation,Tecmo Koei,0.12,0.08,0.07
+2995,SAT,1998,Strategy,Banpresto,0.0,0.0,0.0
+3125,PS4,2016,Misc,Sega,0.01,0.0,0.0
+4801,GBA,2004,Platform,Nintendo,0.0,0.0,0.01
+3194,PS4,2015,Role-Playing,Nippon Ichi Software,0.02,0.0,0.0
+4145,PS3,2007,Action,Sony Computer Entertainment,2.31,1.73,0.78
+121,DS,2008,Misc,Benesse,0.0,0.0,0.0
+2895,Wii,2011,Action,Capcom,0.0,0.0,0.0
+5221,PSP,2011,Role-Playing,Gust,0.0,0.0,0.0
+2492,DS,2006,Misc,Sega,0.0,0.0,0.0
+1571,PS2,2006,Sports,Electronic Arts,3.63,0.24,0.61
+2566,SAT,1997,Sports,Sega,0.0,0.0,0.0
+3319,PS3,2006,Simulation,Ongakukan,0.0,0.0,0.0
+2365,PS2,2001,Platform,Sony Computer Entertainment,0.12,0.1,0.03
+3742,PSP,2013,Adventure,Boost On,0.0,0.0,0.0
+3766,PS,1997,Strategy,Sony Computer Entertainment,0.0,0.0,0.01
+3155,PSV,2013,Sports,Electronic Arts,0.11,0.25,0.13
+411,PS3,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+3654,SAT,1998,Adventure,Sega,0.0,0.0,0.0
+3827,Wii,2007,Misc,Namco Bandai Games,0.0,0.0,0.0
+5661,PS,1997,Fighting,Capcom,0.16,0.11,0.03
+4551,PS2,2008,Simulation,Konami Digital Entertainment,0.85,0.66,0.22
+2437,PSP,2012,Action,Sega,0.0,0.0,0.0
+3991,DS,2006,Action,Nintendo,0.0,0.0,0.0
+889,3DS,2014,Strategy,Namco Bandai Games,0.0,0.0,0.0
+5045,PS,1998,Misc,Sony Computer Entertainment,0.09,0.06,0.04
+17,SAT,1994,Sports,Sega,0.0,0.0,0.0
+2635,PS,1999,Role-Playing,Enix Corporation,0.07,0.05,0.05
+5667,PS3,2011,Shooter,Sega,0.09,0.07,0.03
+2958,PSV,2014,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+3335,X360,2009,Action,Sega,0.51,0.26,0.08
+5202,PSP,2008,Fighting,Square Enix,0.51,0.51,0.32
+316,SAT,1997,Strategy,Sega,0.0,0.0,0.0
+4436,PSP,2012,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+234,PS2,2006,Simulation,Hamster Corporation,0.0,0.0,0.0
+153,SAT,1995,Shooter,Sega,0.0,0.0,0.0
+784,PSV,2014,Fighting,Namco Bandai Games,0.0,0.07,0.02
+2505,3DS,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+896,3DS,2016,Action,Level 5,0.0,0.0,0.0
+5456,PSP,2008,Adventure,Idea Factory,0.0,0.0,0.0
+764,PS4,2015,Racing,Milestone S.r.l.,0.0,0.12,0.02
+5305,PS2,2006,Misc,D3Publisher,0.0,0.0,0.0
+2743,X360,2011,Fighting,PQube,0.0,0.03,0.0
+4240,PS3,2013,Shooter,Activision,4.09,3.73,1.38
+5152,PSP,2012,Action,Idea Factory,0.0,0.0,0.0
+5934,GBA,2002,Platform,Nintendo,1.75,0.45,0.09
+3689,PSV,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+3187,PSP,2007,Racing,Sega,0.1,0.22,0.12
+5080,PS2,2000,Puzzle,Sony Computer Entertainment,0.0,0.0,0.0
+52,GB,2000,Platform,Capcom,0.0,0.0,0.0
+1077,Wii,2011,Misc,Nintendo,0.0,0.0,0.0
+329,Wii,2009,Adventure,Nintendo,0.0,0.03,0.0
+1331,DS,2011,Misc,Nintendo,0.0,0.0,0.0
+2955,N64,2000,Sports,Nintendo,0.78,0.4,0.07
+1385,PS3,2011,Action,Konami Digital Entertainment,0.0,0.0,0.0
+4678,DS,2006,Action,Takara Tomy,0.0,0.0,0.0
+746,PS2,2002,Fighting,Namco Bandai Games,1.55,1.27,0.29
+3255,GBA,2004,Puzzle,Nintendo,0.25,0.09,0.01
+5823,WiiU,2016,Fighting,Namco Bandai Games,0.47,0.22,0.07
+4266,PS4,2016,Action,Capcom,0.0,0.0,0.0
+3446,PS2,2006,Fighting,Sony Computer Entertainment,0.0,0.0,0.0
+1443,Wii,2009,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+4648,3DS,2015,Misc,Square Enix,0.0,0.0,0.0
+1828,PS3,2014,Action,Konami Digital Entertainment,0.03,0.13,0.04
+1942,Wii,2007,Fighting,Takara Tomy,0.0,0.0,0.0
+4286,PS3,2015,Sports,Electronic Arts,0.4,1.98,0.42
+5439,SNES,1996,Fighting,Nintendo,0.0,0.0,0.0
+3121,PSP,2010,Adventure,Idea Factory,0.0,0.0,0.0
+3941,DS,2005,Platform,Namco Bandai Games,0.09,0.0,0.01
+4501,PSP,2009,Adventure,Prototype,0.0,0.0,0.0
+2097,GBA,2004,Racing,Nintendo,0.11,0.04,0.01
+3299,DS,2007,Strategy,Namco Bandai Games,0.0,0.0,0.0
+5826,X360,2011,Action,Warner Bros. Interactive Entertainment,2.99,1.31,0.41
+1552,DS,2007,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+1882,DS,2008,Sports,Nintendo,0.22,0.32,0.07
+5852,PS2,2004,Strategy,Tecmo Koei,0.0,0.0,0.0
+5489,Wii,2009,Role-Playing,Rising Star Games,0.1,0.01,0.01
+771,PS2,2004,Puzzle,Namco Bandai Games,0.47,0.02,0.08
+3885,3DS,2011,Platform,Nippon Ichi Software,0.09,0.03,0.01
+2734,DS,2007,Role-Playing,Square Enix,0.34,0.42,0.1
+5109,PS4,2015,Action,Sony Computer Entertainment,1.96,1.69,0.74
+4234,GBA,2004,Platform,Nintendo,0.0,0.0,0.03
+4945,PS4,2016,Action,Nippon Ichi Software,0.0,0.01,0.0
+1189,GB,1999,Platform,Nintendo,3.4,1.3,0.22
+1426,GBA,2003,Role-Playing,Capcom,0.31,0.04,0.01
+330,PS2,2008,Strategy,Namco Bandai Games,0.0,0.0,0.0
+2751,PSV,2016,Adventure,dramatic create,0.0,0.0,0.0
+4628,DS,2008,Simulation,Tecmo Koei,0.0,0.0,0.0
+4615,DS,2010,Role-Playing,Enterbrain,0.0,0.0,0.0
+1695,DS,2007,Misc,Capcom,0.0,0.0,0.0
+5448,PS2,2007,Misc,Hackberry,0.0,0.0,0.0
+3126,N64,1997,Platform,Nintendo,1.29,0.53,0.05
+471,GBA,2002,Sports,Konami Digital Entertainment,0.0,0.0,0.01
+1830,SAT,1995,Strategy,Tecmo Koei,0.0,0.0,0.0
+4757,GEN,1993,Adventure,Sega,0.0,0.0,0.0
+1693,DS,2009,Strategy,Sega,0.0,0.0,0.0
+1965,GBA,2003,Platform,Nintendo,1.2,0.48,0.07
+5392,PS3,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+1961,SAT,1995,Role-Playing,Sega,0.0,0.0,0.0
+2194,PSP,2009,Role-Playing,Gust,0.0,0.0,0.0
+263,PS3,2010,Shooter,Square Enix,0.09,0.07,0.03
+2093,PS3,2011,Adventure,Sony Computer Entertainment,0.67,0.37,0.17
+5203,PSP,2008,Fighting,Namco Bandai Games,0.0,0.0,0.0
+3235,DS,2008,Simulation,Rising Star Games,0.35,0.03,0.03
+1356,X360,2006,Shooter,Ubisoft,0.0,0.0,0.0
+2004,3DS,2015,Action,Nintendo,0.52,0.33,0.08
+5611,PS3,2007,Sports,Konami Digital Entertainment,0.04,1.1,0.13
+5072,PSP,2010,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+1771,PS,1999,Action,Konami Digital Entertainment,0.71,0.48,0.1
+2822,NES,1991,Puzzle,Nintendo,0.7,0.13,0.01
+3904,PS3,2011,Role-Playing,Nippon Ichi Software,0.05,0.0,0.01
+5490,DS,2007,Sports,Ubisoft,0.0,0.0,0.0
+1601,PSP,2010,Role-Playing,Nippon Ichi Software,0.0,0.0,0.0
+5868,PS2,2007,Adventure,Yeti,0.0,0.0,0.0
+1171,GC,2001,Racing,Nintendo,0.4,0.1,0.02
+630,DS,2008,Simulation,Nintendo,0.63,0.84,0.19
+1080,GBA,2001,Platform,Nintendo,3.21,1.11,0.2
+3914,PSV,2014,Adventure,Kadokawa Games,0.0,0.0,0.0
+5951,PSP,2013,Adventure,Broccoli,0.0,0.0,0.0
+83,PS3,2008,Adventure,Sega,0.0,0.0,0.0
+4609,PSP,2010,Adventure,Yeti,0.0,0.0,0.0
+4442,PS3,2009,Action,Sega,0.21,0.21,0.08
+4272,PS,1998,Racing,Jaleco,0.0,0.0,0.0
+3739,PS2,2007,Misc,Konami Digital Entertainment,0.0,0.0,0.0
+4597,PS2,2005,Misc,Namco Bandai Games,0.0,0.0,0.0
+878,DS,2010,Misc,Hudson Soft,0.0,0.0,0.0
+6032,SNES,1990,Racing,Nintendo,1.37,0.51,0.07
+3860,3DS,2012,Action,Genki,0.0,0.0,0.0
+30,PS3,2013,Shooter,Capcom,0.07,0.06,0.03
+1276,SAT,1997,Platform,Sega,0.0,0.0,0.0
+2892,WiiU,2012,Action,Disney Interactive Studios,0.14,0.07,0.02
+3411,PSP,2012,Adventure,D3Publisher,0.0,0.0,0.0
+4298,GB,1999,Role-Playing,Nintendo,9.0,6.18,0.71
+1498,3DS,2015,Adventure,Namco Bandai Games,0.0,0.0,0.0
+1963,PSP,2008,Adventure,Namco Bandai Games,0.0,0.0,0.0
+2831,DS,2007,Platform,Sega,0.54,0.49,0.12
+3712,PS3,2015,Action,Tecmo Koei,0.0,0.0,0.0
+2297,PS,1999,Sports,Tecmo Koei,0.0,0.0,0.01
+4528,PS2,2003,Role-Playing,Square Enix,0.15,0.12,0.04
+2843,PSV,2013,Fighting,Marvelous Entertainment,0.13,0.02,0.05
+2534,PSP,2008,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2305,3DS,2015,Adventure,5pb,0.0,0.0,0.0
+284,Wii,2006,Shooter,Ubisoft,0.55,0.04,0.05
+4238,PS,1997,Role-Playing,SquareSoft,0.15,0.04,0.09
+3324,DS,2006,Misc,Konami Digital Entertainment,0.0,0.0,0.0
+1040,PS3,2012,Role-Playing,Tecmo Koei,0.06,0.04,0.02
+4468,GBA,2001,Puzzle,Namco Bandai Games,0.0,0.0,0.0
+500,PS3,2010,Action,Namco Bandai Games,0.09,0.16,0.06
+1946,PS2,2006,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+632,NES,1984,Shooter,Nintendo,26.93,0.63,0.47
+1245,DS,2008,Strategy,Tecmo Koei,0.0,0.0,0.0
+88,PS2,2006,Fighting,Ignition Entertainment,0.0,0.0,0.0
+2657,DS,2009,Adventure,ChunSoft,0.37,0.0,0.03
+5026,PS3,2011,Shooter,City Interactive,0.26,0.36,0.14
+3442,DS,2008,Role-Playing,Takara Tomy,0.0,0.0,0.0
+5727,PS,1995,Fighting,Sony Computer Entertainment,0.29,0.2,0.04
+3736,PS3,2009,Platform,Sony Computer Entertainment,1.05,0.54,0.26
+5447,3DS,2016,Role-Playing,Deep Silver,0.03,0.0,0.0
+595,PSV,2012,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+5346,SNES,1995,Misc,Takara,0.0,0.0,0.0
+4453,X360,2011,Shooter,Cave,0.0,0.0,0.0
+456,PSP,2010,Adventure,Nippon Ichi Software,0.0,0.0,0.0
+1582,PS2,2005,Strategy,Square Enix,0.0,0.0,0.0
+5430,PS,2000,Sports,Konami Digital Entertainment,0.0,0.0,0.01
+4859,PS3,2011,Action,Electronic Arts,0.4,0.27,0.12
+5125,X360,2011,Role-Playing,Square Enix,0.21,0.12,0.03
+1358,PS3,2011,Action,Nippon Ichi Software,0.0,0.03,0.01
+3219,DS,2008,Action,Namco Bandai Games,0.0,0.0,0.0
+4279,PS3,2011,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3409,PS,1995,Misc,Sony Computer Entertainment,0.0,0.0,0.01
+4546,PSV,2014,Adventure,Prototype,0.0,0.0,0.0
+1986,3DS,2012,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+2585,PSV,2011,Shooter,Sony Computer Entertainment,0.59,0.75,0.27
+1915,DS,2012,Adventure,Idea Factory,0.0,0.0,0.0
+379,PSP,2013,Role-Playing,Sega,0.0,0.0,0.0
+2383,PS,1998,Racing,Tecmo Koei,0.0,0.0,0.01
+4520,GB,1994,Platform,Nintendo,2.49,0.98,0.15
+3726,PS2,2002,Fighting,THQ,1.32,1.08,0.39
+4330,PSV,2016,Action,Screenlife,0.0,0.0,0.0
+1651,SNES,1994,Platform,Konami Digital Entertainment,0.0,0.0,0.0
+352,PS2,2009,Strategy,Flight-Plan,0.0,0.0,0.0
+2717,DC,1998,Racing,Infogrames,0.0,0.0,0.0
+3275,PS3,2008,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+4710,GB,1992,Misc,Nintendo,0.87,0.17,0.05
+3333,GBA,2004,Platform,Nintendo,0.0,0.0,0.0
+4607,PSV,2014,Role-Playing,Ubisoft,0.0,0.07,0.02
+1518,DC,2007,Shooter,Warashi,0.0,0.0,0.0
+583,GC,2002,Misc,Infogrames,1.47,0.48,0.06
+830,NES,1988,Platform,Nintendo,0.59,0.14,0.02
+1168,N64,1999,Misc,Nintendo,1.28,0.14,0.01
+2224,Wii,2010,Sports,Konami Digital Entertainment,0.08,0.1,0.02
+737,DC,2000,Racing,Sega,0.0,0.0,0.0
+373,NES,1988,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+1887,NES,1986,Action,Capcom,0.74,0.26,0.03
+3741,PS2,2008,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2390,PS2,2007,Fighting,Yuke's,0.0,0.0,0.0
+4689,PS3,2010,Role-Playing,Nippon Ichi Software,0.12,0.07,0.03
+3738,PS3,2009,Adventure,Spike,0.0,0.0,0.0
+5654,DC,1999,Sports,Sega,0.0,0.0,0.0
+1585,DC,2001,Action,Namco Bandai Games,0.0,0.0,0.0
+3683,GC,2004,Action,Konami Digital Entertainment,0.3,0.08,0.01
+1411,X360,2012,Shooter,Take-Two Interactive,0.86,0.64,0.14
+1665,PSP,2009,Adventure,Alchemist,0.0,0.0,0.0
+3083,PS3,2012,Racing,Codemasters,0.12,0.64,0.25
+348,SNES,1995,Puzzle,Banpresto,0.0,0.0,0.0
+5110,PS2,2005,Action,Capcom,0.03,0.03,0.01
+1027,DS,2011,Role-Playing,Unknown,0.0,0.0,0.0
+4252,PS2,2007,Role-Playing,Square Enix,0.0,0.0,0.0
+3412,PSV,2014,Adventure,Idea Factory,0.0,0.0,0.0
+735,PS3,2010,Fighting,Namco Bandai Games,0.42,0.2,0.09
+1086,PSP,2010,Fighting,Falcom Corporation,0.0,0.0,0.0
+4917,PS2,2007,Strategy,Banpresto,0.0,0.0,0.0
+3383,PS2,2006,Sports,Namco Bandai Games,0.0,0.0,0.0
+1495,X360,2012,Misc,Capcom,0.08,0.03,0.01
+1012,SNES,1999,Strategy,Nintendo,0.0,0.0,0.0
+2924,3DS,2013,Strategy,Level 5,0.0,0.0,0.0
+714,3DS,2015,Action,Nintendo,0.0,0.0,0.0
+781,PS4,2015,Role-Playing,Namco Bandai Games,0.16,0.15,0.06
+794,PSV,2013,Strategy,Idea Factory,0.0,0.0,0.0
+2701,PSP,2009,Platform,Sony Computer Entertainment,0.64,1.24,0.69
+5215,PSP,2006,Misc,Daito,0.0,0.0,0.0
+235,GBA,2002,Platform,Capcom,0.22,0.08,0.01
+2659,PS3,2006,Sports,Sega,0.0,0.0,0.0
+5595,PS2,2001,Fighting,Capcom,0.22,0.17,0.06
+4973,GC,2005,Strategy,Nintendo,0.25,0.07,0.01
+5665,PS3,2012,Adventure,PQube,0.01,0.04,0.01
+6063,DS,2011,Misc,Namco Bandai Games,0.0,0.0,0.0
+5965,SNES,1994,Fighting,Capcom,0.0,0.0,0.0
+3555,PS,1999,Role-Playing,SquareSoft,0.18,0.13,0.07
+4640,PSV,2015,Role-Playing,Nihon Falcom Corporation,0.0,0.0,0.0
+2243,SNES,1994,Role-Playing,Atlus,0.0,0.0,0.0
+542,PS,1994,Shooter,Sony Computer Entertainment,0.08,0.06,0.02
+2669,XOne,2015,Misc,Microsoft Game Studios,0.47,0.21,0.07
+3673,X360,2011,Shooter,Alchemist,0.0,0.0,0.0
+2132,PS,2001,Action,Electronic Arts,1.37,2.0,0.22
+4857,PSV,2016,Action,Idea Factory,0.0,0.0,0.0
+82,N64,1999,Fighting,Nintendo,2.95,0.6,0.04
+5127,PS,1995,Role-Playing,Atlus,0.0,0.0,0.03
+2598,PSV,2014,Role-Playing,Square Enix,0.0,0.0,0.0
+328,PS2,2007,Fighting,Unknown,0.0,0.0,0.0
+2921,DS,2010,Misc,Hudson Soft,0.0,0.0,0.0
+3890,PS,1998,Adventure,Pioneer LDC,0.0,0.0,0.0
+1630,GC,2003,Role-Playing,Nintendo,0.54,0.21,0.04
+3240,NES,1985,Platform,Nintendo,0.46,0.1,0.02
+5791,PSV,2014,Action,Idea Factory,0.0,0.0,0.0
+6047,PSP,2004,Sports,Sony Computer Entertainment,0.5,0.5,0.33
+4535,PS,1997,Role-Playing,SquareSoft,0.0,0.0,0.08
+1525,3DS,2013,Misc,Namco Bandai Games,0.0,0.0,0.0
+668,N64,2000,Fighting,THQ,1.2,0.27,0.02
+2176,PSV,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+1544,PSP,2010,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+870,PS4,2016,Action,Namco Bandai Games,0.0,0.0,0.0
+1953,PSV,2015,Action,Namco Bandai Games,0.0,0.07,0.02
+4214,PSP,2008,Misc,Dorart,0.0,0.0,0.0
+2790,PSP,2012,Adventure,Prototype,0.0,0.0,0.0
+5755,PSP,2010,Adventure,Yeti,0.0,0.0,0.0
+1149,SAT,1998,Sports,Sega,0.0,0.0,0.0
+4353,Wii,2011,Sports,Rocket Company,0.0,0.0,0.0
+305,SNES,1995,Sports,Namco Bandai Games,0.0,0.0,0.0
+5298,PSP,2010,Adventure,NetRevo,0.0,0.0,0.0
+4533,PS,1998,Racing,Codemasters,0.03,1.16,0.11
+5022,PSV,2016,Fighting,Namco Bandai Games,0.0,0.0,0.0
+3353,PSP,2010,Adventure,Idea Factory,0.0,0.0,0.0
+2102,PS,1998,Sports,Electronic Arts,0.22,1.47,0.14
+78,PS3,2010,Fighting,THQ,0.8,0.41,0.19
+2474,XB,2002,Simulation,Phantagram,0.03,0.01,0.0
+2708,PSP,2010,Misc,Paon,0.0,0.0,0.0
+2269,GBA,2004,Platform,Capcom,0.0,0.0,0.0
+899,PS3,2013,Adventure,Compile Heart,0.0,0.0,0.0
+5405,PSP,2006,Role-Playing,Square Enix,0.17,0.01,0.02
+366,PS3,2013,Role-Playing,Square Enix,0.36,0.33,0.15
+3627,PSP,2013,Sports,Sega,0.0,0.0,0.0
+3045,PS2,2005,Action,Capcom,2.08,0.83,0.25
+3932,PSV,2014,Adventure,Kadokawa Games,0.0,0.0,0.0
+3399,PS4,2016,Action,Deep Silver,0.02,0.07,0.02
+2959,3DS,2014,Action,Capcom,0.0,0.0,0.0
+1401,3DS,2012,Misc,Sega,0.0,0.0,0.0
+4809,PS4,2014,Role-Playing,Square Enix,0.32,0.22,0.1
+1875,PSP,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+3183,DS,2007,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+5902,DS,2009,Puzzle,Level 5,0.0,0.0,0.0
+3166,DS,2006,Misc,Rocket Company,0.0,0.0,0.0
+2182,GC,2002,Shooter,Nintendo,1.96,0.67,0.09
+3425,3DS,2013,Action,Namco Bandai Games,0.0,0.0,0.0
+1064,PS,1996,Platform,Capcom,0.44,0.3,0.06
+4895,DS,2010,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+4768,PSP,2011,Sports,Electronic Arts,0.12,0.26,0.14
+5192,PS3,2012,Fighting,Aqua Plus,0.05,0.0,0.01
+1074,PSP,2010,Misc,CyberFront,0.01,0.0,0.0
+2173,X360,2010,Shooter,Cave,0.0,0.0,0.0
+1328,PS2,2007,Fighting,Sega,0.0,0.0,0.0
+4093,DS,2005,Adventure,Nintendo,0.15,0.01,0.01
+1599,PS4,2016,Misc,Namco Bandai Games,0.0,0.0,0.0
+3634,PSP,2009,Adventure,Sony Computer Entertainment,0.0,0.0,0.0
+1964,PSV,2014,Adventure,Nippon Ichi Software,0.0,0.0,0.0
+232,PSP,2012,Action,Ackkstudios,0.0,0.0,0.0
+5128,PSP,2012,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+1470,SAT,1996,Fighting,Capcom,0.0,0.0,0.0
+2968,PS2,2003,Action,Electronic Arts,1.5,1.28,0.46
+2991,Wii,2012,Sports,Konami Digital Entertainment,0.0,0.03,0.0
+1586,DS,2006,Action,Namco Bandai Games,0.0,0.0,0.0
+3933,3DS,2011,Adventure,Konami Digital Entertainment,0.07,0.05,0.01
+2722,GBA,2001,Strategy,Banpresto,0.0,0.0,0.01
+314,PS3,2014,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+6035,PSP,2010,Misc,Dorart,0.0,0.0,0.0
+1130,PS4,2016,Role-Playing,Nippon Ichi Software,0.06,0.03,0.02
+5201,PS2,2001,Simulation,ASCII Entertainment,0.0,0.0,0.0
+35,PS3,2010,Racing,Disney Interactive Studios,0.31,0.31,0.12
+2564,Wii,2009,Sports,Nintendo,15.75,11.01,2.96
+1017,PS2,2003,Action,Sony Computer Entertainment,0.0,0.0,0.0
+4756,PS,1999,Sports,Tecmo Koei,0.0,0.0,0.01
+1512,PSP,2012,Role-Playing,Compile Heart,0.0,0.0,0.0
+4080,PSP,2012,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+5585,DS,2007,Puzzle,Namco Bandai Games,0.0,0.0,0.0
+2139,DS,2011,Adventure,Banpresto,0.0,0.0,0.0
+5575,SAT,1995,Adventure,Sega,0.0,0.0,0.0
+695,DS,2005,Adventure,Capcom,0.49,0.07,0.05
+1320,DS,2008,Shooter,Square Enix,0.12,0.01,0.01
+2966,SAT,1998,Adventure,KID,0.0,0.0,0.0
+5296,DS,2005,Misc,Nintendo,0.21,0.0,0.02
+1687,DS,2006,Platform,Nintendo,11.38,9.23,2.9
+5811,DS,2009,Misc,Alvion,0.0,0.0,0.0
+6051,PS3,2009,Action,Eidos Interactive,2.23,1.34,0.61
+2101,PS4,2015,Action,Capcom,0.01,0.0,0.0
+5479,PS4,2016,Role-Playing,Atlus,0.0,0.0,0.0
+1943,PS3,2016,Misc,Aqua Plus,0.0,0.0,0.0
+4953,PSP,2010,Role-Playing,Square Enix,0.07,0.04,0.03
+4192,PSP,2009,Sports,Tecmo Koei,0.0,0.0,0.0
+1553,Wii,2009,Role-Playing,Rising Star Games,0.33,0.13,0.04
+1428,PS3,2009,Puzzle,Namco Bandai Games,0.26,0.05,0.04
+5582,DS,2006,Misc,Shogakukan,0.0,0.0,0.0
+1612,PSV,2016,Action,Namco Bandai Games,0.0,0.0,0.0
+729,PSP,2009,Sports,Konami Digital Entertainment,0.09,0.33,0.18
+2836,DS,2008,Misc,Creative Core,0.0,0.0,0.0
+1188,PS,1996,Fighting,Virgin Interactive,0.14,0.09,0.06
+4517,PS3,2015,Shooter,Electronic Arts,0.12,0.23,0.07
+571,SNES,1993,Platform,Capcom,0.57,0.08,0.01
+4206,Wii,2009,Adventure,Nintendo,0.55,0.17,0.06
+5905,PS3,2009,Action,Sony Computer Entertainment,1.76,0.69,0.37
+3196,PS2,2002,Action,Konami Digital Entertainment,0.18,0.14,0.05
+3295,PSP,2007,Platform,Sony Computer Entertainment,0.0,0.0,0.0
+876,PS3,2008,Action,Take-Two Interactive,4.76,3.76,1.62
+5117,GBA,2006,Misc,Konami Digital Entertainment,0.14,0.05,0.01
+5712,PS3,2009,Fighting,Ignition Entertainment,0.11,0.01,0.01
+782,3DS,2011,Strategy,Ubisoft,0.25,0.06,0.03
+5747,PS3,2012,Racing,Sega,0.08,0.33,0.11
+2596,PS2,2005,Misc,Hudson Soft,0.0,0.0,0.0
+1694,PS2,2005,Shooter,Essential Games,0.0,0.0,0.0
+2201,SNES,1993,Role-Playing,TOHO,0.0,0.0,0.0
+321,Wii,2008,Sports,Namco Bandai Games,0.0,0.0,0.0
+1967,3DS,2014,Role-Playing,Nippon Ichi Software,0.33,0.07,0.04
+4916,DS,2008,Role-Playing,Nintendo,0.0,0.0,0.0
+1000,3DS,2015,Misc,Namco Bandai Games,0.0,0.0,0.0
+2655,PSP,2013,Adventure,Broccoli,0.0,0.0,0.0
+4633,PSP,2011,Role-Playing,Atlus,0.0,0.0,0.0
+2065,SNES,1992,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+1460,PS2,2006,Shooter,Namco Bandai Games,0.0,0.0,0.0
+4930,DS,2007,Misc,Rocket Company,0.0,0.0,0.0
+161,PS,1998,Fighting,SNK Playmore,0.0,0.0,0.0
+5855,GBA,2005,Role-Playing,Nintendo,0.27,0.1,0.01
+4066,DC,1999,Simulation,Sega,0.0,0.0,0.0
+1706,Wii,2008,Simulation,Hudson Soft,0.0,0.01,0.0
+3697,PS3,2010,Adventure,Alchemist,0.0,0.0,0.0
+199,DS,2006,Fighting,D3Publisher,0.0,0.01,0.0
+3302,NES,1986,Shooter,Konami Digital Entertainment,0.27,0.08,0.01
+5219,PSP,2012,Action,Views,0.0,0.0,0.0
+108,PS,1994,Racing,Sony Computer Entertainment,0.0,0.0,0.0
+5629,PS3,2014,Puzzle,Sega,0.0,0.0,0.0
+1030,DS,2006,Puzzle,Hudson Entertainment,0.0,0.0,0.0
+3825,PSP,2007,Racing,Genki,0.0,0.0,0.0
+4401,GC,2002,Puzzle,Atari,1.11,0.31,0.04
+5353,WiiU,2014,Action,Namco Bandai Games,0.0,0.04,0.0
+5389,PSP,2008,Shooter,Square Enix,0.06,0.01,0.01
+826,GBA,2001,Action,Electronic Arts,0.87,0.66,0.08
+4033,PS3,2014,Fighting,Namco Bandai Games,0.15,0.16,0.08
+5927,SAT,1996,Strategy,Sega,0.0,0.0,0.0
+5234,PS3,2011,Action,Konami Digital Entertainment,0.0,0.0,0.0
+5213,PS,1997,Racing,Takara,0.0,0.0,0.02
+2547,PSP,2010,Adventure,ASCII Media Works,0.0,0.0,0.0
+780,PS3,2011,Action,Marvelous Interactive,0.0,0.0,0.0
+3063,SAT,1998,Role-Playing,Kadokawa Shoten,0.0,0.0,0.0
+2744,Wii,2007,Role-Playing,Square Enix,0.09,0.0,0.01
+4157,DS,2008,Misc,D3Publisher,0.0,0.0,0.0
+5720,Wii,2007,Shooter,Nintendo,3.06,1.18,0.46
+2823,PSP,2011,Role-Playing,Sega,0.0,0.0,0.0
+1923,PS3,2016,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+5588,DC,1999,Fighting,Capcom,0.0,0.0,0.0
+4039,PS4,2014,Action,Activision,0.07,0.1,0.04
+4378,PS3,2010,Shooter,Activision,5.98,4.44,1.83
+3175,PS2,2005,Role-Playing,Sega,0.07,0.05,0.02
+5416,DS,2009,Adventure,Nintendo,0.0,0.0,0.0
+5419,PS3,2016,Misc,Tecmo Koei,0.0,0.0,0.0
+871,PS2,2007,Adventure,505 Games,0.0,0.0,0.0
+3968,SNES,1995,Role-Playing,ChunSoft,0.0,0.0,0.0
+4323,PS3,2013,Role-Playing,Nippon Ichi Software,0.07,0.02,0.01
+1335,PSP,2008,Platform,Sony Computer Entertainment,0.04,0.03,0.02
+5525,WiiU,2013,Sports,Nintendo,0.39,0.22,0.06
+4923,PS2,2010,Adventure,5pb,0.0,0.0,0.0
+4451,PS3,2014,Role-Playing,Namco Bandai Games,0.4,0.36,0.17
+4708,DS,2008,Action,Namco Bandai Games,0.0,0.0,0.0
+5160,PS2,2008,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2177,PS2,2003,Platform,Sony Computer Entertainment,1.44,0.83,0.25
+4237,DS,2007,Misc,Namco Bandai Games,0.0,0.0,0.0
+697,PSP,2005,Role-Playing,Capcom,0.24,0.04,0.04
+5592,PSP,2011,Role-Playing,Level 5,0.0,0.0,0.0
+4918,Wii,2009,Action,505 Games,0.11,0.02,0.01
+6001,PSP,2011,Role-Playing,Atlus,0.0,0.0,0.0
+176,PS,1999,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+3867,PSP,2012,Fighting,Arc System Works,0.0,0.0,0.0
+676,SNES,1991,Shooter,Nintendo,0.0,0.0,0.0
+1467,PS3,2012,Action,Sony Computer Entertainment,0.5,0.28,0.14
+4935,XB,2003,Action,Capcom,0.08,0.03,0.0
+569,PS3,2011,Racing,Codemasters,0.27,0.59,0.21
+4547,DS,2010,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+3888,DS,2009,Action,Namco Bandai Games,0.0,0.0,0.0
+1663,PS2,2007,Adventure,Broccoli,0.0,0.0,0.0
+3169,PS,1998,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2332,PS3,2007,Shooter,Namco Bandai Games,0.32,0.33,0.14
+2103,PSP,2013,Adventure,Kaga Create,0.0,0.0,0.0
+4243,PSP,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+4789,PS,1999,Misc,Enix Corporation,0.04,0.03,0.02
+102,PS,1994,Sports,Konami Digital Entertainment,0.0,0.0,0.01
+5018,PS2,2010,Misc,Hackberry,0.0,0.0,0.0
+3519,GC,2004,Platform,Nintendo,0.84,0.22,0.04
+2981,N64,1999,Strategy,Nintendo,3.18,1.24,0.09
+3753,PS3,2008,Racing,Electronic Arts,0.63,1.02,0.39
+1266,PSV,2013,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+4051,PS3,2009,Racing,Electronic Arts,0.0,0.06,0.02
+5820,XOne,2015,Shooter,Electronic Arts,1.94,1.22,0.31
+4025,NES,1988,Puzzle,Nintendo,2.97,0.69,0.11
+3485,SNES,1995,Adventure,Pack-In-Video,0.0,0.0,0.0
+2748,PS,1997,Puzzle,Compile,0.0,0.0,0.07
+5344,3DS,2011,Action,Namco Bandai Games,0.0,0.0,0.0
+5881,PS3,2009,Sports,Take-Two Interactive,0.75,0.01,0.07
+6059,PS2,2006,Action,Take-Two Interactive,0.75,0.03,0.12
+1073,PS3,2013,Adventure,Konami Digital Entertainment,0.31,0.01,0.05
+4656,SNES,1993,Platform,Capcom,0.94,0.34,0.27
+3475,PSV,2015,Role-Playing,Kadokawa Games,0.0,0.0,0.0
+4758,DS,2005,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+5149,PS3,2011,Adventure,Unknown,0.0,0.0,0.0
+594,PSP,2006,Role-Playing,Ghostlight,0.1,0.03,0.03
+5311,DS,2007,Misc,Capcom,0.0,0.0,0.0
+4787,Wii,2007,Sports,Tecmo Koei,0.0,0.01,0.0
+2920,PS3,2012,Action,THQ,0.35,0.37,0.14
+2388,PS3,2009,Sports,Tecmo Koei,0.0,0.0,0.0
+4639,X360,2010,Adventure,5pb,0.0,0.0,0.0
+2821,PSP,2013,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+4944,PSV,2012,Adventure,Nippon Ichi Software,0.0,0.0,0.0
+5839,SAT,1995,Fighting,Sega,0.0,0.0,0.0
+965,PSP,2014,Adventure,Quinrose,0.0,0.0,0.0
+2699,GBA,2002,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+4527,DS,2007,Adventure,D3Publisher,0.0,0.0,0.0
+4470,PS3,2011,Adventure,Namco Bandai Games,0.0,0.0,0.0
+3956,Wii,2012,Role-Playing,Square Enix,0.0,0.0,0.0
+2445,3DS,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+5314,3DS,2011,Action,Nintendo,2.03,1.27,0.3
+2833,PSP,2009,Simulation,Rising Star Games,0.07,0.02,0.02
+3092,3DS,2014,Simulation,Nintendo,0.0,0.13,0.01
+5730,GB,2001,Platform,Capcom,0.0,0.0,0.0
+779,3DS,2011,Fighting,Capcom,0.55,0.44,0.09
+5890,PSP,2009,Strategy,Tecmo Koei,0.0,0.0,0.0
+3660,SNES,1994,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3592,DS,2008,Simulation,Electronic Arts,0.0,0.0,0.0
+4216,PSP,2009,Role-Playing,Falcom Corporation,0.0,0.0,0.0
+5075,X360,2010,Fighting,Namco Bandai Games,0.43,0.27,0.07
+210,GBA,2003,Role-Playing,Nintendo,0.08,0.03,0.01
+2159,PS,2002,Role-Playing,Takara,0.0,0.0,0.0
+840,PS3,2011,Shooter,Bethesda Softworks,0.47,0.59,0.21
+5869,PS3,2011,Adventure,Take-Two Interactive,1.27,1.33,0.51
+1747,DC,2001,Racing,Sega,0.0,0.0,0.0
+4182,DS,2005,Role-Playing,Empire Interactive,0.05,0.0,0.0
+3588,PS,1999,Fighting,Human Entertainment,0.0,0.0,0.01
+1733,PS3,2008,Racing,Take-Two Interactive,1.55,0.54,0.31
+2456,PS2,2009,Adventure,Prototype,0.0,0.0,0.0
+3173,N64,1997,Misc,Namco Bandai Games,0.0,0.0,0.0
+6020,GBA,2002,Simulation,Jorudan,0.0,0.0,0.01
+929,DS,2007,Strategy,Sega,0.0,0.0,0.0
+438,DS,2004,Racing,Nintendo,0.21,0.14,0.04
+927,PS3,2009,Action,Ubisoft,0.21,0.22,0.09
+5764,DS,2006,Misc,TDK Core,0.0,0.0,0.0
+2563,PSV,2015,Adventure,PQube,0.0,0.0,0.0
+3487,PS4,2013,Shooter,Electronic Arts,1.34,1.54,0.38
+189,PSP,2010,Adventure,ASCII Media Works,0.0,0.0,0.0
+5217,PS3,2014,Action,Capcom,0.0,0.0,0.0
+6029,X360,2013,Action,Ubisoft,1.9,1.14,0.29
+5677,3DS,2015,Action,Nintendo,1.14,0.54,0.17
+4123,3DS,2013,Role-Playing,FuRyu,0.0,0.0,0.0
+3221,PSP,2006,Puzzle,Sony Computer Entertainment,0.0,0.0,0.0
+4223,PS3,2014,Action,Namco Bandai Games,0.0,0.01,0.0
+4376,PS3,2015,Misc,Namco Bandai Games,0.0,0.0,0.0
+5226,NES,1986,Sports,Namco Bandai Games,0.15,0.0,0.0
+6083,PS,2000,Role-Playing,Atlus,0.03,0.02,0.02
+4646,DS,2006,Misc,Namco Bandai Games,0.0,0.0,0.0
+5715,PS2,2005,Action,Capcom,0.99,0.63,0.19
+5035,PS2,2007,Role-Playing,Nippon Ichi Software,0.0,0.0,0.0
+1167,PS2,2006,Role-Playing,Banpresto,0.0,0.0,0.0
+1843,WiiU,2015,Puzzle,Nintendo,0.0,0.0,0.0
+1314,DS,2008,Misc,Konami Digital Entertainment,0.0,0.0,0.0
+5381,SNES,1991,Action,Namco Bandai Games,0.0,0.0,0.0
+733,DS,2006,Role-Playing,Nintendo,0.0,0.01,0.0
+763,3DS,2014,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+3757,DS,2005,Misc,Nintendo,0.0,0.0,0.0
+146,PS2,2004,Role-Playing,Square Enix,0.0,0.0,0.0
+2677,Wii,2007,Sports,Sega,2.58,3.9,0.91
+2788,PS3,2009,Shooter,Bethesda Softworks,0.22,0.27,0.11
+5991,PS2,2003,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+457,3DS,2013,Misc,Takara Tomy,0.0,0.0,0.0
+363,SNES,1992,Puzzle,Hudson Soft,0.0,0.0,0.0
+449,PS,1998,Simulation,Sony Computer Entertainment,0.19,0.13,0.07
+419,X360,2011,Shooter,Codemasters,0.1,0.15,0.03
+593,PSP,2012,Action,D3Publisher,0.0,0.0,0.0
+1242,PS2,2007,Simulation,Konami Digital Entertainment,0.64,0.03,0.1
+73,GBA,2003,Sports,Konami Digital Entertainment,0.0,0.0,0.01
+3814,SAT,1995,Misc,Sega,0.0,0.0,0.0
+1192,PS2,2000,Sports,Tecmo Koei,0.0,0.0,0.0
+1230,NES,1993,Platform,Capcom,0.28,0.07,0.01
+2936,3DS,2013,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+6030,PSP,2010,Misc,Konami Digital Entertainment,0.0,0.0,0.0
+9,PS2,2002,Action,Wanadoo,0.2,0.15,0.05
+5756,DS,2009,Action,Square Enix,0.0,0.0,0.0
+5659,SAT,1994,Fighting,Sega,0.0,0.0,0.0
+1832,SAT,1996,Fighting,Human Entertainment,0.0,0.0,0.0
+1912,PSP,2009,Role-Playing,Nippon Ichi Software,0.0,0.0,0.0
+1485,SAT,1994,Fighting,Sega,0.17,0.12,0.02
+3,DS,2008,Sports,Enterbrain,0.0,0.0,0.0
+3095,PSP,2006,Action,Konami Digital Entertainment,0.38,0.35,0.09
+1550,PSP,2010,Adventure,Idea Factory,0.0,0.0,0.0
+5021,PS2,2000,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+4029,PS3,2008,Racing,Electronic Arts,1.01,0.64,0.3
+5527,PS2,2002,Role-Playing,Atari,0.49,0.38,0.13
+2237,SNES,1993,Fighting,Namco Bandai Games,0.0,0.0,0.0
+5029,3DS,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+4629,PS2,2007,Misc,Banpresto,0.0,0.0,0.0
+5009,PSV,2015,Action,Marvel Entertainment,0.0,0.0,0.0
+126,PS2,2008,Fighting,Capcom,0.0,0.0,0.0
+2789,3DS,2011,Sports,Konami Digital Entertainment,0.11,0.13,0.02
+1812,PS,1998,Fighting,Sony Computer Entertainment,3.27,2.22,0.29
+1240,SNES,1996,Misc,Nippon Telenet,0.0,0.0,0.0
+92,PSP,2009,Misc,Sega,0.0,0.0,0.0
+4403,PSP,2006,Misc,Sega,0.0,0.0,0.0
+5171,SNES,1992,Sports,Ocean,0.0,0.0,0.0
+1960,PS,1999,Simulation,Ubisoft,0.11,0.07,0.02
+5422,PS2,2001,Simulation,ArtDink,0.0,0.0,0.0
+3262,DS,2006,Misc,Namco Bandai Games,0.0,0.0,0.0
+131,PS2,2007,Misc,Hackberry,0.0,0.0,0.0
+1668,PS2,2002,Fighting,Sega,0.78,0.44,0.04
+5386,PS,1996,Role-Playing,From Software,0.08,0.06,0.02
+5423,PS2,2004,Action,THQ,0.96,1.08,0.3
+1520,3DS,2011,Puzzle,Sunsoft,0.07,0.0,0.0
+3652,GBA,2002,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+1607,PSP,2007,Misc,Zenrin,0.0,0.0,0.0
+4723,PSV,2015,Action,Marvelous Interactive,0.06,0.05,0.03
+642,PS2,2003,Racing,Genki,0.35,0.27,0.09
+85,PS4,2014,Role-Playing,Electronic Arts,0.72,0.86,0.32
+5336,PSP,2007,Action,Konami Digital Entertainment,0.26,0.01,0.17
+5024,PS3,2008,Action,Gamebridge,0.18,0.08,0.04
+2988,PS2,2006,Adventure,Asmik Ace Entertainment,0.0,0.0,0.0
+4002,DS,2004,Puzzle,Nintendo,0.13,0.01,0.01
+3178,SNES,1995,Action,Laguna,0.04,0.01,0.0
+2832,DS,2011,Role-Playing,Square Enix,0.0,0.0,0.0
+453,3DS,2014,Fighting,Nintendo,3.24,1.35,0.43
+1617,PS2,2005,Fighting,Atari,0.96,0.12,0.04
+3549,PS3,2009,Action,Namco Bandai Games,0.0,0.0,0.0
+5093,X360,2011,Shooter,THQ,0.83,0.48,0.12
+1140,PS,1998,Action,Capcom,0.81,0.76,0.14
+392,PSV,2017,Role-Playing,Sega,0.0,0.0,0.0
+2216,Wii,2009,Sports,Sega,1.89,1.99,0.48
+4974,NG,1996,Fighting,SNK,0.0,0.0,0.0
+4283,DS,2007,Action,Disney Interactive Studios,0.3,0.01,0.03
+1712,PSP,2007,Role-Playing,Falcom Corporation,0.0,0.0,0.0
+4128,Wii,2006,Action,505 Games,0.0,0.0,0.0
+2837,PS3,2008,Simulation,Ubisoft,0.06,0.02,0.01
+3780,WiiU,2012,Action,Tecmo Koei,0.04,0.02,0.01
+1158,DS,2008,Role-Playing,Sting,0.0,0.0,0.0
+187,DS,2005,Platform,Nintendo,0.37,0.0,0.04
+1018,PS4,2015,Action,Sega,0.0,0.0,0.0
+69,PS2,2002,Action,Takara,0.0,0.0,0.0
+208,GC,2002,Simulation,Nintendo,0.0,0.0,0.0
+2663,3DS,2011,Simulation,Nintendo,0.4,0.36,0.07
+1259,PS3,2015,Action,Square Enix,0.0,0.0,0.0
+1872,DS,2008,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+2189,PSV,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+3099,PS3,2011,Adventure,THQ,0.0,0.0,0.0
+4596,X360,2012,Action,Capcom,0.15,0.06,0.02
+2000,NES,1992,Fighting,Konami Digital Entertainment,0.04,0.01,0.0
+2834,X360,2007,Shooter,Midway Games,0.4,0.33,0.09
+4059,WiiU,2015,Misc,Namco Bandai Games,0.0,0.0,0.0
+5649,PS,2000,Sports,Tecmo Koei,0.0,0.0,0.01
+5451,PSP,2011,Action,Capcom,0.0,0.0,0.0
+4379,DS,2007,Simulation,505 Games,1.61,1.5,0.39
+5860,GBA,2004,Role-Playing,Capcom,0.0,0.0,0.0
+425,PS2,2005,Shooter,Activision,1.48,0.92,0.26
+1909,3DS,2015,Role-Playing,Nintendo,0.26,0.14,0.04
+4941,X360,2009,Shooter,5pb,0.0,0.0,0.0
+3134,N64,1999,Role-Playing,Konami Digital Entertainment,0.16,0.04,0.0
+3489,DS,2006,Action,Capcom,0.12,0.03,0.01
+2538,PS3,2014,Action,Namco Bandai Games,0.09,0.12,0.05
+5420,PSP,2014,Action,Idea Factory,0.0,0.0,0.0
+2791,WiiU,2014,Action,Nintendo,0.61,0.42,0.1
+4571,Wii,2010,Action,Capcom,0.08,0.02,0.01
+2850,X360,2009,Strategy,Eidos Interactive,0.17,0.12,0.03
+3304,X360,2009,Action,Tecmo Koei,0.16,0.02,0.02
+237,PS,1995,Platform,Sony Computer Entertainment,0.0,0.0,0.0
+2704,3DS,2014,Role-Playing,Marvelous Entertainment,0.0,0.0,0.0
+863,PS4,2014,Racing,Ubisoft,0.34,1.08,0.26
+3882,PSP,2011,Strategy,Konami Digital Entertainment,0.0,0.0,0.0
+1104,X360,2012,Fighting,Tecmo Koei,0.03,0.01,0.0
+2370,X360,2013,Action,Square Enix,0.86,0.87,0.17
+2042,NES,1986,Platform,Hudson Soft,0.0,0.0,0.0
+1869,DS,2009,Misc,AQ Interactive,0.08,0.0,0.01
+5097,3DS,2012,Adventure,Namco Bandai Games,0.0,0.0,0.0
+2263,DS,2007,Simulation,Atari,0.07,0.0,0.01
+5579,PS4,2015,Role-Playing,Square Enix,0.37,0.32,0.14
+4013,Wii,2007,Shooter,Nintendo,0.91,0.74,0.09
+4306,PS4,2014,Action,Namco Bandai Games,0.1,0.03,0.03
+897,PS3,2007,Sports,Electronic Arts,0.35,1.07,0.32
+1671,GC,2005,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2707,3DS,2013,Adventure,Namco Bandai Games,0.0,0.0,0.0
+3170,NES,1983,Misc,Nintendo,0.01,0.0,0.0
+3360,PS2,2008,Adventure,Idea Factory,0.0,0.0,0.0
+5037,PS2,2008,Misc,Hackberry,0.0,0.0,0.0
+3468,PS2,2005,Fighting,Namco Bandai Games,0.74,0.15,0.05
+5989,PS2,2000,Strategy,Electronic Arts,0.27,0.21,0.07
+5094,X360,2011,Shooter,Cave,0.04,0.0,0.0
+2207,3DS,2014,Role-Playing,Nintendo,4.23,3.37,0.65
+2274,GEN,1994,Sports,Sega,0.0,0.0,0.0
+4302,SAT,1995,Shooter,Konami Digital Entertainment,0.0,0.0,0.0
+5753,SNES,1994,Action,Nintendo,0.57,0.12,0.02
+2747,X360,2008,Shooter,THQ,0.34,0.15,0.05
+5762,PS,1994,Fighting,Sony Computer Entertainment,0.39,0.26,0.08
+2432,N64,1997,Puzzle,Hudson Soft,0.5,0.2,0.03
+2827,PSP,2008,Sports,Electronic Arts,0.23,0.73,0.37
+3042,PS3,2014,Platform,Sony Computer Entertainment,0.2,0.43,0.11
+1150,SNES,1992,Fighting,Capcom,2.47,0.83,0.12
+2241,X360,2006,Sports,Tecmo Koei,0.15,0.03,0.02
+3256,PSP,2010,Sports,Tecmo Koei,0.0,0.0,0.0
+100,DS,2008,Misc,Benesse,0.0,0.0,0.0
+4416,PS,2002,Sports,Konami Digital Entertainment,0.0,0.0,0.01
+4952,DS,2010,Action,Disney Interactive Studios,0.93,0.97,0.21
+1004,GBA,2004,Shooter,Nintendo,0.0,0.0,0.0
+1197,PS3,2014,Action,Sega,0.0,0.0,0.0
+1506,DS,2007,Adventure,Nintendo,0.27,0.05,0.03
+824,PS3,2012,Action,Konami Digital Entertainment,0.21,0.16,0.06
+4166,3DS,2012,Action,Nippon Ichi Software,0.0,0.0,0.0
+4587,PS2,2010,Fighting,SNK Playmore,0.0,0.0,0.0
+5513,DS,2008,Adventure,Tecmo Koei,0.0,0.0,0.0
+1474,Wii,2010,Role-Playing,Nintendo,0.49,0.26,0.08
+1125,PS4,2016,Action,Tecmo Koei,0.02,0.06,0.02
+1590,PS3,2010,Action,Konami Digital Entertainment,0.5,0.37,0.16
+3976,3DS,2015,Misc,Shogakukan,0.0,0.0,0.0
+3318,DC,2002,Adventure,Sega,0.0,0.0,0.0
+4268,SNES,1994,Simulation,Hect,0.0,0.0,0.0
+1462,PSV,2015,Action,Kaga Create,0.0,0.0,0.0
+615,PSP,2011,Role-Playing,Starfish,0.0,0.0,0.0
+1483,PS2,2006,Misc,Sega,0.0,0.0,0.0
+2646,NES,1986,Racing,Nintendo,1.13,0.37,0.05
+2626,DS,2005,Fighting,Tomy Corporation,0.0,0.0,0.0
+3878,X360,2007,Simulation,505 Games,0.19,0.01,0.02
+709,N64,1997,Action,Nintendo,0.39,0.09,0.06
+5772,DC,1999,Sports,Sega,0.0,0.0,0.0
+1333,PSP,2006,Platform,Capcom,0.0,0.0,0.0
+5257,PSP,2008,Role-Playing,Zushi Games,0.1,0.0,0.01
+1894,PSP,2006,Racing,Sega,0.0,0.0,0.0
+148,PS3,2006,Platform,Sega,0.41,0.07,0.66
+2419,PS,1998,Misc,Gainax Network Systems,0.0,0.0,0.0
+4400,PS2,2007,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2226,PSP,2010,Adventure,Compile Heart,0.0,0.0,0.0
+1989,Wii,2006,Racing,Ubisoft,0.46,0.01,0.04
+5932,PSV,2013,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+4763,PSP,2012,Adventure,Alchemist,0.0,0.0,0.0
+1797,3DS,2012,Action,Nintendo,0.48,0.35,0.07
+2308,N64,1999,Simulation,Pack In Soft,0.25,0.06,0.06
+1492,PS3,2011,Role-Playing,Capcom,0.0,0.0,0.0
+5248,DS,2007,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+1755,PS2,2008,Adventure,Success,0.0,0.0,0.0
+1281,PSP,2012,Action,Idea Factory,0.0,0.0,0.0
+1160,PS3,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+3457,PSV,2013,Role-Playing,Marvelous Entertainment,0.13,0.0,0.03
+4932,PSV,2012,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2264,DS,2007,Misc,Nintendo,0.87,1.57,0.35
+434,Wii,2009,Strategy,Namco Bandai Games,0.0,0.0,0.0
+2840,DS,2006,Puzzle,Nintendo,0.74,0.03,0.07
+4480,X360,2013,Shooter,Activision,6.72,2.63,0.82
+2261,PSP,2011,Role-Playing,Atlus,0.13,0.03,0.03
+680,DS,2008,Strategy,Rising Star Games,0.07,0.0,0.01
+3145,PS2,2004,Racing,Electronic Arts,2.71,3.02,1.09
+3053,SAT,1995,Misc,Sega,0.0,0.0,0.0
+127,PSP,2013,Adventure,Idea Factory,0.0,0.0,0.0
+1697,PSP,2008,Sports,Konami Digital Entertainment,0.02,0.53,0.25
+1879,X360,2010,Misc,Konami Digital Entertainment,0.15,0.02,0.01
+1602,PS2,2000,Sports,Enix Corporation,0.0,0.0,0.0
+4124,PS,1997,Role-Playing,Electronic Arts,0.29,0.19,0.04
+3087,PS3,2012,Shooter,Capcom,0.88,0.97,0.42
+322,Wii,2006,Misc,Namco Bandai Games,0.0,0.0,0.0
+1101,3DS,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+1036,DS,2008,Adventure,D3Publisher,0.0,0.0,0.0
+2184,PS3,2014,Fighting,Sega,0.05,0.0,0.01
+4929,PSV,2014,Role-Playing,Nippon Ichi Software,0.04,0.04,0.02
+5174,PS3,2010,Action,Take-Two Interactive,1.41,0.21,0.16
+3072,PS2,2002,Misc,Sammy Corporation,0.0,0.0,0.0
+3055,PSP,2006,Role-Playing,505 Games,0.07,0.0,0.01
+212,PS2,2007,Action,Take-Two Interactive,0.78,0.03,0.13
+1893,PS,1998,Strategy,Konami Digital Entertainment,0.05,0.03,0.01
+2400,PS2,2001,Action,Sony Computer Entertainment,0.21,0.16,0.05
+1277,PS,1998,Strategy,Namco Bandai Games,0.0,0.0,0.05
+4359,3DS,2011,Action,Nintendo,0.31,0.1,0.03
+492,PSP,2011,Role-Playing,Atlus,0.07,0.0,0.01
+5734,NES,1986,Shooter,Konami Digital Entertainment,0.0,0.0,0.0
+160,PS,2001,Fighting,Atari,0.0,0.0,0.03
+2899,PS3,2011,Action,Ubisoft,1.41,2.02,0.72
+4873,NES,1986,Sports,Namco Bandai Games,1.92,0.45,0.07
+3024,X360,2008,Shooter,Electronic Arts,0.81,0.46,0.15
+5631,PS3,2016,Fighting,PQube,0.01,0.02,0.01
+3839,NES,1986,Action,Nintendo,0.0,0.0,0.0
+2403,PS2,2008,Adventure,Yeti,0.0,0.0,0.0
+3716,DS,2006,Role-Playing,Takara Tomy,0.0,0.0,0.0
+2644,PS3,2015,Shooter,Activision,0.49,0.96,0.27
+3803,3DS,2012,Action,Rocket Company,0.0,0.0,0.0
+4580,PS2,2003,Racing,Sony Computer Entertainment,0.0,0.47,0.17
+1326,PS3,2008,Shooter,Ubisoft,0.66,0.45,0.21
+3234,PSP,2006,Puzzle,Konami Digital Entertainment,0.0,0.0,0.0
+3527,PS3,2009,Role-Playing,Nippon Ichi Software,0.22,0.12,0.05
+2737,DS,2009,Role-Playing,ASCII Media Works,0.0,0.0,0.0
+2148,DS,2008,Adventure,Namco Bandai Games,0.0,0.0,0.0
+3639,X360,2008,Action,Ubisoft,0.71,0.69,0.18
+1662,PSP,2011,Role-Playing,Nippon Ichi Software,0.0,0.0,0.0
+432,Wii,2007,Sports,Capcom,0.2,0.01,0.02
+2698,Wii,2009,Shooter,Nintendo,0.2,0.14,0.04
+2999,DS,2010,Role-Playing,Level 5,0.0,0.0,0.0
+6069,DS,2009,Sports,Hudson Soft,0.0,0.0,0.0
+3282,PS,1999,Misc,Hudson Entertainment,0.0,0.0,0.03
+1110,N64,1996,Simulation,Nintendo,0.56,0.24,0.02
+3074,PS4,2015,Sports,Electronic Arts,1.11,6.06,1.26
+4245,SAT,1996,Simulation,NEC Interchannel,0.0,0.0,0.0
+1969,Wii,2009,Action,Nintendo,0.1,0.02,0.01
+2108,3DS,2011,Platform,Sega,0.44,0.46,0.09
+3692,PS,1997,Shooter,SquareSoft,0.1,0.07,0.02
+3790,SNES,1992,Platform,Hudson Soft,0.0,0.0,0.0
+2611,3DS,2013,Misc,FuRyu,0.0,0.0,0.0
+2124,PS2,2006,Adventure,Interchannel,0.0,0.0,0.0
+4699,GC,2003,Misc,Nintendo,0.5,0.16,0.03
+416,SAT,1996,Fighting,Capcom,0.0,0.0,0.0
+592,N64,2000,Role-Playing,Nintendo,0.58,0.18,0.02
+4749,XB,2003,Racing,Microsoft Game Studios,0.97,0.59,0.07
+5923,DS,2010,Role-Playing,Nintendo,0.08,0.04,0.01
+1058,GBA,2004,Action,Nintendo,0.89,0.22,0.1
+2208,PS,1995,Simulation,Sony Computer Entertainment,0.02,0.01,0.01
+4967,TG16,1995,Shooter,Hudson Soft,0.0,0.0,0.0
+169,3DS,2013,Misc,Namco Bandai Games,0.0,0.0,0.0
+162,SAT,1997,Role-Playing,Sega,0.0,0.0,0.0
+3082,PSV,2015,Action,Idea Factory,0.0,0.0,0.0
+3894,PSV,2012,Shooter,Sony Computer Entertainment,0.29,0.15,0.07
+3499,DS,2007,Adventure,Konami Digital Entertainment,0.09,0.02,0.01
+5425,PSV,2013,Action,Tecmo Koei,0.0,0.0,0.0
+4435,GC,2005,Sports,Nintendo,0.93,0.24,0.04
+998,PS3,2011,Role-Playing,Acquire,0.0,0.0,0.0
+2087,NES,1983,Platform,Nintendo,0.51,0.12,0.02
+142,WiiU,2012,Misc,Nintendo,2.55,1.11,0.33
+1644,DS,2008,Action,Takara Tomy,0.0,0.0,0.0
+5294,DC,2001,Platform,Sega,0.0,0.0,0.0
+3802,PS,1997,Adventure,Sony Computer Entertainment,0.0,0.0,0.01
+394,3DS,2015,Role-Playing,Rocket Company,0.0,0.0,0.0
+3500,SAT,1995,Adventure,Shogakukan,0.0,0.0,0.0
+2613,X360,2005,Racing,Namco Bandai Games,0.1,0.02,0.01
+1752,PS2,2006,Role-Playing,Michaelsoft,0.0,0.0,0.0
+5004,Wii,2008,Action,Ubisoft,0.16,0.01,0.02
+856,DS,2009,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+255,3DS,2016,Platform,Capcom,0.13,0.0,0.02
+302,GC,2005,Simulation,Nintendo,0.0,0.0,0.0
+1888,X360,2007,Role-Playing,Microsoft Game Studios,0.18,0.12,0.04
+446,3DS,2013,Platform,Agatsuma Entertainment,0.0,0.0,0.0
+6010,Wii,2008,Fighting,Konami Digital Entertainment,0.13,0.02,0.01
+1790,PSV,2014,Action,Namco Bandai Games,0.06,0.04,0.03
+4455,PS2,2006,Adventure,Alchemist,0.59,0.46,0.15
+1781,DS,2007,Action,Nintendo,1.9,1.83,0.49
+4467,DS,2011,Action,Namco Bandai Games,0.0,0.0,0.0
+3556,PSV,2015,Adventure,Marvelous Games,0.0,0.0,0.0
+1791,GBA,2002,Platform,Nintendo,1.22,0.1,0.04
+5732,PS,1996,Misc,Sony Computer Entertainment,0.02,0.01,0.01
+46,PS4,2016,Action,Namco Bandai Games,0.0,0.0,0.0
+1565,PS2,2002,Sports,Konami Digital Entertainment,0.04,0.03,0.01
+1203,PS3,2007,Platform,Activision,0.26,0.29,0.12
+5475,PS2,2003,Fighting,Namco Bandai Games,1.06,0.62,0.25
+3587,PS,1998,Misc,D3Publisher,0.0,0.0,0.07
+1224,PS3,2011,Action,Tecmo Koei,0.06,0.05,0.02
+4939,GB,2000,Sports,Activision,0.9,0.38,0.05
+1296,PS2,2007,Fighting,Atari,0.26,0.01,0.26
+1852,PSP,2011,Action,D3Publisher,0.0,0.0,0.0
+3037,GB,1999,Role-Playing,Imagineer,0.0,0.0,0.0
+1698,PS,1995,Role-Playing,Sony Computer Entertainment,0.11,0.08,0.04
+853,PS,1999,Simulation,Konami Digital Entertainment,0.0,0.0,0.02
+2368,3DS,2015,Action,Capcom,0.0,0.0,0.0
+428,GBA,2001,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.0
+3906,GBA,2004,Platform,Nintendo,0.17,0.06,0.01
+693,PS3,2011,Role-Playing,Square Enix,0.17,0.14,0.06
+2781,PS3,2008,Shooter,Capcom,0.31,0.17,0.09
+4840,PS2,2007,Fighting,Atari,1.15,0.0,1.09
+2517,PS4,2013,Sports,Electronic Arts,0.61,1.85,0.33
+2971,3DS,2013,Simulation,Nintendo,0.96,2.02,0.28
+4065,DS,2007,Puzzle,Nintendo,1.22,2.48,0.52
+5170,PS,1999,Platform,Sony Computer Entertainment,2.14,1.21,0.17
+4499,3DS,2012,Sports,Konami Digital Entertainment,0.05,0.02,0.01
+3571,PS,1999,Simulation,Taito,0.0,0.0,0.03
+3329,GBA,2004,Platform,Nintendo,0.25,0.09,0.01
+1984,PS2,2002,Action,Activision,2.71,1.51,0.23
+403,PS,1996,Fighting,Asmik Ace Entertainment,0.0,0.0,0.01
+4592,PS3,2012,Role-Playing,Nippon Ichi Software,0.06,0.03,0.02
+2350,X360,2008,Action,Take-Two Interactive,6.76,3.1,1.03
+1981,PS2,2003,Sports,Tecmo Koei,0.0,0.0,0.0
+60,3DS,2014,Action,Namco Bandai Games,0.0,0.0,0.0
+1609,PS3,2010,Action,Capcom,0.43,0.57,0.22
+2153,PS2,2001,Racing,Acclaim Entertainment,1.13,1.12,0.22
+5650,3DS,2013,Simulation,Namco Bandai Games,0.0,0.0,0.0
+4760,PS2,2007,Sports,Tecmo Koei,0.0,0.0,0.0
+3161,PS,1996,Role-Playing,Sony Computer Entertainment,0.26,0.17,0.06
+4423,NES,1988,Role-Playing,SquareSoft,0.0,0.0,0.0
+2923,DS,2007,Misc,Atari,1.18,0.01,0.09
+5919,PS3,2012,Sports,Ackkstudios,0.0,0.0,0.0
+5364,PS2,2007,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+495,PS2,2001,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+3332,DS,2007,Role-Playing,Success,0.0,0.0,0.0
+1173,PS,1999,Sports,Konami Digital Entertainment,0.0,0.0,0.02
+628,PS,1998,Racing,Takara,0.0,0.0,0.02
+374,PSP,2006,Role-Playing,Ubisoft,0.17,0.01,0.02
+2740,PS2,2001,Role-Playing,Sony Computer Entertainment,2.91,2.07,0.33
+662,DS,2008,Misc,Nintendo,0.0,0.0,0.0
+144,PS2,2008,Fighting,Capcom,0.0,0.0,0.0
+2081,PS,1997,Fighting,SNK,0.0,0.0,0.01
+218,PS2,2008,Role-Playing,Gust,0.07,0.05,0.02
+2902,PS4,2017,Role-Playing,Sega,0.0,0.0,0.0
+4413,DS,2006,Misc,TDK Core,0.0,0.0,0.0
+5698,Wii,2011,Action,Namco Bandai Games,0.0,0.0,0.0
+807,X360,2009,Role-Playing,Electronic Arts,1.76,0.56,0.22
+5783,PS,1995,Fighting,Virgin Interactive,0.17,0.11,0.05
+1925,PS3,2011,Action,Deep Silver,1.08,0.75,0.31
+5710,XB,2003,Shooter,Microsoft Game Studios,0.62,0.18,0.03
+1361,NES,1984,Racing,Nintendo,2.04,0.48,0.07
+1374,PSP,2010,Action,Electronic Arts,0.12,0.03,0.03
+5521,PS3,2009,Action,Sony Computer Entertainment,3.27,2.25,1.0
+1083,N64,1997,Platform,Nintendo,0.25,0.06,0.06
+5818,PS3,2013,Action,Tecmo Koei,0.0,0.0,0.0
+1279,DS,2010,Role-Playing,Rocket Company,0.0,0.0,0.0
+2118,DS,2007,Role-Playing,Banpresto,0.07,0.0,0.01
+1742,SAT,1998,Simulation,ESP,0.0,0.0,0.0
+2994,PS2,2001,Sports,Konami Digital Entertainment,0.06,0.9,0.27
+4537,NES,1994,Role-Playing,Square,0.0,0.0,0.0
+4588,SNES,1995,Shooter,Konami Digital Entertainment,0.0,0.0,0.0
+1157,DC,1998,Fighting,Eidos Interactive,0.0,0.0,0.0
+3606,PS,1999,Adventure,LucasArts,0.72,0.89,0.1
+3311,Wii,2007,Simulation,Electronic Arts,0.91,0.55,0.17
+2361,GB,1991,Platform,Nintendo,0.0,0.0,0.0
+1362,PSP,2011,Adventure,D3Publisher,0.0,0.0,0.0
+5806,PS2,2008,Adventure,5pb,0.0,0.0,0.0
+797,WiiU,2015,Platform,Nintendo,1.18,0.87,0.2
+3929,PSP,2010,Misc,D3Publisher,0.0,0.0,0.0
+1088,PS2,2007,Racing,THQ,0.19,0.15,0.05
+832,PS4,2015,Action,Capcom,0.13,0.24,0.07
+4539,GBA,2005,Role-Playing,Capcom,0.09,0.03,0.02
+228,Wii,2006,Role-Playing,Nintendo,0.8,0.38,0.13
+2344,GC,2003,Racing,Electronic Arts,0.69,0.48,0.03
+1561,GC,2002,Action,Nintendo,2.6,0.99,0.13
+5749,PS,1999,Strategy,SquareSoft,0.1,0.07,0.03
+5846,PS2,2007,Sports,Konami Digital Entertainment,0.05,0.0,2.93
+3140,X360,2011,Action,Ubisoft,2.25,1.47,0.43
+2003,PS,2000,Fighting,THQ,2.01,1.35,0.16
+4316,PS,1994,Simulation,Electronic Arts,0.24,0.16,0.04
+4104,PS2,2005,Sports,Activision,0.8,0.63,0.19
+5782,PS2,2006,Sports,Electronic Arts,0.17,0.13,0.04
+523,PSP,2007,Shooter,Electronic Arts,0.5,0.39,0.25
+806,Wii,2006,Puzzle,Nintendo,0.08,0.02,0.01
+5956,SAT,1997,Platform,Capcom,0.0,0.0,0.0
+5367,PS2,2001,Shooter,Take-Two Interactive,1.99,1.05,0.22
+4061,GB,1992,Platform,Nintendo,2.71,0.61,0.11
+588,DS,2006,Action,Sega,0.0,0.0,0.0
+2632,PS,1999,Role-Playing,Square,0.0,0.0,0.03
+5417,PSP,2008,Strategy,Namco Bandai Games,0.0,0.0,0.0
+99,PS,1995,Shooter,Sony Computer Entertainment,0.0,0.0,0.01
+769,PS3,2013,Role-Playing,Nippon Ichi Software,0.09,0.0,0.01
+3020,X360,2014,Role-Playing,Namco Bandai Games,0.48,0.2,0.06
+1306,PSV,2016,Role-Playing,Compile Heart,0.0,0.0,0.0
+1244,X360,2012,Action,Square Enix,0.38,0.41,0.08
+3177,3DS,2016,Action,Namco Bandai Games,0.0,0.0,0.0
+5688,X360,2010,Role-Playing,Microsoft Game Studios,3.59,1.11,0.38
+2560,PS2,2001,Action,Konami Digital Entertainment,2.45,2.01,0.72
+2356,DS,2010,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+5804,PS3,2014,Fighting,Atlus,0.0,0.01,0.0
+3490,PS3,2012,Shooter,Take-Two Interactive,0.59,0.92,0.32
+4882,SAT,1995,Adventure,Yumedia,0.0,0.0,0.0
+5507,X360,2007,Racing,Microsoft Game Studios,0.48,1.29,0.25
+2128,DS,2008,Role-Playing,GungHo,0.1,0.0,0.01
+1489,PSP,2008,Racing,Electronic Arts,0.24,0.33,0.2
+5594,PS2,2001,Misc,Sony Music Entertainment,0.0,0.0,0.0
+3862,PS2,2006,Adventure,Media Works,0.0,0.0,0.0
+1910,DS,2004,Misc,Nintendo,0.0,0.0,0.0
+3101,3DS,2011,Role-Playing,Square Enix,0.0,0.0,0.0
+3461,PS2,2007,Role-Playing,Flight-Plan,0.0,0.0,0.0
+1249,SNES,1992,Adventure,ChunSoft,0.0,0.0,0.0
+2126,DS,2007,Misc,Square Enix,0.0,0.0,0.0
+2721,DS,2008,Role-Playing,Sega,0.09,0.0,0.01
+3917,PSV,2012,Action,Konami Digital Entertainment,0.16,0.18,0.09
+1871,DS,2009,Action,Namco Bandai Games,0.0,0.0,0.0
+75,X360,2006,Shooter,Microsoft Game Studios,3.54,1.9,0.6
+1195,NG,1996,Fighting,SNK,0.0,0.0,0.0
+656,Wii,2012,Action,Nintendo,0.34,0.0,0.02
+3730,PS2,2008,Misc,Naxat Soft,0.0,0.0,0.0
+1592,PS2,2007,Adventure,Prototype,0.0,0.0,0.0
+5827,DS,2006,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+5988,PS2,2008,Adventure,Alchemist,0.0,0.0,0.0
+5986,PSP,2011,Adventure,5pb,0.0,0.0,0.0
+1268,DS,2010,Platform,Sega,0.74,0.5,0.13
+1933,PS2,2011,Adventure,Prototype,0.0,0.0,0.0
+2384,GBA,2005,Action,Sega,0.0,0.0,0.02
+6006,PS,1999,Racing,Square,0.0,0.0,0.01
+1652,SNES,1994,Action,Banpresto,0.0,0.0,0.0
+5315,PS3,2010,Role-Playing,Square Enix,0.17,0.2,0.07
+2859,PS,1999,Strategy,Banpresto,0.0,0.0,0.01
+4420,PSP,2011,Strategy,System Soft,0.0,0.0,0.0
+1921,DS,2007,Misc,Nintendo,0.0,0.0,0.0
+5497,PS3,2012,Misc,Fields,0.0,0.0,0.0
+777,3DS,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+1264,PS3,2014,Action,Bethesda Softworks,0.26,0.39,0.14
+3348,N64,1997,Shooter,Nintendo,5.8,2.01,0.15
+2652,PS3,2008,Shooter,Ubisoft,0.49,0.33,0.15
+2865,PS,1995,Shooter,THQ,0.03,0.02,0.01
+4035,PS2,2007,Action,Marvelous Interactive,0.0,0.0,0.0
+1669,PS2,2007,Strategy,D3Publisher,0.0,0.0,0.0
+4469,X360,2010,Role-Playing,Capcom,0.0,0.0,0.0
+5718,PS3,2015,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+2191,PS2,2002,Adventure,ChunSoft,0.0,0.0,0.0
+5242,DS,2011,Fighting,Namco Bandai Games,0.0,0.0,0.0
+813,PS3,2013,Simulation,5pb,0.0,0.0,0.0
+4985,PSV,2014,Role-Playing,Sega,0.0,0.0,0.0
+885,PS3,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+2062,PSP,2010,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+1920,PS2,2007,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+3496,PSP,2012,Adventure,5pb,0.0,0.0,0.0
+467,PS2,2010,Adventure,Idea Factory,0.0,0.0,0.0
+5947,PS,1996,Racing,Sony Computer Entertainment,0.0,0.0,0.02
+5632,GBA,2002,Platform,Sega,0.93,0.59,0.07
+1037,PSP,2011,Action,Namco Bandai Games,0.0,0.0,0.0
+4428,DS,2008,Adventure,D3Publisher,0.0,0.0,0.0
+48,PS2,2005,Simulation,Banpresto,0.0,0.0,0.0
+114,DS,2008,Misc,GungHo,0.0,0.0,0.0
+4910,PSP,2011,Adventure,Idea Factory,0.0,0.0,0.0
+477,3DS,2016,Role-Playing,Square Enix,0.0,0.0,0.0
+5454,X360,2007,Shooter,Electronic Arts,0.45,0.53,0.12
+1950,DS,2006,Simulation,Namco Bandai Games,0.09,0.02,0.01
+2571,SNES,1991,Sports,Culture Brain,0.0,0.0,0.0
+1968,PS,1996,Racing,Sony Computer Entertainment,0.16,0.11,0.08
+2798,GBA,2002,Role-Playing,Nintendo,0.61,0.27,0.07
+1161,Wii,2007,Sports,Nintendo,1.07,1.06,0.25
+4685,PS3,2015,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+143,Wii,2011,Sports,Sega,1.14,1.91,0.46
+1650,DS,2009,Role-Playing,Square Enix,0.0,0.0,0.0
+4555,3DS,2013,Simulation,Tecmo Koei,0.0,0.0,0.0
+4398,PSP,2012,Role-Playing,Starfish,0.0,0.0,0.0
+1765,PSP,2008,Adventure,Tecmo Koei,0.0,0.0,0.0
+5802,PS2,2000,Sports,Electronic Arts,0.0,0.0,0.0
+4071,N64,2000,Racing,Nintendo,0.65,0.15,0.01
+2328,DS,2005,Platform,Sega,1.22,1.57,0.29
+4103,PS,1998,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.02
+3737,SNES,1995,Sports,ASCII Entertainment,0.0,0.0,0.0
+4412,PSP,2006,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+606,PS4,2015,Action,Warner Bros. Interactive Entertainment,0.32,0.42,0.14
+4833,3DS,2015,Puzzle,Nintendo,0.0,0.0,0.0
+3034,PSV,2014,Role-Playing,Experience Inc.,0.0,0.0,0.0
+3172,PSP,2007,Role-Playing,Square Enix,0.39,0.02,0.04
+1800,Wii,2009,Strategy,Nintendo,0.11,0.14,0.02
+3150,PS2,2004,Action,Electronic Arts,0.22,0.05,0.02
+2682,Wii,2007,Fighting,Marvelous Interactive,0.0,0.0,0.0
+972,WiiU,2013,Misc,Nintendo,0.31,0.54,0.08
+1405,DS,2008,Role-Playing,Sega,0.0,0.0,0.0
+306,PS3,2011,Fighting,Capcom,0.0,0.04,0.01
+2012,PS3,2016,Action,Namco Bandai Games,0.0,0.0,0.0
+3964,PSP,2008,Role-Playing,Capcom,0.47,0.57,0.34
+1530,PS3,2008,Fighting,505 Games,0.0,0.0,0.0
+4950,N64,1996,Platform,Nintendo,6.91,2.85,0.23
+3148,PS3,2010,Simulation,Electronic Arts,0.73,0.97,0.34
+3514,X360,2009,Fighting,Namco Bandai Games,0.36,0.09,0.04
+5960,GC,2006,Action,Nintendo,1.15,0.36,0.04
+719,PS,2001,Strategy,Banpresto,0.0,0.0,0.04
+546,PS2,2006,Adventure,Enterbrain,0.0,0.0,0.0
+1035,DS,2009,Action,Russel,0.0,0.0,0.0
+2298,DS,2009,Action,Takara Tomy,0.0,0.0,0.0
+2967,WiiU,2015,Role-Playing,Nintendo,0.36,0.28,0.06
+754,Wii,2011,Strategy,Namco Bandai Games,0.0,0.0,0.0
+4707,DS,2008,Misc,Culture Brain,0.0,0.0,0.0
+4130,PS3,2012,Action,Sony Computer Entertainment,0.42,0.32,0.15
+5001,Wii,2011,Action,Nintendo,2.14,1.2,0.4
+274,DS,2010,Action,Activision,0.42,0.02,0.03
+730,PS3,2016,Misc,Namco Bandai Games,0.0,0.0,0.0
+3785,PS,1997,Puzzle,Sony Computer Entertainment,0.13,0.07,0.02
+219,PS3,2015,Fighting,Nitroplus,0.0,0.0,0.0
+4998,Wii,2010,Misc,Hudson Soft,0.0,0.0,0.0
+3943,3DS,2015,Misc,Nintendo,0.0,0.0,0.0
+282,PS2,2002,Sports,THQ,0.02,0.01,0.0
+5279,DS,2008,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+3127,PS3,2016,Adventure,Sega,0.0,0.0,0.0
+4331,GBA,2002,Action,Capcom,0.0,0.0,0.0
+5754,PSP,2011,Action,Level 5,0.0,0.0,0.0
+134,DS,2007,Misc,Shogakukan,0.0,0.0,0.0
+2070,PS2,2008,Role-Playing,Banpresto,0.0,0.0,0.0
+1705,PS3,2007,Action,Tecmo Koei,0.1,0.03,0.02
+2335,Wii,2010,Platform,Nintendo,1.47,0.09,0.11
+3245,GBA,2003,Platform,Nintendo,0.0,0.0,0.01
+2815,Wii,2008,Action,Square Enix,0.0,0.0,0.0
+5600,PS2,2007,Shooter,Electronic Arts,0.0,0.0,0.0
+482,PSP,2011,Role-Playing,Unknown,0.0,0.0,0.0
+2140,PS3,2014,Action,Warner Bros. Interactive Entertainment,0.33,0.48,0.18
+2250,PS3,2006,Shooter,Activision,0.6,0.63,0.26
+3713,PS2,2004,Fighting,Banpresto,0.0,0.0,0.0
+5894,SAT,1996,Platform,Sega,0.0,0.0,0.0
+919,PS,1999,Racing,Sony Computer Entertainment,2.57,1.57,0.21
+684,PS4,2014,Role-Playing,Compile Heart,0.0,0.0,0.0
+3118,PSP,2011,Adventure,Namco Bandai Games,0.0,0.0,0.0
+2244,GBA,2003,Action,THQ,1.59,1.05,0.14
+5836,SNES,1993,Shooter,Nintendo,1.61,0.51,0.07
+917,PS2,2001,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3841,SAT,1997,Sports,Sega,0.0,0.0,0.0
+5492,PS4,2016,Misc,Tecmo Koei,0.0,0.0,0.0
+4440,DS,2005,Misc,Nintendo,0.01,0.0,0.0
+3492,3DS,2011,Platform,Nintendo,4.89,2.99,0.78
+4372,PS4,2013,Platform,Sony Computer Entertainment Europe,0.43,0.67,0.15
+6043,PS3,2006,Fighting,Electronic Arts,0.81,0.59,0.26
+4417,SNES,1996,Strategy,Nintendo,0.0,0.0,0.0
+2960,3DS,2015,Strategy,Tecmo Koei,0.0,0.0,0.0
+5092,3DS,2013,Adventure,Success,0.0,0.0,0.0
+1445,PSP,2005,Misc,Sega,0.0,0.0,0.0
+2980,PSP,2008,Adventure,Alchemist,0.0,0.0,0.0
+2171,PS,1996,Action,Electronic Arts,0.05,0.04,0.02
+1616,DS,2007,Action,Kadokawa Shoten,0.0,0.0,0.0
+3797,PS4,2014,Action,505 Games,0.0,0.05,0.01
+1995,Wii,2009,Role-Playing,Square Enix,0.13,0.06,0.02
+3605,X360,2011,Action,Electronic Arts,0.7,0.5,0.12
+1703,PS,1996,Role-Playing,Konami Digital Entertainment,0.14,0.09,0.03
+6079,PS2,2001,Action,THQ,0.53,0.16,0.1
+4168,PSP,2011,Adventure,Idea Factory,0.0,0.0,0.0
+1701,SAT,1996,Adventure,Imagineer,0.0,0.0,0.0
+6067,3DS,2014,Action,Nippon Columbia,0.0,0.0,0.0
+1353,X360,2010,Role-Playing,Square Enix,1.27,0.68,0.2
+2442,PSP,2013,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+3013,Wii,2008,Misc,Namco Bandai Games,0.0,0.0,0.0
+941,X360,2009,Sports,Electronic Arts,0.59,1.79,0.23
+4726,DS,2006,Adventure,505 Games,0.0,0.0,0.0
+1454,3DS,2013,Role-Playing,Kadokawa Shoten,0.0,0.0,0.0
+2723,PS3,2013,Simulation,Focus Home Interactive,0.0,0.1,0.04
+5637,PSP,2007,Role-Playing,Tecmo Koei,0.02,0.0,0.0
+3181,PSV,2015,Adventure,Nippon Ichi Software,0.0,0.0,0.0
+4204,PSP,2011,Adventure,FuRyu,0.0,0.0,0.0
+4604,3DS,2014,Sports,Kadokawa Shoten,0.0,0.0,0.0
+4394,PSP,2004,Role-Playing,Namco Bandai Games,0.03,0.0,0.0
+671,GBA,2004,Action,Nintendo,0.0,0.0,0.0
+4264,X360,2012,Shooter,Activision,8.25,4.3,1.12
+5461,PS2,2008,Misc,D3Publisher,0.0,0.0,0.0
+485,DS,2008,Role-Playing,Nintendo,0.31,0.03,0.03
+439,XOne,2014,Shooter,Ubisoft,0.79,0.68,0.13
+5987,GEN,1994,Misc,Sega,0.0,0.0,0.0
+3396,PS2,2005,Shooter,Electronic Arts,0.89,0.69,0.21
+666,PSP,2009,Shooter,Sony Computer Entertainment,0.27,0.36,0.22
+2804,DS,2009,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+391,3DS,2012,Misc,Nintendo,0.0,0.0,0.0
+636,PS2,2002,Racing,Zoo Digital Publishing,0.0,0.0,0.0
+2425,PS2,2009,Fighting,Namco Bandai Games,0.0,0.0,0.0
+3171,DS,2010,Misc,Nintendo,0.28,1.68,0.28
+4727,DS,2007,Puzzle,Nintendo,0.17,0.02,0.02
+921,PSP,2009,Sports,Electronic Arts,0.21,0.0,0.02
+5918,PS3,2007,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3407,DS,2008,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+5759,PSV,2015,Action,Capcom,0.01,0.05,0.01
+5849,PSP,2006,Puzzle,Namco Bandai Games,0.0,0.0,0.0
+2247,SAT,1995,Simulation,Sega,0.0,0.0,0.0
+2706,DS,2008,Strategy,Namco Bandai Games,0.0,0.0,0.0
+950,PS,1998,Action,Capcom,0.0,0.0,0.02
+3233,PSV,2014,Action,Tecmo Koei,0.0,0.0,0.0
+2059,DS,2008,Action,MTO,0.0,0.0,0.0
+2578,PS2,2003,Platform,Sega,1.04,1.37,0.49
+5241,PSP,2009,Adventure,Sony Computer Entertainment,0.0,0.0,0.0
+1641,PS3,2010,Adventure,Aqua Plus,0.0,0.0,0.0
+4008,3DS,2012,Sports,Sega,0.18,0.64,0.1
+1117,3DS,2016,Action,Warner Bros. Interactive Entertainment,0.07,0.08,0.01
+4653,PSP,2010,Role-Playing,Capcom,0.0,0.0,0.0
+1355,WiiU,2014,Racing,Nintendo,3.13,2.07,0.49
+398,DS,2010,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+3498,PS3,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+1042,PS2,2008,Action,Tecmo Koei,0.0,0.0,0.0
+406,PS2,2008,Adventure,5pb,0.0,0.0,0.0
+6071,PS2,2005,Action,Activision,0.57,0.02,0.09
+4415,PS3,2010,Action,Namco Bandai Games,0.0,0.0,0.0
+2296,SAT,1997,Shooter,Hudson Soft,0.0,0.0,0.0
+1399,DS,2011,Misc,Disney Interactive Studios,0.0,0.0,0.0
+3488,PS2,2006,Simulation,Banpresto,0.0,0.0,0.0
+994,DS,2007,Role-Playing,Banpresto,0.0,0.0,0.0
+1914,PSP,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+505,DS,2005,Action,Konami Digital Entertainment,0.0,0.0,0.0
+13,PSP,2008,Misc,Ignition Entertainment,0.13,0.0,0.01
+1841,DS,2009,Adventure,ASCII Media Works,0.0,0.0,0.0
+5090,PSV,2015,Adventure,dramatic create,0.0,0.0,0.0
+2530,PS4,2016,Fighting,Yeti,0.0,0.0,0.0
+2319,X360,2010,Action,Marvelous Interactive,0.0,0.0,0.0
+3270,PS2,2000,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+4795,PSP,2010,Action,PQube,0.05,0.01,0.01
+3340,N64,1997,Racing,Nintendo,2.91,0.99,0.1
+4839,PS2,2001,Sports,Electronic Arts,0.52,0.4,0.13
+433,PSV,2014,Adventure,Nippon Ichi Software,0.0,0.0,0.0
+4663,Wii,2011,Action,Electronic Arts,0.13,0.13,0.03
+5216,DS,2006,Misc,Nintendo,0.0,0.99,0.02
+4074,DS,2009,Misc,Rocket Company,0.0,0.0,0.0
+5126,X360,2007,Role-Playing,Square Enix,0.13,0.0,0.01
+3090,DS,2008,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+3079,PS3,2010,Platform,Sony Computer Entertainment,0.52,0.09,0.07
+2359,PSP,2009,Sports,Sony Computer Entertainment,0.0,0.0,0.0
+3263,PSV,2014,Fighting,Arc System Works,0.06,0.0,0.02
+3434,PSV,2014,Misc,Sega,0.13,0.06,0.06
+5624,PS2,2002,Sports,SquareSoft,0.0,0.0,0.0
+4402,PS3,2012,Action,Konami Digital Entertainment,0.0,0.0,0.0
+931,DS,2007,Action,Namco Bandai Games,0.0,0.0,0.0
+1072,DS,2006,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+1067,PS3,2010,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+4503,DC,2000,Racing,Sega,1.1,0.51,0.08
+5509,PS2,2001,Action,Take-Two Interactive,6.99,4.51,1.3
+5738,3DS,2011,Action,Namco Bandai Games,0.0,0.0,0.0
+4183,3DS,2016,Action,GungHo,0.0,0.0,0.0
+1218,Wii,2011,Action,Nintendo,0.27,0.2,0.05
+1758,PS3,2012,Racing,Electronic Arts,0.71,1.51,0.61
+2040,SAT,1995,Misc,Sega,0.0,0.0,0.0
+3688,PS,1997,Role-Playing,ASCII Entertainment,0.11,0.07,0.03
+5483,PS3,2014,Shooter,Ubisoft,0.33,0.79,0.23
+4218,PSP,2010,Adventure,D3Publisher,0.0,0.0,0.0
+1702,PSP,2009,Sports,Sega,0.0,0.0,0.0
+2399,DS,2010,Sports,Sega,0.0,0.0,0.0
+3749,GBA,2001,Platform,Nintendo,3.14,1.24,0.2
+3023,N64,1997,Puzzle,Compile,0.0,0.0,0.03
+4233,DS,2008,Sports,Sega,1.64,2.48,0.58
+4731,PSP,2007,Sports,Sony Computer Entertainment,0.0,0.0,0.0
+5721,WiiU,2012,Platform,Nintendo,2.32,1.3,0.31
+2964,Wii,2008,Action,Nintendo,0.0,0.03,0.0
+181,DS,2007,Role-Playing,Gust,0.0,0.0,0.0
+5880,DS,2010,Simulation,505 Games,0.4,0.21,0.05
+877,PSP,2013,Strategy,Namco Bandai Games,0.0,0.0,0.0
+1848,3DS,2014,Platform,Nintendo,0.47,0.51,0.09
+702,NES,1984,Action,Nintendo,0.8,0.19,0.03
+1455,SAT,1997,Role-Playing,NEC Interchannel,0.0,0.0,0.0
+3277,PS3,2010,Strategy,Ubisoft,0.18,0.22,0.09
+3188,Wii,2009,Shooter,Sega,0.46,0.31,0.09
+3254,PS3,2014,Adventure,Namco Bandai Games,0.0,0.0,0.0
+1756,SAT,1998,Role-Playing,Kadokawa Shoten,0.0,0.0,0.0
+2605,WiiU,2014,Platform,Nintendo,0.73,0.52,0.12
+1308,PS3,2013,Shooter,Electronic Arts,0.11,0.11,0.05
+2653,PS3,2011,Shooter,Square Enix,0.5,0.6,0.23
+567,Wii,2009,Adventure,Square Enix,0.0,0.0,0.0
+1610,X360,2009,Fighting,Ignition Entertainment,0.09,0.0,0.01
+1084,PSP,2010,Action,Spike,0.0,0.0,0.0
+3823,GEN,1994,Platform,Virgin Interactive,0.97,0.37,0.05
+405,DS,2006,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+2051,PS,1996,Action,Virgin Interactive,0.45,0.3,0.07
+1452,X360,2013,Action,Ubisoft,0.57,0.34,0.08
+4934,SNES,1994,Role-Playing,Banpresto,0.0,0.0,0.0
+1524,PS3,2008,Sports,Electronic Arts,0.46,0.0,0.04
+970,PSV,2014,Action,Compile Heart,0.0,0.0,0.0
+1112,Wii,2012,Action,Nintendo,0.0,0.0,0.0
+1748,DS,2006,Adventure,Capcom,0.24,0.05,0.03
+5452,PSP,2013,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+4884,PS2,2006,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2327,PSV,2014,Action,D3Publisher,0.0,0.0,0.0
+5577,GB,1989,Puzzle,Nintendo,0.96,0.38,0.05
+5737,PSV,2015,Adventure,TGL,0.0,0.0,0.0
+4369,PS2,2006,Action,Namco Bandai Games,0.0,0.0,0.0
+2409,3DS,2013,Action,Namco Bandai Games,0.0,0.0,0.0
+278,PS,2000,Fighting,THQ,1.76,1.21,0.16
+3435,3DS,2013,Platform,Sega,0.24,0.15,0.03
+2602,PSV,2014,Misc,Sega,0.0,0.0,0.0
+2897,PSV,2013,Role-Playing,Sony Computer Entertainment,0.18,0.09,0.06
+2200,PSV,2012,Action,GungHo,0.0,0.0,0.0
+5578,PSV,2015,Action,Idea Factory,0.0,0.0,0.0
+3824,PSV,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+4714,SNES,1991,Action,Nintendo,2.42,0.91,0.13
+3481,PSP,2010,Role-Playing,Capcom,0.0,0.0,0.0
+1648,PS4,2014,Role-Playing,Nippon Ichi Software,0.05,0.02,0.01
+5157,PSP,2010,Strategy,Sony Computer Entertainment,0.0,0.0,0.0
+968,PSP,2010,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+986,PS4,2014,Action,Sony Computer Entertainment,1.78,1.87,0.82
+4229,SNES,1991,Misc,Epoch,0.0,0.0,0.0
+4927,X360,2009,Platform,Capcom,0.12,0.12,0.03
+3015,DS,2007,Role-Playing,Nintendo,0.0,0.0,0.0
+3789,GB,2000,Role-Playing,Imagineer,0.0,0.0,0.0
+4575,PS3,2008,Sports,Ubisoft,0.31,0.24,0.1
+1448,SAT,1999,Sports,ASCII Entertainment,0.0,0.0,0.0
+5963,PS2,2007,Role-Playing,Spike,0.0,0.0,0.0
+3019,PS2,2002,Puzzle,Midas Interactive Entertainment,0.0,0.0,0.0
+5397,Wii,2008,Simulation,Nintendo,1.87,1.12,0.37
+4125,PSP,2012,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+3520,PS3,2007,Sports,Sega,0.23,0.59,0.22
+5465,PSP,2012,Role-Playing,Acquire,0.0,0.0,0.0
+190,DS,2010,Strategy,Namco Bandai Games,0.0,0.0,0.0
+2787,PS2,2006,Fighting,Namco Bandai Games,0.0,0.0,0.0
+516,3DS,2013,Role-Playing,Rising Star Games,0.22,0.13,0.04
+3338,PS3,2014,Action,Namco Bandai Games,0.0,0.0,0.0
+2599,DS,2007,Puzzle,Nintendo,0.14,0.01,0.01
+3029,PS3,2008,Racing,Sega,0.0,0.0,0.0
+2454,NES,1983,Sports,Nintendo,0.73,0.1,0.02
+1534,PS2,2005,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+1861,PS2,2004,Simulation,Sony Computer Entertainment Europe,0.88,0.34,0.18
+2693,PS3,2011,Shooter,Warner Bros. Interactive Entertainment,0.21,0.17,0.07
+6004,DC,2000,Sports,Sega,0.0,0.0,0.0
+5498,PS2,2006,Action,Acquire,0.0,0.0,0.0
+426,DS,2008,Sports,Jaleco,0.0,0.0,0.0
+5628,PSP,2009,Puzzle,Sega,0.0,0.0,0.0
+2651,PSP,2013,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+4649,GBA,2001,Misc,Konami Digital Entertainment,0.42,0.16,0.01
+3915,PSP,2007,Fighting,Grand Prix Games,0.0,0.0,0.0
+4347,PSV,2015,Action,5pb,0.0,0.0,0.0
+5933,3DS,2013,Fighting,Arc System Works,0.0,0.0,0.0
+2041,PSP,2004,Puzzle,Ignition Entertainment,0.0,0.0,0.0
+3078,Wii,2009,Role-Playing,Marvelous Interactive,0.13,0.0,0.01
+2389,PS3,2011,Fighting,Rising Star Games,0.17,0.07,0.03
+2769,SAT,1995,Misc,Sega,0.0,0.0,0.0
+3203,SNES,1993,Action,Namco Bandai Games,0.0,0.0,0.0
+3721,PS2,2009,Fighting,AQ Interactive,0.0,0.0,0.0
+239,NES,1991,Sports,Nintendo,0.41,0.1,0.02
+351,PS2,2001,Sports,Sony Computer Entertainment,0.99,0.32,0.2
+3436,DS,2008,Role-Playing,Nobilis,0.08,0.0,0.01
+1618,DS,2007,Simulation,MTO,0.0,0.0,0.0
+4305,PS3,2015,Action,Square Enix,0.01,0.0,0.0
+1071,PS,1994,Shooter,Konami Digital Entertainment,0.0,0.0,0.02
+991,X360,2009,Shooter,Microsoft Game Studios,4.34,1.35,0.61
+5446,GB,1996,Puzzle,Nintendo,0.0,0.0,0.0
+518,PS4,2015,Action,PQube,0.07,0.03,0.02
+3068,PS,1996,Racing,Sony Computer Entertainment,1.33,0.4,0.07
+743,PSP,2006,Platform,Sony Computer Entertainment,0.14,0.05,0.04
+110,PSV,2014,Adventure,Giga,0.0,0.0,0.0
+3050,X360,2011,Role-Playing,Bethesda Softworks,5.03,2.86,0.85
+5433,PS3,2010,Shooter,Square Enix,0.17,0.28,0.1
+4438,PSP,2012,Action,Quinrose,0.0,0.0,0.0
+2135,PS4,2015,Shooter,Electronic Arts,0.7,0.93,0.32
+304,PSV,2016,Action,Kadokawa Games,0.0,0.0,0.0
+3330,PS2,2007,Strategy,Tecmo Koei,0.0,0.0,0.0
+2131,PSP,2011,Misc,Sony Computer Entertainment,0.05,0.04,0.02
+341,PSP,2010,Misc,D3Publisher,0.0,0.0,0.0
+2469,DS,2009,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+3596,NES,1984,Racing,Nintendo,0.0,0.0,0.0
+2125,PS3,2010,Fighting,THQ,0.44,0.46,0.18
+3577,PS,2002,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+6056,X360,2010,Role-Playing,Bethesda Softworks,2.65,1.06,0.33
+2642,PS2,2007,Adventure,Nippon Ichi Software,0.0,0.0,0.0
+831,PS,2000,Sports,Konami Digital Entertainment,0.0,0.0,0.01
+3402,3DS,2012,Action,Ubisoft Annecy,0.0,0.0,0.0
+3633,DS,2008,Shooter,Arika,0.0,0.0,0.0
+4143,DS,2006,Fighting,Namco Bandai Games,0.02,0.01,0.0
+1664,PS4,2016,Sports,Konami Digital Entertainment,0.01,0.16,0.03
+5673,X360,2009,Action,Microsoft Game Studios,0.14,0.14,0.03
+6009,PS,1997,Adventure,Capcom,0.39,0.26,0.05
+4602,PS2,2008,Role-Playing,Sega,0.0,0.0,0.0
+4392,PS2,2002,Action,Take-Two Interactive,8.41,5.49,1.78
+4312,PSP,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+8,PSV,2015,Action,Unknown,0.0,0.0,0.0
+3769,SNES,1995,Platform,Konami Digital Entertainment,0.0,0.0,0.0
+5603,PS2,2000,Sports,Electronic Arts,1.19,0.07,0.2
+2039,PS3,2010,Shooter,Namco Bandai Games,0.18,0.21,0.08
+3684,GB,1992,Puzzle,Nintendo,0.0,0.0,0.0
+3727,DS,2009,Puzzle,Nintendo,0.3,0.03,0.03
+1179,PS3,2011,Action,DTP Entertainment,0.07,0.07,0.03
+32,DS,2008,Simulation,Creative Core,0.0,0.0,0.0
+2974,GB,1989,Sports,Nintendo,0.83,0.33,0.04
+2117,DS,2007,Adventure,Tecmo Koei,0.0,0.0,0.0
+450,X360,2008,Role-Playing,Square Enix,0.25,0.2,0.06
+2618,PS2,2007,Misc,D3Publisher,0.0,0.0,0.0
+2233,PS2,2006,Action,Tecmo Koei,0.02,0.02,0.01
+4655,PS3,2009,Action,Sega,0.44,0.41,0.17
+4769,GBA,2002,Role-Playing,Capcom,0.39,0.02,0.03
+982,DS,2008,Fighting,Takara Tomy,0.0,0.0,0.0
+3887,X360,2009,Racing,Microsoft Game Studios,2.99,1.92,0.51
+5411,PSP,2008,Fighting,Sony Computer Entertainment,0.0,0.0,0.0
+3521,PS3,2008,Fighting,Atari,0.22,0.34,0.12
+5066,PSP,2008,Adventure,Hudson Soft,0.0,0.0,0.0
+4744,PSV,2012,Action,Activision,0.8,0.52,0.3
+3264,PS3,2010,Shooter,Capcom,0.29,0.34,0.13
+4504,NG,1993,Fighting,SNK,0.0,0.0,0.0
+1273,PS3,2009,Action,Capcom,1.96,1.43,0.65
+301,3DS,2015,Role-Playing,Namco Bandai Games,0.04,0.04,0.01
+5462,PS3,2011,Action,Namco Bandai Games,0.3,0.16,0.07
+4032,PS3,2015,Action,Tecmo Koei,0.0,0.0,0.0
+750,PSP,2012,Action,Idea Factory,0.0,0.0,0.0
+463,SAT,1997,Adventure,Imagineer,0.0,0.0,0.0
+3408,PS2,2001,Shooter,Electronic Arts,1.9,1.13,0.41
+2570,GBA,2003,Strategy,Banpresto,0.0,0.0,0.01
+579,X360,2009,Sports,Electronic Arts,0.82,0.17,0.09
+643,PSP,2008,Strategy,Namco Bandai Games,0.0,0.0,0.0
+280,DS,2009,Adventure,Namco Bandai Games,0.0,0.0,0.0
+3453,PS2,2006,Role-Playing,505 Games,0.0,0.0,0.0
+4278,PS,1998,Adventure,From Software,0.03,0.02,0.01
+3344,PS2,2007,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+5189,Wii,2007,Adventure,Nobilis,0.0,0.0,0.0
+3615,Wii,2006,Racing,Nintendo,0.4,0.03,0.04
+2494,X360,2012,Action,Electronic Arts,0.58,0.47,0.1
+989,PS3,2013,Fighting,Namco Bandai Games,0.0,0.0,0.0
+5209,NES,1991,Platform,Capcom,0.51,0.09,0.01
+4321,PS4,2016,Platform,Sony Computer Entertainment,0.32,0.64,0.18
+5484,PSV,2016,Adventure,Idea Factory,0.0,0.0,0.0
+4626,SNES,1991,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+2122,PS3,2011,Platform,Sega,0.6,0.73,0.28
+62,SNES,1994,Role-Playing,Culture Brain,0.0,0.0,0.0
+4558,SNES,1991,Strategy,Namco Bandai Games,0.0,0.0,0.0
+2536,WiiU,2015,Sports,Nintendo,0.13,0.16,0.03
+5773,3DS,2011,Action,Tecmo Koei,0.12,0.05,0.01
+216,PS3,2007,Platform,Sony Computer Entertainment,0.93,1.12,0.45
+4851,DS,2007,Misc,Rocket Company,0.0,0.0,0.0
+5887,PSV,2015,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+4500,PS2,2006,Action,Capcom,0.11,0.03,0.34
+3792,PS,1997,Fighting,Xing Entertainment,0.04,0.03,0.02
+414,PS,1996,Racing,Jaleco,0.06,0.04,0.02
+4845,X360,2008,Role-Playing,Microsoft Game Studios,2.51,1.27,0.41
+1114,PSP,2008,Simulation,Namco Bandai Games,0.0,0.0,0.0
+4083,DS,2009,Adventure,Alchemist,0.0,0.0,0.0
+2609,Wii,2006,Action,Nintendo,3.83,2.19,0.7
+2928,SNES,1995,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+4886,3DS,2012,Simulation,Nintendo,2.01,2.32,0.41
+2227,X360,2008,Shooter,Moss,0.1,0.0,0.01
+113,PS3,2007,Role-Playing,Ubisoft,1.69,0.87,0.42
+2772,SNES,1992,Misc,Nintendo,1.43,0.54,0.07
+893,PSV,2012,Shooter,Sony Computer Entertainment,0.21,0.16,0.07
+5786,3DS,2015,Strategy,Nintendo,0.14,0.05,0.02
+584,PS2,2006,Adventure,Sweets,0.0,0.0,0.0
+165,PSP,2004,Action,Tecmo Koei,0.18,0.01,0.02
+4645,PS2,2008,Adventure,GN Software,0.0,0.0,0.0
+1236,PS2,2006,Adventure,Taito,0.0,0.0,0.0
+3253,DS,2010,Action,Namco Bandai Games,0.0,0.0,0.0
+1205,PS,1999,Role-Playing,Namco Bandai Games,0.56,0.38,0.08
+5873,PS4,2014,Sports,Konami Digital Entertainment,0.09,0.43,0.13
+4377,PSV,2015,Misc,Namco Bandai Games,0.0,0.0,0.0
+6060,PS2,2001,Simulation,Metro 3D,0.11,0.08,0.03
+129,PS2,2008,Adventure,Idea Factory,0.0,0.0,0.0
+461,PS3,2007,Racing,Electronic Arts,0.73,0.92,0.37
+879,PS2,2006,Adventure,Interchannel,0.0,0.0,0.0
+1204,PS3,2009,Role-Playing,Electronic Arts,0.96,0.44,0.22
+4212,PSP,2010,Misc,Namco Bandai Games,0.0,0.0,0.0
+1528,PSP,2011,Adventure,Namco Bandai Games,0.0,0.0,0.0
+2889,PS2,2006,Adventure,Sony Computer Entertainment,0.0,0.0,0.0
+2029,X360,2011,Action,Unknown,0.0,0.0,0.0
+3154,NES,1987,Sports,Nintendo,0.14,0.03,0.0
+1180,SNES,1994,Fighting,Angel Studios,0.0,0.0,0.0
+2013,X360,2007,Shooter,Microsoft Game Studios,1.0,0.54,0.18
+5809,PS2,2007,Fighting,Namco Bandai Games,0.0,0.0,0.0
+2932,PS2,2002,Sports,Enix Corporation,0.0,0.0,0.0
+3531,PS2,2008,Fighting,Namco Bandai Games,0.0,0.0,0.0
+1666,DS,2009,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3257,PS,1997,Shooter,Namco Bandai Games,0.38,0.87,0.1
+6017,3DS,2015,Role-Playing,Rocket Company,0.0,0.0,0.0
+5436,PS3,2013,Role-Playing,Square Enix,0.43,0.4,0.18
+910,PS,2001,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+204,3DS,2014,Action,Warner Bros. Interactive Entertainment,0.28,0.31,0.05
+1292,DS,2010,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+5542,SNES,1990,Platform,Nintendo,12.78,3.75,0.55
+4044,PS2,2003,Misc,Sony Computer Entertainment,0.88,2.3,0.83
+3810,SNES,1992,Racing,Video System,0.0,0.0,0.0
+2729,PS2,2008,Adventure,Namco Bandai Games,0.0,0.0,0.0
+3750,DS,2010,Misc,Namco Bandai Games,0.0,0.0,0.0
+2672,PSP,2005,Platform,Sony Computer Entertainment,0.52,0.01,0.05
+2592,3DS,2016,Action,Inti Creates,0.0,0.0,0.0
+3826,DS,2009,Sports,Namco Bandai Games,0.0,0.0,0.0
+4014,PSP,2010,Action,Konami Digital Entertainment,0.0,0.0,0.0
+2711,DS,2011,Role-Playing,Unknown,0.0,0.0,0.0
+3413,WiiU,2014,Puzzle,Sega,0.0,0.0,0.0
+3287,DS,2006,Platform,Konami Digital Entertainment,0.33,0.03,0.03
+1458,PSP,2009,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+2321,PSP,2013,Action,Namco Bandai Games,0.0,0.0,0.0
+4666,3DS,2012,Role-Playing,Nintendo,0.44,0.3,0.06
+5401,SAT,1997,Adventure,Imadio,0.0,0.0,0.0
+683,PS3,2009,Sports,Electronic Arts,0.6,2.46,0.52
+4325,SAT,1997,Fighting,Capcom,0.0,0.0,0.0
+3516,GB,2000,Misc,Konami Digital Entertainment,0.0,0.0,0.0
+4683,3DS,2013,Misc,Alchemist,0.0,0.0,0.0
+3781,GC,2003,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+5382,DS,2007,Platform,Capcom,0.23,0.0,0.02
+4518,WiiU,2013,Misc,Nintendo,0.06,0.06,0.01
+3871,PSV,2014,Adventure,Idea Factory,0.0,0.0,0.0
+5373,Wii,2007,Adventure,Nintendo,0.18,0.17,0.04
+4790,PS4,2016,Action,Namco Bandai Games,0.0,0.0,0.0
+4466,DS,2009,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+246,PS2,2007,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+1262,Wii,2008,Sports,Konami Digital Entertainment,0.09,0.84,0.15
+2925,X360,2011,Shooter,D3Publisher,0.1,0.05,0.01
+3662,SNES,1995,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3416,GEN,1992,Shooter,Sega,0.0,0.0,0.0
+1757,PS3,2009,Misc,Sony Computer Entertainment,0.0,0.0,0.0
+4641,PS,1999,Sports,ASCII Entertainment,0.0,0.0,0.07
+1450,PS3,2015,Action,Konami Digital Entertainment,0.0,0.0,0.0
+220,PS3,2012,Role-Playing,Nippon Ichi Software,0.0,0.0,0.0
+2204,SAT,1994,Simulation,Electronic Arts,0.0,0.0,0.0
+97,X360,2013,Action,Deep Silver,0.44,0.27,0.07
+93,3DS,2016,Simulation,Marvelous Interactive,0.0,0.0,0.0
+3840,PS,1997,Action,Activision,0.95,0.64,0.13
+251,PS2,2006,Sports,Electronic Arts,1.07,0.04,0.17
+5316,Wii,2009,Sports,Electronic Arts,0.29,0.52,0.11
+5006,PS2,2003,Sports,Namco Bandai Games,0.0,0.0,0.0
+2353,SAT,1997,Adventure,Warp,0.0,0.0,0.0
+2275,PS2,2008,Action,Namco Bandai Games,0.0,0.0,0.0
+5041,DS,2008,Simulation,Marvelous Interactive,0.0,0.0,0.0
+2948,PS,1998,Fighting,Tomy Corporation,0.0,0.0,0.01
+4821,SNES,1996,Role-Playing,SquareSoft,0.0,0.0,0.0
+3210,PS4,2016,Role-Playing,Nihon Falcom Corporation,0.0,0.0,0.0
+5775,PS,1996,Fighting,Namco Bandai Games,0.0,0.0,0.01
+617,SNES,1996,Platform,Nintendo,0.26,0.07,0.02
+4695,PS2,2004,Racing,Sony Computer Entertainment,3.01,0.01,7.53
+2860,N64,1998,Simulation,Nintendo,1.6,0.46,0.03
+4406,3DS,2014,Action,Namco Bandai Games,0.0,0.0,0.0
+2624,PS2,2002,Strategy,Tecmo Koei,0.06,0.05,0.02
+2283,DS,2008,Adventure,Atari,0.04,0.0,0.0
+2500,DS,2010,Role-Playing,Spike,0.0,0.0,0.0
+1118,3DS,2012,Misc,Namco Bandai Games,0.0,0.0,0.0
+2443,PS2,2008,Adventure,Alchemist,0.0,0.0,0.0
+4620,PSP,2009,Action,Namco Bandai Games,0.0,0.0,0.0
+573,PSV,2014,Puzzle,Sega,0.0,0.0,0.0
+1471,PS2,2004,Action,Capcom,0.19,0.15,0.05
+1971,DS,2010,Action,Namco Bandai Games,0.0,0.0,0.0
+4191,GEN,1993,Strategy,Sega,0.0,0.0,0.0
+4109,SAT,1995,Fighting,SNK Playmore,0.0,0.0,0.0
+4005,3DS,2014,Action,Namco Bandai Games,0.0,0.0,0.0
+5333,PS2,2005,Strategy,Konami Digital Entertainment,0.06,0.05,0.02
+4270,PS3,2013,Role-Playing,Falcom Corporation,0.0,0.0,0.0
+3200,PS2,2007,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+818,DS,2007,Action,Nintendo,0.0,0.0,0.0
+2549,PS2,2002,Strategy,Namco Bandai Games,0.0,0.0,0.0
+4076,SAT,1997,Fighting,Capcom,0.0,0.0,0.0
+4548,PS,1997,Action,Namco Bandai Games,0.0,0.0,0.02
+3278,PSP,2009,Action,Namco Bandai Games,0.0,0.0,0.0
+4700,NES,1986,Role-Playing,Capcom,0.49,0.0,1.51
+2282,GB,2001,Role-Playing,Banpresto,0.0,0.0,0.0
+5567,WS,1999,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+2683,X360,2008,Role-Playing,Square Enix,0.34,0.18,0.06
+5862,GEN,1994,Platform,Sega,1.02,0.47,0.07
+2231,DS,2008,Action,Konami Digital Entertainment,0.0,0.0,0.0
+2675,N64,1999,Adventure,Namco Bandai Games,0.0,0.0,0.0
+802,NES,1991,Puzzle,BPS,0.0,0.0,0.0
+5020,SAT,1996,Adventure,Elf,0.0,0.0,0.0
+1389,PSV,2016,Action,Square Enix,0.0,0.0,0.0
+1825,GEN,1994,Platform,Konami Digital Entertainment,0.0,0.0,0.0
+660,PSP,2011,Adventure,Idea Factory,0.0,0.0,0.0
+1272,PSV,2011,Action,Sony Computer Entertainment,0.06,0.05,0.03
+5858,SNES,1994,Role-Playing,Nintendo,0.0,0.0,0.0
+4194,PS4,2016,Shooter,Activision,0.64,0.68,0.26
+4251,3DS,2015,Action,Nippon Columbia,0.0,0.0,0.0
+715,3DS,2012,Role-Playing,Atlus,0.13,0.02,0.01
+5634,PS4,2015,Action,D3Publisher,0.0,0.0,0.0
+2888,PS3,2009,Action,Ubisoft Annecy,0.52,0.16,0.1
+3129,GBA,2001,Racing,Nintendo,0.39,0.16,0.12
+1959,3DS,2011,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+1376,PSP,2010,Strategy,Sony Computer Entertainment,0.0,0.0,0.0
+1457,Wii,2008,Simulation,Electronic Arts,0.37,0.03,0.04
+1713,Wii,2009,Misc,Hudson Soft,0.0,0.0,0.0
+5183,PS2,2003,Shooter,Electronic Arts,1.98,2.23,0.8
+1778,PSV,2011,Racing,Namco Bandai Games,0.04,0.08,0.03
+577,GBA,2001,Puzzle,Atari,2.07,0.77,0.05
+3478,PSP,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+3631,GBA,2002,Role-Playing,Atari,0.03,0.01,0.0
+3939,SNES,1995,Racing,Media Rings,0.0,0.0,0.0
+5815,PSP,2010,Adventure,Idea Factory,0.0,0.0,0.0
+540,PS,2000,Sports,Konami Digital Entertainment,0.0,0.0,0.01
+549,PS,1996,Adventure,ASCII Entertainment,0.07,0.05,0.03
+5142,PSP,2011,Strategy,Tecmo Koei,0.0,0.0,0.0
+5282,SNES,1993,Misc,Coconuts Japan,0.0,0.0,0.0
+3476,SNES,1995,Fighting,Namco Bandai Games,0.0,0.0,0.0
+3367,DS,2008,Role-Playing,Nintendo,0.95,0.54,0.18
+3743,XOne,2015,Racing,Microsoft Game Studios,0.69,0.89,0.14
+5237,PS2,2006,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+5837,Wii,2011,Sports,Tecmo Koei,0.05,0.04,0.01
+236,PS2,2004,Role-Playing,Enix Corporation,0.0,0.0,0.0
+2094,PS3,2011,Action,Ackkstudios,0.0,0.0,0.0
+2710,Wii,2010,Puzzle,Nintendo,0.34,0.17,0.05
+6016,GC,2004,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+5983,SNES,1994,Fighting,Takara,0.0,0.0,0.0
+4101,NES,1987,Platform,Capcom,0.45,0.08,0.01
+1780,PS,1998,Adventure,Sony Computer Entertainment,0.0,0.0,0.02
+2294,DS,2005,Simulation,Nintendo,2.55,3.52,0.88
+3102,PS2,2006,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+344,PS,1996,Adventure,Pioneer LDC,0.0,0.0,0.01
+1772,PS,2000,Shooter,Sony Computer Entertainment,1.5,0.55,0.08
+5494,PS2,2009,Strategy,Namco Bandai Games,0.0,0.0,0.0
+2858,GBA,2002,Puzzle,Unknown,0.0,0.0,0.0
+4924,3DS,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+2713,DS,2011,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+356,PS,2001,Sports,Activision,1.09,0.49,0.07
+1699,3DS,2016,Misc,Nippon Columbia,0.0,0.0,0.0
+2673,DS,2005,Puzzle,Ubisoft,0.1,0.02,0.01
+4765,Wii,2008,Adventure,Nintendo,0.0,0.0,0.0
+4937,PS2,2003,Action,Takara,0.0,0.0,0.0
+6022,DS,2008,Sports,Sega,0.0,0.0,0.0
+773,3DS,2011,Fighting,PQube,0.05,0.01,0.01
+1294,3DS,2011,Misc,Nintendo,0.0,0.0,0.0
+4258,DS,2007,Action,Capcom,0.0,0.0,0.0
+2553,WiiU,2013,Platform,Nintendo,1.27,0.62,0.16
+163,PS2,2001,Action,Takara,0.0,0.0,0.0
+710,DS,2008,Misc,Namco Bandai Games,0.0,0.0,0.0
+1187,PS2,2006,Adventure,Sega,0.0,0.0,0.0
+1421,PSP,2011,Adventure,Takuyo,0.0,0.0,0.0
+4339,X360,2006,Racing,Electronic Arts,0.76,0.7,0.18
+136,PS2,2008,Sports,Electronic Arts,0.32,0.01,0.05
+2656,X360,2012,Action,Capcom,0.28,0.11,0.03
+865,DS,2011,Role-Playing,Atlus,0.0,0.0,0.0
+2165,SAT,1996,Misc,Sonnet,0.0,0.0,0.0
+587,PS2,2001,Action,Capcom,1.08,0.7,0.21
+2940,Wii,2009,Adventure,Sega,0.0,0.0,0.0
+1620,GBA,2001,Sports,Konami Digital Entertainment,0.0,0.0,0.01
+5263,Wii,2008,Action,Marvelous Interactive,0.0,0.0,0.0
+2509,DS,2011,Action,Namco Bandai Games,0.0,0.0,0.0
+57,Wii,2011,Role-Playing,Kadokawa Shoten,0.0,0.0,0.0
+1379,3DS,2013,Action,Sega,0.0,0.0,0.0
+1683,PS4,2014,Fighting,Arc System Works,0.1,0.0,0.02
+621,DS,2009,Misc,Disney Interactive Studios,0.08,0.0,0.0
+156,X360,2012,Fighting,Ubisoft Annecy,0.19,0.08,0.02
+5106,PSP,2006,Simulation,Namco Bandai Games,0.0,0.0,0.0
+3891,SNES,1996,Role-Playing,Enix Corporation,0.0,0.0,0.0
+5278,PS2,2008,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+5485,PSV,2015,Role-Playing,Aksys Games,0.0,0.0,0.0
+1081,PS3,2009,Fighting,Namco Bandai Games,0.37,0.19,0.1
+5760,PSP,2013,Action,Tecmo Koei,0.0,0.0,0.0
+1626,PSP,2006,Misc,Daito,0.0,0.0,0.0
+3265,GC,2002,Misc,Hudson Soft,0.0,0.0,0.0
+3828,DS,2006,Role-Playing,Nintendo,6.42,4.52,1.37
+2551,PSP,2010,Misc,Asgard,0.0,0.0,0.0
+2594,PS2,2005,Action,Sega,0.03,0.02,0.01
+5091,PS,1996,Role-Playing,ArtDink,0.06,0.04,0.01
+5249,WiiU,2015,Shooter,Nintendo,1.55,1.15,0.43
+3377,GBA,2004,Role-Playing,Nintendo,2.57,1.58,0.21
+3711,PSV,2015,Action,Tecmo Koei,0.0,0.0,0.0
+3197,DS,2009,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+5703,SAT,1997,Role-Playing,Hudson Soft,0.0,0.0,0.0
+6018,DS,2007,Role-Playing,Nintendo,0.2,0.03,0.02
+985,PSP,2011,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+952,X360,2011,Shooter,Cave,0.0,0.0,0.0
+313,PS,1995,Shooter,Sony Computer Entertainment,0.02,0.01,0.01
+3778,X360,2010,Adventure,5pb,0.0,0.0,0.0
+2785,PSV,2014,Action,Namco Bandai Games,0.0,0.0,0.0
+716,Wii,2007,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+4408,X360,2011,Action,Electronic Arts,0.72,0.3,0.09
+2502,PSV,2015,Action,D3Publisher,0.0,0.0,0.0
+4843,PS4,2014,Role-Playing,Ubisoft,0.0,0.01,0.0
+2254,PSP,2011,Adventure,Idea Factory,0.0,0.0,0.0
+359,PS,1999,Role-Playing,SquareSoft,0.1,0.07,0.06
+3759,PS2,2004,Fighting,Atari,1.09,0.15,0.04
+1391,PS,1995,Sports,Sony Computer Entertainment,0.0,0.0,0.01
+2470,PSP,2009,Role-Playing,Marvelous Interactive,0.0,0.0,0.0
+2816,GC,2004,Role-Playing,Nintendo,1.48,0.25,0.06
+4636,X360,2006,Action,Eidos Interactive,0.27,0.08,0.03
+4889,3DS,2011,Action,Marvelous Interactive,0.0,0.0,0.0
+4868,GBA,2001,Platform,Sega,1.19,0.71,0.13
+2842,PS4,2015,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+4019,GC,2002,Fighting,Konami Digital Entertainment,0.0,0.0,0.0
+987,PS3,2008,Platform,Sega,0.56,0.33,0.14
+682,PS2,2003,Fighting,THQ,1.32,1.06,0.38
+3758,PS2,2007,Role-Playing,Square Enix,0.03,0.03,0.01
+1336,X360,2010,Fighting,Namco Bandai Games,0.49,0.09,0.05
+4515,PS,1996,Fighting,Virgin Interactive,0.07,0.05,0.02
+5270,PS2,2006,Role-Playing,Tecmo Koei,0.09,0.07,0.02
+5379,X360,2008,Misc,Atari,0.27,0.01,0.02
+990,PS3,2014,Adventure,5pb,0.0,0.0,0.0
+2304,PS,1997,Simulation,Namco Bandai Games,0.0,0.0,0.02
+448,GBA,2001,Role-Playing,Nintendo,0.0,0.0,0.01
+4098,X360,2008,Shooter,Microsoft Game Studios,4.15,1.92,0.64
+4687,DC,2000,Sports,Sega,0.0,0.0,0.0
+5274,PS3,2008,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+5704,DS,2008,Role-Playing,Square Enix,0.0,0.0,0.0
+5491,PSV,2015,Action,Asgard,0.0,0.0,0.0
+3725,SNES,1995,Role-Playing,SquareSoft,0.28,0.0,0.01
+2110,X360,2006,Shooter,Capcom,1.09,0.04,0.11
+3432,PS3,2011,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+699,DS,2008,Adventure,Capcom,0.0,0.0,0.0
+1559,PSP,2014,Misc,Tecmo Koei,0.0,0.0,0.0
+1309,PS3,2010,Action,Take-Two Interactive,0.5,0.72,0.26
+2218,GB,2001,Adventure,Nintendo,0.87,0.52,0.06
+647,PSV,2014,Adventure,5pb,0.0,0.0,0.0
+249,PS2,2007,Strategy,Interchannel-Holon,0.0,0.0,0.0
+5467,PS2,2002,Platform,Sony Computer Entertainment,0.36,0.28,0.09
+5098,PSP,2010,Strategy,System Soft,0.0,0.0,0.0
+1983,PS2,2009,Adventure,Tecmo Koei,0.0,0.0,0.0
+5396,PS2,2000,Adventure,Sony Computer Entertainment,0.0,0.0,0.0
+5973,DS,2006,Puzzle,Nintendo,0.08,0.01,0.01
+4289,X360,2009,Action,Tecmo Koei,0.13,0.06,0.02
+4290,X360,2008,Role-Playing,Bethesda Softworks,3.39,1.03,0.44
+4956,PSP,2009,Action,From Software,0.0,0.0,0.0
+2630,GB,1989,Sports,Nintendo,0.66,0.27,0.03
+2825,Wii,2008,Action,Capcom,0.14,0.04,0.02
+1354,PSV,2016,Action,Namco Bandai Games,0.0,0.0,0.0
+5292,PSP,2011,Fighting,Namco Bandai Games,0.0,0.0,0.0
+4255,GBA,2002,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+5176,PS4,2016,Fighting,PQube,0.02,0.0,0.0
+1169,SAT,1996,Sports,Sega,0.0,0.0,0.0
+1251,PS2,2007,Misc,Paon,0.0,0.0,0.0
+5086,DS,2007,Misc,Konami Digital Entertainment,0.0,0.0,0.0
+3513,PSP,2006,Racing,Sony Computer Entertainment,0.0,0.03,0.01
+3463,PSP,2012,Adventure,Broccoli,0.0,0.0,0.0
+4853,PSP,2011,Role-Playing,Square Enix,0.0,0.0,0.0
+1868,X360,2006,Action,Microsoft Game Studios,0.27,0.02,0.03
+2491,DS,2009,Role-Playing,Namco Bandai Games,0.06,0.0,0.0
+946,PS,1998,Role-Playing,Kadokawa Shoten,0.0,0.0,0.01
+4437,DS,1985,Action,Mycom,0.0,0.0,0.0
+920,X360,2011,Racing,Codemasters,0.23,0.41,0.08
+5551,NES,1984,Shooter,Namco Bandai Games,0.18,0.06,0.01
+707,DC,2001,Fighting,Capcom,0.0,0.0,0.0
+2934,3DS,2014,Role-Playing,Level 5,0.0,0.0,0.0
+5856,GBA,2002,Action,Activision,0.92,0.35,0.05
+1896,PS,1997,Simulation,From Software,0.06,0.04,0.02
+1993,N64,1998,Sports,Nintendo,1.25,0.61,0.05
+1022,DS,2006,Role-Playing,Nintendo,0.16,0.01,0.02
+1511,GC,2003,Platform,Sega,1.05,0.44,0.04
+1400,GBA,2004,Puzzle,Nintendo,0.31,0.11,0.01
+141,PS2,2011,Adventure,Idea Factory,0.0,0.0,0.0
+4706,PS,1997,Sports,Sony Computer Entertainment,0.29,0.2,0.18
+386,PS,1997,Fighting,Virgin Interactive,0.06,0.04,0.01
+5751,SNES,1994,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3808,PS3,2012,Adventure,5pb,0.0,0.0,0.0
+1807,X360,2011,Role-Playing,Unknown,0.4,0.08,0.04
+2378,Wii,2010,Action,Nintendo,0.38,0.01,0.02
+1749,PSV,2012,Adventure,Level 5,0.0,0.0,0.0
+5053,DS,2004,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3110,PS3,2015,Action,Kaga Create,0.0,0.0,0.0
+2757,PS3,2011,Action,Bethesda Softworks,0.12,0.08,0.04
+935,PSP,2005,Strategy,Konami Digital Entertainment,0.11,0.01,0.01
+4462,PS2,2005,Action,Konami Digital Entertainment,0.34,0.01,0.06
+3470,X360,2013,Shooter,Microsoft Game Studios,0.92,0.53,0.13
+5432,SNES,1993,Strategy,Tecmo Koei,0.3,0.0,0.0
+912,DS,2009,Adventure,Tecmo Koei,0.0,0.0,0.0
+4122,PS3,2015,Action,Tecmo Koei,0.0,0.0,0.0
+4530,PSP,2011,Adventure,Quinrose,0.0,0.0,0.0
+2271,PS2,2003,Action,Capcom,0.54,0.35,0.1
+4802,PS4,2016,Adventure,Sega,0.0,0.0,0.0
+2811,SNES,1994,Role-Playing,Atlus,0.0,0.0,0.0
+1689,GB,2001,Role-Playing,Enix Corporation,0.0,0.0,0.0
+4894,PS3,2014,Action,Namco Bandai Games,0.0,0.0,0.0
+43,PSV,2013,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2210,PSP,2009,Action,Ubisoft,0.03,0.03,0.01
+3784,PSP,2011,Adventure,Broccoli,0.0,0.0,0.0
+4244,PS,1997,Platform,Sony Computer Entertainment,0.0,0.0,0.01
+1535,SNES,1995,Sports,Namco Bandai Games,0.0,0.0,0.0
+4906,PS2,2008,Adventure,Marvelous Interactive,0.0,0.0,0.0
+4172,X360,2006,Fighting,Electronic Arts,1.33,0.03,0.1
+430,DS,2010,Action,Level 5,0.0,0.0,0.0
+5310,PSP,2010,Action,Namco Bandai Games,0.04,0.02,0.02
+4151,XOne,2015,Fighting,Tecmo Koei,0.04,0.03,0.01
+276,PS,1995,Misc,Sony Computer Entertainment,2.12,1.44,0.06
+3190,PS4,2014,Action,Warner Bros. Interactive Entertainment,1.01,1.41,0.53
+4819,PS2,2006,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+785,PS3,2008,Action,Konami Digital Entertainment,2.63,1.74,0.83
+992,PS2,2005,Shooter,Electronic Arts,0.0,0.0,0.0
+2943,DS,2009,Role-Playing,Square Enix,0.12,0.06,0.02
+2700,3DS,2013,Platform,Nintendo,0.73,0.62,0.12
+3570,PS2,2006,Sports,Sega,0.0,0.0,0.0
+5779,3DS,2013,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+399,PSP,2007,Action,Namco Bandai Games,0.0,0.0,0.0
+5271,PS,1995,Sports,Victor Interactive,0.0,0.0,0.0
+677,PSP,2009,Action,Ubisoft Annecy,0.05,0.01,0.01
+3674,PSV,2015,Adventure,dramatic create,0.0,0.0,0.0
+4047,X360,2014,Action,Bethesda Softworks,0.25,0.2,0.04
+5995,DS,2010,Simulation,Marvelous Interactive,0.0,0.0,0.0
+5739,DS,2010,Fighting,Takara Tomy,0.03,0.0,0.0
+4987,N64,1998,Sports,Nintendo,1.02,0.13,0.01
+2320,PS,1997,Simulation,Sony Computer Entertainment,0.13,0.09,0.03
+3687,DS,2009,Puzzle,505 Games,0.8,0.43,0.13
+3735,DS,2006,Platform,Nintendo,0.0,0.0,0.0
+2584,PSP,2012,Role-Playing,Ackkstudios,0.0,0.0,0.0
+4259,DS,2006,Role-Playing,Rising Star Games,0.37,0.02,0.03
+4574,PS3,2010,Sports,Tecmo Koei,0.0,0.0,0.0
+1029,PS3,2013,Role-Playing,Tecmo Koei,0.06,0.04,0.02
+5051,DS,2006,Misc,Spike,0.0,0.0,0.0
+1381,PS2,2001,Strategy,THQ,0.13,0.1,0.03
+5391,PS2,2002,Role-Playing,Sony Computer Entertainment,3.64,1.2,0.07
+3046,GC,2005,Sports,Nintendo,0.98,0.38,0.04
+4384,PS3,2012,Action,Capcom,0.18,0.12,0.05
+3706,X360,2009,Action,SouthPeak Games,0.1,0.02,0.01
+3381,PS3,2014,Role-Playing,Nippon Ichi Software,0.0,0.0,0.0
+5599,DS,2011,Adventure,Idea Factory,0.0,0.0,0.0
+2014,PS2,2007,Adventure,Marvelous Interactive,0.0,0.0,0.0
+526,Wii,2006,Puzzle,Nintendo,0.87,1.06,0.26
+26,SCD,1994,Racing,Sega,0.0,0.0,0.0
+5609,PS,1998,Platform,Sony Computer Entertainment,3.68,1.75,0.28
+2441,DS,2006,Puzzle,Sega,0.0,0.0,0.0
+3048,PS,1996,Action,Eidos Interactive,2.29,1.97,0.24
+1301,3DS,2015,Role-Playing,Nintendo,0.16,0.3,0.04
+5796,PS2,2000,Racing,Take-Two Interactive,2.0,0.47,0.14
+460,NES,1988,Sports,Namco Bandai Games,0.1,0.0,0.0
+3506,PS3,2013,Role-Playing,Nippon Ichi Software,0.05,0.05,0.02
+5227,PS,1997,Racing,Sony Computer Entertainment,4.02,3.87,0.52
+2983,WiiU,2014,Action,Nintendo,0.34,0.28,0.3
+1497,GBA,2003,Role-Playing,Nintendo,0.0,0.0,0.01
+959,PSP,2007,Role-Playing,Nippon Ichi Software,0.0,0.0,0.0
+3222,DS,2007,Misc,IE Institute,0.0,0.0,0.0
+3550,PS3,2010,Action,Take-Two Interactive,2.79,2.61,1.03
+5,DS,2006,Role-Playing,Sega,0.0,0.0,0.0
+1741,PS3,2014,Role-Playing,Tecmo Koei,0.05,0.04,0.02
+1956,3DS,2013,Action,Namco Bandai Games,0.0,0.0,0.0
+4746,PSP,2008,Adventure,Prototype,0.0,0.0,0.0
+725,PS2,2002,Action,Eidos Interactive,1.36,1.15,0.41
+67,GBA,2004,Strategy,Nintendo,0.0,0.0,0.0
+5313,DS,2008,Role-Playing,Tecmo Koei,0.16,0.0,0.01
+5155,PSP,2013,Role-Playing,Sega,0.0,0.0,0.0
+597,3DS,2015,Action,FuRyu,0.0,0.0,0.0
+687,3DS,2016,Role-Playing,Atlus,0.0,0.0,0.0
+2180,Wii,2008,Sports,Konami Digital Entertainment,0.12,0.0,0.01
+4242,PSP,2013,Fighting,Namco Bandai Games,0.0,0.0,0.0
+3669,PS2,2002,Sports,Electronic Arts,0.46,2.28,0.61
+2273,PSV,2014,Shooter,Take-Two Interactive,0.43,0.21,0.19
+3992,PSV,2016,Adventure,Broccoli,0.0,0.0,0.0
+5027,PSP,2011,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+2982,GBA,2002,Action,Hudson Soft,0.0,0.0,0.0
+5614,DS,2008,Role-Playing,Square Enix,0.0,0.0,0.0
+3524,PS3,2012,Simulation,Konami Digital Entertainment,0.21,0.08,0.05
+1672,PS3,2012,Shooter,505 Games,0.38,0.39,0.15
+2867,X360,2012,Racing,Microsoft Game Studios,0.82,0.98,0.18
+4405,GB,1998,Strategy,Konami Digital Entertainment,0.0,0.0,0.01
+14,PS3,2015,Action,Capcom,0.0,0.0,0.0
+5132,PS2,2007,Fighting,SNK Playmore,0.0,0.0,0.0
+788,SAT,1998,Adventure,Sega,0.0,0.0,0.0
+1481,SAT,1994,Sports,Sega,0.0,0.0,0.0
+5974,PS4,2015,Action,D3Publisher,0.0,0.0,0.0
+5647,DS,2010,Adventure,FuRyu,0.0,0.0,0.0
+4522,DS,2010,Role-Playing,Nintendo,0.51,0.17,0.06
+1366,PS2,2004,Sports,Activision,1.25,0.86,0.26
+5277,PSV,2015,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+3012,SAT,1998,Adventure,Sega,0.0,0.0,0.0
+319,GC,2002,Action,Tecmo Koei,0.03,0.01,0.0
+4028,PS4,2015,Strategy,Kalypso Media,0.0,0.05,0.01
+2462,PS,1998,Role-Playing,SquareSoft,0.25,0.17,0.07
+5259,PS2,2006,Fighting,Ignition Entertainment,0.07,0.06,0.02
+4970,GB,1990,Racing,Nintendo,1.73,0.69,0.4
+3537,XB,2003,Fighting,Namco Bandai Games,0.78,0.18,0.0
+355,PS2,2008,Action,Namco Bandai Games,0.0,0.0,0.0
+3638,X360,2010,Action,Capcom,0.75,0.53,0.12
+3480,DS,2007,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+474,DS,2005,Simulation,Nintendo,0.3,0.01,0.03
+1393,GB,1996,Role-Playing,Nintendo,11.27,8.89,1.0
+3366,X360,2012,Fighting,Namco Bandai Games,0.39,0.14,0.04
+5985,PS2,2006,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+4446,3DS,2011,Sports,Hudson Soft,0.08,0.0,0.01
+2795,PS3,2015,Adventure,5pb,0.0,0.0,0.0
+1628,3DS,2015,Misc,Happinet,0.0,0.0,0.0
+2313,PS4,2015,Action,Tecmo Koei,0.02,0.01,0.01
+1680,3DS,2012,Role-Playing,Nintendo,0.33,0.37,0.06
+4647,SNES,1993,Platform,Konami Digital Entertainment,0.0,0.0,0.0
+2884,PS3,2011,Action,Electronic Arts,0.58,1.06,0.37
+2820,PSP,2011,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+5944,3DS,2013,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+3835,PS,1996,Sports,Imagineer,0.0,0.0,0.0
+155,PSP,2010,Adventure,5pb,0.0,0.0,0.0
+3544,DS,2009,Misc,Nintendo,0.0,0.0,0.0
+3820,DS,2007,Role-Playing,Sega,0.0,0.0,0.0
+2882,PSV,2015,Action,Idea Factory,0.0,0.0,0.0
+3370,DS,2008,Puzzle,Nintendo,0.65,1.61,0.28
+5966,PSP,2006,Misc,Sony Computer Entertainment,0.1,0.0,0.01
+135,PSP,2010,Adventure,Sony Computer Entertainment,0.0,0.0,0.0
+4027,DS,2005,Platform,Nintendo,0.0,0.0,0.0
+4534,PSV,2014,Adventure,Telltale Games,0.1,0.0,0.03
+1156,SNES,1992,Role-Playing,Enix Corporation,0.0,0.0,0.01
+1716,GBA,2006,Sports,Nintendo,0.0,0.0,0.0
+5935,DS,2005,Role-Playing,Nintendo,0.77,0.07,0.08
+4336,SAT,1996,Role-Playing,NEC,0.0,0.0,0.0
+4903,X360,2013,Fighting,Namco Bandai Games,0.29,0.17,0.04
+1274,PS3,2007,Misc,Sony Computer Entertainment,0.28,0.0,0.03
+1685,X360,2006,Role-Playing,Microsoft Game Studios,0.3,0.33,0.08
+2761,PS3,2012,Role-Playing,Namco Bandai Games,0.2,0.15,0.07
+2750,PSV,2015,Adventure,Aqua Plus,0.0,0.0,0.0
+2246,PS2,2006,Fighting,Ignition Entertainment,0.0,0.0,0.0
+2348,PSP,2011,Adventure,Comfort,0.0,0.0,0.0
+4231,X360,2006,Shooter,Atari,0.07,0.01,0.01
+1174,Wii,2010,Fighting,Takara Tomy,0.0,0.0,0.0
+2178,XOne,2016,Action,Microsoft Game Studios,0.27,0.19,0.04
+3696,X360,2008,Action,Activision,0.82,0.52,0.14
+663,X360,2009,Fighting,PQube,0.21,0.08,0.03
+4887,PSP,2006,Adventure,ChunSoft,0.0,0.0,0.0
+2464,PS3,2010,Misc,Unknown,0.0,0.0,0.0
+5145,PSP,2005,Puzzle,Sony Computer Entertainment,0.0,0.0,0.0
+4162,3DS,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+4954,PSV,2014,Role-Playing,Nippon Ichi Software,0.02,0.0,0.01
+5198,PSP,2008,Misc,Sony Computer Entertainment,0.0,0.03,0.01
+191,PSV,2016,Adventure,Idea Factory,0.0,0.0,0.0
+3149,PS2,2000,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+2754,WS,1999,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+3306,Wii,2008,Strategy,Nintendo,0.29,0.14,0.04
+5504,PS3,2010,Role-Playing,Bethesda Softworks,1.52,1.08,0.47
+3874,PS2,2003,Simulation,Tecmo Koei,0.08,0.06,0.02
+5530,PS2,2009,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+4621,X360,2008,Shooter,Konami Digital Entertainment,0.0,0.0,0.0
+3636,PSP,2010,Adventure,Idea Factory,0.0,0.0,0.0
+4154,N64,1996,Misc,Konami Digital Entertainment,0.0,0.0,0.0
+2071,PSP,2010,Role-Playing,Falcom Corporation,0.09,0.0,0.01
+4010,PSP,2012,Adventure,Namco Bandai Games,0.0,0.0,0.0
+2329,DS,2005,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3543,PSP,2011,Fighting,Square Enix,0.21,0.13,0.08
+4193,X360,2010,Sports,Microsoft Game Studios,3.92,1.78,0.51
+3708,PS3,2012,Action,Sega,0.0,0.0,0.0
+1365,3DS,2012,Platform,Nintendo,3.66,3.07,0.63
+2420,PSP,2009,Action,Irem Software Engineering,0.0,0.0,0.0
+5250,X360,2005,Shooter,Microsoft Game Studios,0.66,0.02,0.06
+3579,PS3,2013,Sports,Sega,0.0,0.0,0.0
+3829,PSP,2008,Sports,Electronic Arts,0.23,0.07,0.06
+5177,PSP,2010,Sports,Konami Digital Entertainment,0.05,0.3,0.16
+2588,PSV,2014,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.0
+1589,GBA,2003,Puzzle,Nintendo,0.4,0.11,0.02
+977,PSP,2010,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+6074,PSP,2014,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3274,DS,2009,Role-Playing,Broccoli,0.0,0.0,0.0
+4684,PS,1999,Racing,SquareSoft,0.07,0.05,0.03
+5968,X360,2010,Shooter,Microsoft Game Studios,0.63,0.37,0.1
+1191,PSP,2010,Adventure,Idea Factory,0.0,0.0,0.0
+125,PSP,2008,Role-Playing,Sting,0.05,0.0,0.01
+2909,WiiU,2013,Shooter,Activision,0.23,0.09,0.03
+2587,PSP,2012,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+2848,PS,1998,Role-Playing,SquareSoft,0.29,0.19,0.1
+5235,Wii,2009,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+4363,NES,1988,Racing,Nintendo,1.47,0.38,0.1
+1794,PSP,2008,Racing,Electronic Arts,0.23,0.32,0.19
+2219,SNES,1995,Role-Playing,Data East,0.0,0.0,0.0
+4975,SNES,1995,Platform,Nintendo,1.65,0.61,0.09
+3226,PS2,2007,Adventure,Alchemist,0.0,0.0,0.0
+3419,X360,2006,Action,Ubisoft,0.67,0.05,0.06
+6072,PSP,2008,Fighting,Namco Bandai Games,0.0,0.0,0.0
+5817,PS2,2003,Role-Playing,Sega,0.0,0.0,0.0
+2066,GB,2001,Role-Playing,Imagineer,0.0,0.0,0.0
+1447,DC,1999,Adventure,Sega,0.52,0.24,0.04
+1145,PS2,2006,Misc,Tecmo Koei,0.0,0.0,0.0
+4718,PS3,2010,Racing,Codemasters,0.25,0.76,0.27
+4637,DS,2007,Adventure,SNK Playmore,0.0,0.0,0.0
+5269,PSP,2013,Adventure,Idea Factory,0.0,0.0,0.0
+2998,PS,1996,Fighting,Acclaim Entertainment,0.01,0.01,0.01
+3993,PS3,2010,Misc,Irem Software Engineering,0.0,0.0,0.0
+3794,3DS,2015,Strategy,Atlus,0.0,0.0,0.0
+2074,PS,1997,Simulation,Sony Computer Entertainment,0.16,0.11,0.06
+353,N64,1997,Action,Konami Digital Entertainment,0.07,0.02,0.04
+701,X360,2011,Misc,Microsoft Game Studios,1.73,0.46,0.18
+3767,PS2,2002,Misc,Hudson Soft,0.0,0.0,0.0
+2021,PS3,2012,Role-Playing,Capcom,0.41,0.46,0.19
+3851,PSV,2015,Action,Idea Factory International,0.02,0.03,0.01
+2289,PS2,2008,Sports,Konami Digital Entertainment,0.05,0.04,0.01
+5472,PS2,2006,Adventure,Princess Soft,0.0,0.0,0.0
+1121,PS,1998,Sports,Konami Digital Entertainment,0.0,0.0,0.05
+1849,PSP,2012,Sports,Ackkstudios,0.0,0.0,0.0
+5948,PS4,2015,Action,Square Enix,0.46,1.02,0.28
+685,PS,1995,Adventure,Acclaim Entertainment,0.0,0.0,0.01
+4099,PSP,2009,Action,Spike,0.0,0.0,0.0
+975,PS3,2014,Fighting,Namco Bandai Games,0.04,0.06,0.02
+1539,SNES,1994,Strategy,Tecmo Koei,0.0,0.0,0.0
+3305,3DS,2014,Adventure,imageepoch Inc.,0.0,0.0,0.0
+4740,PS4,2015,Action,Sony Computer Entertainment,0.02,0.05,0.01
+3284,PSV,2016,Action,Ubisoft,0.02,0.06,0.02
+4054,PSP,2006,Misc,Sega,0.0,0.0,0.0
+5819,PS3,2008,Shooter,Electronic Arts,0.74,0.26,0.15
+3119,DS,2009,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+2347,Wii,2008,Racing,Jaleco,0.0,0.0,0.0
+5362,PSP,2011,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+4777,PS,1998,Role-Playing,SquareSoft,0.0,0.0,0.01
+393,PSP,2010,Action,Ubisoft,0.09,0.18,0.1
+4036,DS,2010,Adventure,Idea Factory,0.0,0.0,0.0
+415,DS,2010,Misc,Namco Bandai Games,0.0,0.0,0.0
+5630,3DS,2015,Action,Nintendo,0.0,0.0,0.0
+1820,PS2,2006,Action,Capcom,0.0,0.0,0.0
+3866,PSP,2013,Misc,Asgard,0.0,0.0,0.0
+1944,PS2,2006,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+911,PS3,2016,Misc,Namco Bandai Games,0.0,0.0,0.0
+5060,PSP,2007,Strategy,Konami Digital Entertainment,0.03,0.2,0.11
+42,PS2,2008,Sports,Konami Digital Entertainment,0.13,0.07,2.05
+1624,PSV,2015,Action,Idea Factory,0.0,0.0,0.0
+1760,DS,2012,Action,Idea Factory,0.0,0.0,0.0
+2616,SAT,1998,Strategy,Sega,0.0,0.0,0.0
+3051,PS2,2001,Fighting,Virgin Interactive,0.15,0.11,0.04
+2777,PSP,2012,Action,5pb,0.0,0.0,0.0
+3665,PSP,2013,Action,Broccoli,0.0,0.0,0.0
+2080,Wii,2009,Adventure,Nintendo,0.0,0.0,0.0
+4692,PS4,2015,Action,Bethesda Softworks,0.09,0.25,0.06
+3427,NES,1986,Action,Nintendo,1.33,0.31,0.05
+528,NES,1988,Sports,Nintendo,1.27,0.32,0.05
+4716,PS2,2009,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+4257,3DS,2015,Action,Warner Bros. Interactive Entertainment,0.31,0.22,0.05
+4766,DS,2008,Platform,Nintendo,0.61,0.0,0.05
+517,DS,2010,Action,Hudson Soft,0.0,0.0,0.0
+5466,PSP,2006,Fighting,Namco Bandai Games,0.0,0.0,0.0
+2526,PS3,2012,Action,Sega,0.0,0.0,0.0
+5407,X360,2007,Shooter,Eidos Interactive,0.36,0.31,0.08
+3252,PSP,2007,Role-Playing,Nippon Ichi Software,0.0,0.0,0.0
+5463,Wii,2010,Platform,Disney Interactive Studios,2.06,0.64,0.22
+4750,PS3,2013,Role-Playing,Nippon Ichi Software,0.06,0.02,0.01
+4421,PSP,2012,Action,Idea Factory,0.0,0.0,0.0
+2467,PS4,2014,Action,Tecmo Koei,0.06,0.07,0.02
+1490,TG16,1995,Adventure,NEC,0.0,0.0,0.0
+3227,PS3,2011,Action,Tecmo Koei,0.0,0.0,0.0
+603,X360,2010,Action,Ubisoft,2.84,0.39,0.24
+2649,PSV,2012,Role-Playing,Gust,0.0,0.0,0.0
+2367,3DS,2011,Action,505 Games,0.0,0.04,0.01
+4940,PSV,2014,Fighting,Arc System Works,0.03,0.0,0.01
+442,PS,1999,Misc,Aruze Corp,0.0,0.0,0.04
+1569,PS3,2011,Fighting,Nippon Ichi Software,0.27,0.11,0.05
+2423,DS,2010,Role-Playing,Square Enix,0.56,0.1,0.05
+5503,PS2,2006,Role-Playing,Sega,0.0,0.0,0.0
+822,DC,2000,Adventure,Sega,0.0,0.0,0.0
+555,PSP,2011,Adventure,Idea Factory,0.0,0.0,0.0
+1041,PS,2001,Strategy,Namco Bandai Games,0.0,0.0,0.01
+4561,XB,2001,Racing,Microsoft Game Studios,1.37,0.61,0.09
+5584,Wii,2010,Platform,Sega,0.96,0.61,0.16
+87,PS3,2012,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+1955,3DS,2015,Misc,Takara Tomy,0.0,0.0,0.0
+1070,DS,2008,Misc,Nintendo,0.0,0.0,0.0
+4776,N64,1997,Platform,Acclaim Entertainment,1.37,0.41,0.04
+3290,PS3,2013,Adventure,Sony Computer Entertainment,0.0,0.0,0.0
+2292,PSP,2010,Misc,Sega,0.0,0.0,0.0
+5255,DS,2009,Role-Playing,Sega,0.0,0.0,0.0
+3595,SNES,1995,Sports,Tecmo Koei,0.0,0.0,0.0
+1795,PS3,2006,Shooter,Sony Computer Entertainment,1.73,1.73,0.75
+2690,PSP,2012,Action,Quinrose,0.0,0.0,0.0
+504,PSP,2009,Fighting,Sony Computer Entertainment,0.0,0.0,0.0
+2732,Wii,2007,Shooter,Sega,0.42,0.21,0.07
+5351,DS,2009,Adventure,Namco Bandai Games,0.0,0.0,0.0
+5370,Wii,2008,Role-Playing,Namco Bandai Games,0.22,0.05,0.03
+66,PS2,2002,Strategy,Tecmo Koei,0.05,0.04,0.01
+5013,PS3,2013,Strategy,Namco Bandai Games,0.0,0.0,0.0
+1770,GBA,2004,Puzzle,Nintendo,0.0,0.0,0.0
+4525,PS3,2013,Role-Playing,Falcom Corporation,0.0,0.0,0.0
+5260,PS2,2006,Fighting,Ignition Entertainment,0.01,0.01,0.0
+3620,PS2,2006,Action,LucasArts,1.85,0.64,0.19
+1874,PS2,2006,Racing,Atari,0.12,0.1,0.03
+2654,PS,1997,Simulation,SquareSoft,0.0,0.0,0.02
+4479,Wii,2007,Simulation,Taito,0.0,0.0,0.0
+5104,PSP,2012,Adventure,Idea Factory,0.0,0.0,0.0
+3804,PS2,2005,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+1311,PS3,2007,Shooter,Activision,3.1,2.3,1.04
+932,SAT,1997,Strategy,NCS,0.0,0.0,0.0
+3558,PS3,2011,Fighting,Namco Bandai Games,0.2,0.08,0.04
+1478,DS,2009,Role-Playing,Nintendo,0.0,0.21,0.03
+177,N64,2001,Sports,Media Factory,0.0,0.0,0.0
+4450,PSV,2014,Adventure,Namco Bandai Games,0.0,0.0,0.0
+5812,PS,1996,Sports,Namco Bandai Games,0.0,0.0,0.03
+2096,PSP,2012,Action,FuRyu,0.0,0.0,0.0
+1591,DS,2009,Puzzle,Namco Bandai Games,0.0,0.0,0.0
+1396,SNES,1993,Platform,Nintendo,5.99,2.15,0.29
+1788,PS3,2013,Racing,Codemasters,0.07,0.23,0.09
+898,PS,2002,Role-Playing,Enix Corporation,0.0,0.0,0.02
+2881,XB,2001,Shooter,Microsoft Game Studios,4.98,1.3,0.07
+654,SAT,1996,Sports,Sega,0.0,0.0,0.0
+2045,3DS,2011,Puzzle,Square Enix,0.08,0.15,0.03
+3598,X360,2010,Shooter,Take-Two Interactive,1.45,0.55,0.19
+3378,SNES,1995,Role-Playing,Enix Corporation,0.0,0.0,0.0
+1926,NES,1986,Action,Hudson Soft,0.0,0.0,0.0
+796,X360,2006,Shooter,Ubisoft,1.4,0.02,0.1
+2738,Wii,2011,Misc,Nintendo,0.24,0.43,0.09
+3858,DS,2007,Platform,505 Games,0.0,0.0,0.0
+1581,PSP,2012,Adventure,Idea Factory,0.0,0.0,0.0
+5593,PS2,2002,Role-Playing,Sony Computer Entertainment,0.38,0.25,0.07
+5113,PSP,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+3315,Wii,2008,Fighting,Sega,0.0,0.0,0.0
+4593,PS2,2000,Strategy,Midas Interactive Entertainment,0.0,0.0,0.0
+1119,DS,2010,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+5306,PS2,2005,Action,Namco Bandai Games,0.0,0.0,0.0
+689,PS4,2016,Role-Playing,Square Enix,0.06,0.07,0.02
+923,SNES,1994,Sports,Media Rings,0.0,0.0,0.0
+3800,PSV,2012,Action,Konami Digital Entertainment,0.0,0.0,0.0
+2377,PS2,2002,Sports,Electronic Arts,1.25,0.15,0.22
+1866,X360,2006,Role-Playing,Namco Bandai Games,0.12,0.0,0.01
+2393,PS,1994,Sports,Sony Computer Entertainment,0.11,0.08,0.03
+31,PS2,2006,Action,Capcom,0.0,0.0,0.0
+4698,X360,2010,Shooter,Capcom,0.38,0.24,0.06
+1159,DS,2009,Role-Playing,Square Enix,0.23,0.11,0.03
+1439,PS,1996,Platform,Sony Computer Entertainment,3.23,2.35,0.3
+5897,3DS,2012,Role-Playing,Nintendo,1.12,0.39,0.12
+936,DS,2009,Role-Playing,Nintendo,0.66,0.69,0.15
+2084,DS,2010,Puzzle,Nintendo,1.63,0.52,0.18
+2147,DS,2007,Fighting,505 Games,0.0,0.0,0.0
+4361,SAT,1998,Strategy,Media Works,0.0,0.0,0.0
+672,GEN,1994,Racing,Sega,0.0,0.0,0.0
+3373,NES,1987,Role-Playing,Enix Corporation,0.15,0.0,0.0
+1016,PSP,2012,Action,Broccoli,0.0,0.0,0.0
+3352,PS2,2010,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+1736,PS2,2007,Misc,Irem Software Engineering,0.0,0.0,0.0
+3494,DS,2005,Platform,Nintendo,0.72,0.06,0.07
+3393,PS2,2005,Sports,Konami Digital Entertainment,0.12,2.26,0.77
+49,GC,2003,Role-Playing,Nintendo,0.72,0.38,0.04
+3546,PSV,2014,Misc,Marvelous Entertainment,0.0,0.0,0.0
+1782,PS,1998,Strategy,ArtDink,0.0,0.0,0.01
+1422,DS,2009,Fighting,Konami Digital Entertainment,0.0,0.0,0.0
+3744,PS,2000,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.01
+3702,PS2,2003,Fighting,Namco Bandai Games,0.0,0.0,0.0
+5265,N64,1996,Misc,Seta Corporation,0.0,0.0,0.03
+3886,PSP,2010,Role-Playing,Atlus,0.06,0.0,0.01
+1673,DS,2010,Strategy,Konami Digital Entertainment,0.18,0.02,0.02
+5834,WS,2000,Role-Playing,SquareSoft,0.0,0.0,0.0
+1038,GB,1995,Puzzle,Nintendo,0.0,0.0,0.0
+2290,DS,2004,Simulation,Electronic Arts,0.4,0.01,0.0
+1691,Wii,2009,Sports,Hudson Soft,0.33,0.34,0.07
+4425,PS3,2013,Action,Tecmo Koei,0.0,0.0,0.0
+4201,PSV,2012,Action,Prototype,0.0,0.0,0.0
+1802,PS2,2005,Shooter,Sony Computer Entertainment,1.22,0.34,0.1
+2,PSP,2009,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+6025,DS,2011,Adventure,Namco Bandai Games,0.0,0.0,0.0
+1367,NES,1984,Platform,Namco Bandai Games,0.0,0.0,0.0
+4664,PSP,2007,Misc,Sony Computer Entertainment,0.33,0.25,0.17
+622,N64,1996,Action,Nintendo,2.0,0.5,0.03
+4344,PS4,2016,Adventure,Square Enix,0.14,0.15,0.06
+4879,DS,2006,Role-Playing,Ubisoft,0.09,0.0,0.01
+3100,DS,2007,Action,Nintendo,0.09,0.0,0.01
+1433,PS,2002,Action,Namco Bandai Games,0.0,0.0,0.01
+5025,DS,2009,Sports,Sega,1.22,1.66,0.38
+1261,DS,2005,Misc,Nintendo,4.75,9.26,2.05
+507,DS,2009,Role-Playing,Nintendo,2.26,0.48,0.27
+3603,DS,2007,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+2169,PSV,2014,Adventure,Prototype,0.0,0.0,0.0
+407,PS,1996,Action,Namco Bandai Games,0.0,0.0,0.02
+104,3DS,2012,Sports,Nintendo,0.26,0.29,0.05
+5904,PS2,2000,Fighting,Ubisoft,0.16,0.13,0.04
+4045,PSP,2009,Racing,Sony Computer Entertainment,0.5,1.59,0.87
+5059,PS,1998,Fighting,Agetec,0.05,0.04,0.01
+3358,DS,2010,Misc,Namco Bandai Games,0.0,0.0,0.0
+3632,X360,2008,Fighting,Ubisoft,0.92,0.44,0.15
+2314,SAT,1994,Shooter,Sega,0.0,0.0,0.0
+4381,PS3,2009,Action,Tecmo Koei,0.0,0.0,0.0
+2063,SNES,1994,Sports,Human Entertainment,0.0,0.0,0.0
+4031,X360,2012,Action,Square Enix,0.68,0.9,0.17
+3518,PS3,2008,Platform,Sony Computer Entertainment,2.8,2.05,0.9
+2727,Wii,2008,Misc,Nintendo,0.0,0.0,0.0
+2286,X360,2008,Action,Namco Bandai Games,0.07,0.03,0.01
+4482,PS2,2006,Adventure,Sony Computer Entertainment,0.0,0.0,0.0
+1918,DS,2010,Action,Namco Bandai Games,0.0,0.0,0.0
+1106,WiiU,2015,Action,Nippon Ichi Software,0.08,0.02,0.01
+3949,NES,1985,Sports,Nintendo,0.18,0.23,0.02
+4623,PSV,2014,Role-Playing,Nippon Ichi Software,0.03,0.02,0.01
+3469,X360,2013,Racing,Electronic Arts,0.37,0.38,0.08
+3097,DS,2010,Role-Playing,Nintendo,5.57,3.28,0.82
+3307,PS3,2013,Action,Konami Digital Entertainment,0.03,0.43,0.01
+5850,GC,2005,Action,Capcom,0.98,0.42,0.06
+233,SNES,1997,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+347,PS,2000,Platform,Capcom,0.3,0.21,0.05
+3054,3DS,2012,Adventure,ChunSoft,0.0,0.0,0.0
+860,PS,1999,Sports,Konami Digital Entertainment,0.0,0.0,0.02
+3014,PS2,2006,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.0
+1785,PS3,2008,Shooter,Electronic Arts,0.76,0.36,0.18
+6038,PS3,2008,Role-Playing,Atari,0.19,0.13,0.06
+3174,PS2,2004,Platform,Sony Computer Entertainment,1.31,0.74,0.22
+4250,SAT,1994,Simulation,Sega,0.0,0.0,0.0
+4284,PS2,2007,Action,Capcom,0.0,0.0,0.0
+3249,PS3,2012,Shooter,Activision,4.99,5.88,2.52
+3541,PSP,2013,Adventure,Alchemist,0.0,0.0,0.0
+3879,PS3,2011,Shooter,Activision,5.54,5.82,1.62
+3202,NES,1988,Platform,Nintendo,5.39,1.18,0.19
+4803,SNES,1995,Platform,Banpresto,0.0,0.0,0.0
+4063,PS,1995,Adventure,Psygnosis,0.0,0.0,0.0
+3445,PSP,2008,Adventure,System Soft,0.0,0.0,0.0
+4673,PS2,2007,Misc,Sega,0.0,0.0,0.0
+2326,3DS,2014,Adventure,Namco Bandai Games,0.0,0.0,0.0
+4820,PS3,2013,Fighting,Namco Bandai Games,0.05,0.02,0.01
+1048,PSP,2008,Platform,Tecmo Koei,0.02,0.01,0.01
+1708,PS3,2010,Action,Konami Digital Entertainment,0.1,0.04,0.02
+5533,DS,2008,Role-Playing,Square Enix,0.11,0.02,0.01
+5636,GB,1999,Strategy,Konami Digital Entertainment,0.0,0.0,0.0
+1141,PSP,2010,Fighting,Namco Bandai Games,0.11,0.04,0.03
+1009,3DS,2014,Fighting,Namco Bandai Games,0.0,0.0,0.0
+5799,PSP,2010,Adventure,D3Publisher,0.0,0.0,0.0
+591,PS4,2015,Shooter,Activision,0.77,0.78,0.31
+2885,Wii,2010,Strategy,Namco Bandai Games,0.0,0.0,0.0
+2355,X360,2013,Sports,Electronic Arts,0.92,2.93,0.46
+1304,PSP,2010,Adventure,Yeti,0.0,0.0,0.0
+1316,PS2,2003,Simulation,Agetec,0.07,0.06,0.02
+1686,PS2,2002,Adventure,Success,0.0,0.0,0.0
+1176,DS,2007,Simulation,Rising Star Games,0.44,0.01,0.04
+79,PS2,2005,Action,Tecmo Koei,0.11,0.08,0.03
+1744,PSP,2012,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+2939,PS3,2011,Shooter,THQ,0.32,0.4,0.15
+2987,Wii,2007,Action,Disney Interactive Studios,0.39,0.02,0.04
+1746,PS,1996,Fighting,Sony Computer Entertainment,0.12,0.08,0.06
+5099,PS2,2007,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+722,3DS,2015,Action,FuRyu,0.0,0.0,0.0
+5320,PS4,2016,Misc,Aqua Plus,0.0,0.0,0.0
+1420,DS,2006,Strategy,Tecmo Koei,0.0,0.0,0.0
+3643,SAT,1998,Role-Playing,Compile,0.0,0.0,0.0
+5883,SNES,1992,Fighting,Konami Digital Entertainment,0.0,0.0,0.0
+4669,PS,1997,Role-Playing,Gust,0.0,0.0,0.02
+40,NES,1983,Platform,Nintendo,0.51,0.12,0.02
+3073,DS,2009,Role-Playing,Sega,0.07,0.06,0.01
+3438,N64,2000,Platform,Nintendo,0.63,0.06,0.04
+2689,PSP,2009,Role-Playing,Sega,0.08,0.11,0.06
+5805,PS2,2006,Action,Tecmo Koei,0.0,0.0,0.0
+3008,DS,2007,Misc,Konami Digital Entertainment,0.0,0.0,0.0
+1049,DS,2011,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+718,XB,2002,Role-Playing,Atlus,0.0,0.0,0.0
+4391,PS2,2006,Misc,Daito,0.0,0.0,0.0
+589,X360,2010,Role-Playing,Electronic Arts,1.99,0.82,0.27
+362,PSP,2005,Shooter,LucasArts,1.05,0.06,0.11
+2901,PS4,2014,Action,Nippon Ichi Software,0.13,0.02,0.04
+487,PS4,2015,Fighting,Tecmo Koei,0.09,0.13,0.04
+2150,X360,2007,Action,Microsoft Game Studios,0.18,0.0,0.01
+16,PSP,2011,Adventure,D3Publisher,0.0,0.0,0.0
+252,SNES,1996,Sports,Epoch,0.0,0.0,0.0
+2518,N64,1999,Misc,Namco Bandai Games,1.24,0.17,0.01
+5615,DS,2004,Puzzle,Sega,0.17,0.0,0.02
+1193,Wii,2008,Puzzle,Hudson Entertainment,0.0,0.0,0.0
+4581,GB,1998,Role-Playing,Nintendo,5.89,5.04,0.59
+4495,DS,2008,Misc,Nintendo,0.58,0.51,0.14
+1254,GC,2001,Action,Nintendo,2.38,0.67,0.1
+1310,PS3,2011,Fighting,Namco Bandai Games,0.27,0.18,0.08
+5187,PS3,2009,Sports,Electronic Arts,0.46,0.03,0.05
+957,DS,2007,Strategy,Banpresto,0.0,0.0,0.0
+2557,DC,1999,Sports,Sega,0.0,0.0,0.0
+5200,Wii,2006,Simulation,Nintendo,0.28,0.02,0.03
+3584,PS,1999,Platform,Sony Computer Entertainment,0.71,0.48,0.11
+2307,PS2,2009,Sports,Tecmo Koei,0.0,0.0,0.0
+5141,PSV,2013,Role-Playing,Nippon Ichi Software,0.0,0.0,0.0
+1146,PSP,2010,Adventure,Alchemist,0.0,0.0,0.0
+1719,PS4,2016,Action,Namco Bandai Games,0.0,0.0,0.0
+1417,PS3,2015,Action,Capcom,0.06,0.08,0.03
+3397,SNES,1995,Simulation,Pack-In-Video,0.0,0.0,0.0
+1597,X360,2006,Sports,Electronic Arts,1.66,0.0,0.13
+1172,PS2,2001,Role-Playing,Midway Games,0.09,0.07,0.02
+5853,NES,1985,Puzzle,Hudson Soft,0.18,0.0,0.0
+4202,PSP,2011,Adventure,Alchemist,0.0,0.0,0.0
+1661,PSP,2008,Fighting,Sony Computer Entertainment,0.0,0.0,0.0
+1900,PSV,2015,Role-Playing,Experience Inc.,0.0,0.0,0.0
+2628,N64,1998,Simulation,Nintendo,0.83,0.06,0.0
+3075,PS2,2006,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+3211,X360,2009,Shooter,THQ,0.48,0.29,0.09
+3418,PSV,2016,Role-Playing,Square Enix,0.0,0.0,0.0
+598,GC,2001,Simulation,LucasArts,1.03,0.75,0.09
+4043,GBA,2001,Racing,Konami Digital Entertainment,0.09,0.03,0.0
+1940,PS3,2012,Adventure,Namco Bandai Games,0.0,0.0,0.0
+5057,SNES,1993,Sports,Victor Interactive,0.0,0.0,0.0
+3924,DS,2010,Fighting,Namco Bandai Games,0.0,0.0,0.0
+5067,GBA,2004,Action,THQ,1.15,0.77,0.1
+3450,GB,1997,Misc,Nintendo,0.76,0.3,0.04
+4360,PS3,2009,Shooter,Sony Computer Entertainment,1.4,1.07,0.47
+1805,X360,2006,Action,THQ,1.17,0.78,0.22
+690,X360,2013,Role-Playing,Square Enix,0.15,0.1,0.02
+4458,GEN,1994,Fighting,Sega,0.0,0.0,0.0
+4502,DS,2007,Adventure,505 Games,0.09,0.0,0.01
+5359,PS2,2006,Sports,Konami Digital Entertainment,0.1,2.39,0.86
+4472,PS2,2002,Adventure,505 Games,0.02,0.02,0.01
+2975,PSP,2012,Role-Playing,FuRyu,0.0,0.0,0.0
+5328,GC,2003,Sports,Nintendo,1.09,0.15,0.04
+206,PS3,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+5742,PS2,2001,Role-Playing,From Software,0.02,0.02,0.01
+2415,PS3,2008,Adventure,Unknown,0.12,0.0,0.01
+3228,SNES,1993,Sports,Tecmo Koei,0.0,0.0,0.0
+2288,DC,2000,Action,Eidos Interactive,0.41,0.23,0.03
+843,3DS,2014,Puzzle,Sega,0.0,0.0,0.0
+2281,3DS,2014,Simulation,Office Create,0.0,0.0,0.0
+4493,PS2,2001,Action,Midas Interactive Entertainment,0.0,0.0,0.0
+3511,DS,2005,Role-Playing,Nintendo,0.0,0.0,0.0
+4630,PS,1998,Fighting,THQ,1.42,0.36,0.07
+5884,PSP,2011,Role-Playing,Square Enix,0.0,0.0,0.0
+3365,SAT,1995,Adventure,Shogakukan,0.0,0.0,0.0
+4282,DS,2008,Simulation,Ubisoft,0.0,0.0,0.0
+2373,PS,1996,Fighting,Sony Computer Entertainment,0.61,0.41,0.1
+375,GB,1991,Action,Konami Digital Entertainment,0.0,0.0,0.0
+4538,SAT,1994,Fighting,JVC,0.0,0.0,0.0
+4748,PS2,2001,Sports,Tecmo Koei,0.0,0.0,0.0
+5680,PS3,2013,Misc,Ubisoft,0.51,0.27,0.15
+3391,PS,2000,Misc,Aruze Corp,0.0,0.0,0.03
+686,PS3,2015,Fighting,Namco Bandai Games,0.0,0.0,0.0
+2857,DS,2007,Role-Playing,Nintendo,1.85,1.2,0.37
+5561,PS2,2000,Simulation,Namco Bandai Games,0.16,0.13,0.04
+3429,GBA,2001,Puzzle,Nintendo,0.0,0.0,0.01
+5191,DS,2008,Misc,D3Publisher,0.0,0.0,0.0
+1615,NES,1985,Action,Nintendo,1.64,0.38,0.06
+3528,PS2,2003,Action,Activision,1.89,1.05,0.31
+820,PS3,2014,Adventure,Nippon Ichi Software,0.0,0.0,0.0
+291,DS,2005,Puzzle,Namco Bandai Games,0.16,0.0,0.01
+4511,3DS,2016,Adventure,Happinet,0.0,0.0,0.0
+3690,Wii,2012,Misc,Nintendo,0.0,0.0,0.0
+4662,3DS,2013,Action,Namco Bandai Games,0.0,0.0,0.0
+864,SAT,1997,Shooter,Sega,0.0,0.0,0.0
+435,3DS,2015,Adventure,Tecmo Koei,0.0,0.0,0.0
+5626,PS3,2014,Adventure,Compile Heart,0.0,0.0,0.0
+1600,3DS,2016,Adventure,Aksys Games,0.04,0.0,0.01
+3130,PS3,2014,Role-Playing,Tecmo Koei,0.06,0.05,0.02
+963,PS3,2012,Role-Playing,Falcom Corporation,0.0,0.0,0.0
+5428,PS2,2006,Shooter,Electronic Arts,1.01,0.04,0.16
+3974,PS2,2007,Racing,Sunrise Interactive,0.0,0.0,0.0
+2149,DS,2007,Adventure,Kids Station,0.0,0.0,0.0
+154,PSP,2009,Fighting,Namco Bandai Games,0.13,0.04,0.03
+2846,PS2,2007,Sports,Electronic Arts,0.59,0.02,0.1
+2647,SAT,1996,Shooter,Atlus,0.0,0.0,0.0
+1906,SNES,1997,Puzzle,Hudson Soft,0.0,0.0,0.0
+868,GBA,2002,Role-Playing,Nintendo,6.06,3.9,0.5
+2394,PSV,2013,Adventure,5pb,0.0,0.0,0.0
+2435,Wii,2007,Role-Playing,Square Enix,0.18,0.01,0.02
+3586,PS2,2006,Fighting,Sega,0.0,0.0,0.0
+1519,PSV,2012,Role-Playing,Atlus,0.46,0.34,0.21
+1068,GC,2001,Platform,Sega,1.7,0.59,0.07
+1196,GBA,2004,Action,Nintendo,0.1,0.04,0.01
+2431,DS,2009,Puzzle,Nintendo,0.3,1.47,0.34
+4951,Wii,2008,Sports,Ubisoft,1.11,0.04,0.09
+3624,DS,2009,Misc,D3Publisher,0.0,0.0,0.0
+1047,X360,2009,Adventure,5pb,0.0,0.0,0.0
+2236,X360,2012,Sports,Take-Two Interactive,2.6,0.21,0.19
+5651,3DS,2011,Role-Playing,Ghostlight,0.28,0.01,0.02
+1252,PSP,2011,Role-Playing,Nippon Ichi Software,0.0,0.0,0.0
+3334,N64,1999,Action,Nintendo,0.62,0.18,0.02
+1050,PSV,2015,Strategy,Tecmo Koei,0.0,0.0,0.0
+925,DS,2010,Misc,Namco Bandai Games,0.0,0.0,0.0
+3748,PSP,2012,Adventure,Quinrose,0.0,0.0,0.0
+1973,3DS,2014,Strategy,Namco Bandai Games,0.0,0.0,0.0
+758,N64,1999,Strategy,Namco Bandai Games,0.0,0.0,0.0
+4565,PSP,2009,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+5975,DS,2009,Action,Takara Tomy,0.0,0.0,0.0
+227,PS2,2006,Adventure,Sony Computer Entertainment,0.0,0.0,0.0
+4959,GC,2002,Platform,Nintendo,4.01,1.26,0.17
+137,PS2,2002,Shooter,Sony Computer Entertainment,2.53,0.81,0.24
+4747,PSV,2016,Role-Playing,Nihon Falcom Corporation,0.0,0.0,0.0
+5949,Wii,2011,Role-Playing,Marvelous Interactive,0.14,0.0,0.01
+5229,PS2,2003,Role-Playing,Hudson Soft,0.0,0.0,0.0
+3719,PS2,2002,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.0
+766,PSP,2011,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+1606,PS3,2011,Action,Capcom,0.0,0.0,0.0
+2058,PS2,2004,Shooter,Electronic Arts,0.85,1.06,0.32
+4448,N64,1996,Sports,Imagineer,0.0,0.0,0.0
+2893,DS,2011,Action,Namco Bandai Games,0.0,0.0,0.0
+2121,GBA,2003,Role-Playing,Enix Corporation,0.0,0.0,0.02
+4300,PSP,2013,Misc,Idea Factory,0.0,0.0,0.0
+2498,SAT,1996,Shooter,Namco Bandai Games,0.0,0.0,0.0
+3080,PSP,2012,Action,Nihon Falcom Corporation,0.0,0.0,0.0
+2287,Wii,2010,Platform,Nintendo,3.66,2.42,0.64
+196,3DS,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+5729,PS3,2011,Fighting,PQube,0.04,0.05,0.02
+838,DS,2005,Strategy,Nintendo,0.3,0.03,0.03
+888,GB,2000,Platform,Nintendo,0.0,0.0,0.0
+2664,GBA,2004,Adventure,Nintendo,0.46,0.17,0.02
+3242,PS,1998,Strategy,Electronic Arts,0.03,0.02,0.01
+3349,DS,2006,Puzzle,Nintendo,0.16,0.0,0.01
+5293,PS3,2013,Fighting,Arc System Works,0.13,0.0,0.02
+5393,DS,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+2471,PS2,2001,Role-Playing,Gust,0.0,0.0,0.0
+1856,PS3,2012,Shooter,Konami Digital Entertainment,0.06,0.04,0.02
+619,PSV,2013,Misc,Nippon Ichi Software,0.14,0.07,0.06
+3745,PSP,2009,Fighting,Capcom,0.0,0.0,0.0
+5790,PS3,2015,Adventure,Aqua Plus,0.0,0.0,0.0
+5124,3DS,2014,Role-Playing,Square Enix,0.15,0.07,0.02
+377,PS4,2014,Sports,Electronic Arts,0.46,0.4,0.17
+1877,PS3,2011,Role-Playing,Namco Bandai Games,0.29,0.19,0.09
+4569,PSP,2012,Misc,Idea Factory,0.0,0.0,0.0
+5210,N64,1996,Racing,Nintendo,5.55,1.94,0.15
+1994,PS4,2015,Role-Playing,Aksys Games,0.0,0.0,0.0
+2586,PSV,2015,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+3613,DS,2008,Adventure,Idea Factory,0.0,0.0,0.0
+3811,X360,2011,Shooter,Activision,9.03,4.28,1.32
+4762,DS,2008,Action,Namco Bandai Games,0.0,0.0,0.0
+533,PS2,2006,Adventure,GN Software,0.0,0.0,0.0
+5640,X360,2009,Fighting,THQ,0.56,0.38,0.11
+94,DS,2009,Puzzle,Warner Bros. Interactive Entertainment,1.71,0.32,0.18
+1287,PS2,2010,Adventure,Idea Factory,0.0,0.0,0.0
+106,PS4,2016,Shooter,Take-Two Interactive,0.05,0.11,0.03
+4418,GC,2005,Shooter,Nintendo,0.68,0.18,0.03
+5318,PSP,2006,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.0
+1488,PS,1997,Shooter,Sony Computer Entertainment,0.01,0.01,0.01
+4829,XB,2002,Shooter,Sega,0.16,0.05,0.01
+940,PS4,2015,Role-Playing,Square Enix,0.29,0.25,0.11
+1352,PSP,2011,Adventure,Quinrose,0.0,0.0,0.0
+3877,PS2,2007,Misc,Tecmo Koei,0.0,0.0,0.0
+5243,PS2,2002,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+1911,PS4,2014,Adventure,Telltale Games,0.12,0.25,0.08
+4784,SAT,1995,Fighting,Sega,0.34,0.26,0.03
+4586,PS2,2006,Sports,Namco Bandai Games,0.0,0.0,0.0
+1798,PSV,2015,Misc,Nippon Ichi Software,0.13,0.1,0.07
+74,GC,2001,Strategy,Nintendo,0.78,0.25,0.04
+2144,PS3,2015,Adventure,Namco Bandai Games,0.0,0.0,0.0
+3504,Wii,2011,Strategy,Namco Bandai Games,0.0,0.0,0.0
+4496,PS3,2014,Sports,Electronic Arts,0.57,3.14,1.07
+4505,PS2,2006,Role-Playing,Square Enix,0.04,0.03,0.01
+3032,PS2,2002,Fighting,Sammy Corporation,0.09,0.07,0.02
+3796,PS3,2015,Fighting,Namco Bandai Games,0.0,0.0,0.0
+109,PSV,2012,Adventure,Gust,0.0,0.0,0.0
+4579,3DS,2015,Action,FuRyu,0.0,0.0,0.0
+1834,PS3,2010,Simulation,Namco Bandai Games,0.0,0.0,0.0
+4102,PSV,2013,Adventure,Aqua Plus,0.0,0.0,0.0
+266,SNES,1996,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+5404,PS3,2012,Adventure,5pb,0.0,0.0,0.0
+4550,PS2,2002,Misc,Nippon Amuse,0.0,0.0,0.0
+3517,PS,1999,Role-Playing,Enix Corporation,0.02,0.01,0.04
+2397,SNES,1995,Sports,Asmik Corp,0.0,0.0,0.0
+883,DS,2008,Adventure,Namco Bandai Games,0.0,0.0,0.0
+101,PS3,2007,Action,Sony Computer Entertainment,0.57,0.73,0.3
+2235,PSP,2009,Misc,Edia,0.0,0.0,0.0
+3752,X360,2008,Adventure,Prototype,0.0,0.0,0.0
+3040,PSP,2009,Action,D3Publisher,0.0,0.0,0.0
+3207,PSP,2010,Adventure,D3Publisher,0.0,0.0,0.0
+5748,PS,1997,Racing,Infogrames,0.43,0.29,0.06
+5069,PS3,2012,Misc,Namco Bandai Games,0.0,0.0,0.0
+901,PSV,2016,Sports,Tecmo Koei,0.0,0.0,0.0
+3788,PS3,2011,Sports,Tecmo Koei,0.06,0.05,0.02
+1796,N64,2000,Racing,Nintendo,0.37,0.08,0.01
+3206,PSP,2013,Adventure,Alchemist,0.0,0.0,0.0
+3551,XB,2002,Racing,Sega,0.12,0.03,0.01
+1649,PSV,2013,Role-Playing,Gust,0.0,0.0,0.0
+866,PS2,2002,Platform,Sony Computer Entertainment,1.44,1.01,0.3
+2206,DS,2008,Misc,Mirai Shounen,0.0,0.0,0.0
+5519,PS,1998,Role-Playing,Locus,0.0,0.0,0.0
+1346,PSP,2009,Fighting,Namco Bandai Games,0.0,0.0,0.0
+4995,PSP,2009,Action,Tecmo Koei,0.0,0.0,0.0
+2776,PS4,2015,Shooter,Activision,5.77,5.81,2.31
+3705,PS,1996,Strategy,Gust,0.0,0.0,0.0
+2806,PSV,2015,Simulation,FuRyu,0.0,0.0,0.0
+3817,DS,2006,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3192,SAT,1997,Puzzle,Compile,0.0,0.0,0.0
+4563,SAT,1998,Shooter,ESP,0.0,0.0,0.0
+2610,PS2,2009,Adventure,5pb,0.0,0.0,0.0
+213,PSV,2016,Action,Namco Bandai Games,0.0,0.0,0.0
+5383,PSP,2011,Misc,Namco Bandai Games,0.0,0.0,0.0
+4568,PSP,2010,Adventure,CyberFront,0.0,0.0,0.0
+5529,PS2,2002,Racing,Electronic Arts,1.68,0.31,0.09
+3244,PS2,2006,Shooter,Namco Bandai Games,0.0,0.0,0.0
+5581,PS2,2000,Fighting,Tecmo Koei,0.3,0.24,0.08
+5910,DS,2006,Simulation,505 Games,3.13,1.94,0.58
+5079,DS,2007,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+966,PS3,2012,Fighting,Namco Bandai Games,0.27,0.25,0.08
+655,PS,1998,Misc,Konami Digital Entertainment,0.0,0.0,0.0
+2506,SNES,1995,Misc,Sunsoft,0.0,0.0,0.0
+3999,3DS,2013,Misc,Takara Tomy,0.0,0.0,0.0
+3310,XOne,2014,Shooter,Electronic Arts,1.84,0.8,0.22
+1453,PSV,2015,Adventure,Minato Station,0.0,0.0,0.0
+472,PSV,2015,Misc,Kaga Create,0.0,0.0,0.0
+1948,PS3,2013,Adventure,Arc System Works,0.02,0.0,0.0
+2794,SNES,1993,Role-Playing,ChunSoft,0.0,0.0,0.0
+1464,X360,2012,Role-Playing,Capcom,0.42,0.24,0.06
+2576,DS,2008,Shooter,Ignition Entertainment,0.13,0.0,0.01
+2245,PS4,2016,Action,Hello Games,0.58,0.74,0.26
+3813,PS2,2008,Misc,Hackberry,0.0,0.0,0.0
+793,PSP,2005,Action,Take-Two Interactive,2.9,2.83,1.75
+4631,PS2,2004,Simulation,Indie Games,0.06,0.05,0.02
+2311,PS2,2004,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3331,GBA,2005,Role-Playing,Banpresto,0.0,0.0,0.0
+1424,PSP,2010,Adventure,Russel,0.0,0.0,0.0
+1170,PS2,2003,Sports,Sega,0.0,0.0,0.0
+3214,DS,2009,Role-Playing,Rising Star Games,0.28,0.03,0.02
+4817,X360,2009,Adventure,5pb,0.0,0.0,0.0
+3763,Wii,2007,Platform,Konami Digital Entertainment,0.14,0.0,0.01
+4307,DC,2000,Role-Playing,Sega,0.0,0.0,0.0
+1503,X360,2008,Action,Ubisoft,0.54,0.35,0.1
+4898,PS4,2015,Role-Playing,Namco Bandai Games,0.0,0.01,0.0
+1415,SNES,1994,Strategy,Banpresto,0.0,0.0,0.0
+2870,Wii,2008,Misc,Nintendo,1.36,1.13,0.32
+6055,DS,2007,Shooter,Konami Digital Entertainment,0.28,0.0,0.02
+1440,PSV,2013,Role-Playing,CyberFront,0.0,0.0,0.0
+222,NES,1987,Role-Playing,SquareSoft,0.32,0.0,0.0
+2143,GBA,2003,Role-Playing,SquareSoft,0.82,0.37,0.05
+5083,PS2,2006,Strategy,Essential Games,0.01,0.0,0.0
+5572,PSV,2012,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+229,3DS,2015,Puzzle,Nintendo,0.05,0.05,0.01
+3536,PS4,2016,Action,Ubisoft,0.01,0.05,0.01
+171,XOne,2014,Shooter,Activision,3.21,1.53,0.38
+4004,Wii,2008,Racing,Nintendo,15.85,12.88,3.31
+4834,SAT,1995,Fighting,Acclaim Entertainment,0.0,0.0,0.0
+5750,PSV,2013,Action,Namco Bandai Games,0.0,0.0,0.0
+805,X360,2007,Shooter,Take-Two Interactive,0.36,0.04,0.04
+147,3DS,2011,Racing,Ubisoft,0.27,0.16,0.04
+2371,DS,2010,Strategy,Namco Bandai Games,0.0,0.0,0.0
+2138,PSP,2011,Adventure,Comfort,0.0,0.0,0.0
+5707,DC,2000,Role-Playing,Sega,0.0,0.0,0.0
+4169,PSP,2011,Action,FuRyu,0.0,0.0,0.0
+2055,X360,2014,Action,Ubisoft,0.72,0.45,0.11
+56,SAT,1998,Adventure,ChunSoft,0.0,0.0,0.0
+3952,DS,2008,Adventure,D3Publisher,0.0,0.0,0.0
+1627,GBA,2006,Role-Playing,Sting,0.0,0.0,0.0
+2018,PS2,2000,Role-Playing,Sunrise Interactive,0.0,0.0,0.0
+5568,DC,2000,Adventure,NEC Interchannel,0.0,0.0,0.0
+5299,PSP,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+361,PS,1997,Role-Playing,SquareSoft,0.93,0.12,0.06
+1614,SAT,1996,Adventure,Sega,0.0,0.0,0.0
+1100,PS2,2001,Racing,Infogrames,0.09,0.07,0.02
+1265,PS3,2012,Action,Capcom,0.48,0.25,0.1
+383,DS,2010,Simulation,Konami Digital Entertainment,0.0,0.0,0.0
+1737,PS2,2003,Misc,Namco Bandai Games,0.0,0.0,0.0
+4507,3DS,2014,Misc,Nintendo,0.18,0.12,0.03
+4877,PS3,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+2572,PS4,2015,Adventure,5pb,0.0,0.0,0.0
+315,NES,1991,Action,Konami Digital Entertainment,1.05,0.17,0.02
+3547,PS4,2013,Shooter,Activision,1.78,1.42,0.38
+4968,DC,1999,Sports,Sega,0.0,0.0,0.0
+2049,PS3,2009,Shooter,Warner Bros. Interactive Entertainment,0.14,0.1,0.05
+3180,N64,1997,Puzzle,Activision,0.13,0.02,0.0
+4583,PS2,2006,Shooter,Square Enix,0.47,0.37,0.12
+5864,SAT,1994,Platform,Sega,0.0,0.0,0.0
+1732,PS3,2014,Shooter,Activision,1.54,1.94,0.77
+4737,PSP,2015,Action,Broccoli,0.0,0.0,0.0
+2276,NES,1987,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+4573,X360,2009,Strategy,Kalypso Media,0.15,0.02,0.02
+3294,PS2,2006,Action,Namco Bandai Games,0.0,0.0,0.0
+4612,PS2,2002,Sports,Sega,0.59,0.46,0.15
+4068,PSV,2013,Adventure,Arc System Works,0.0,0.0,0.0
+4476,SNES,1995,Strategy,SquareSoft,0.0,0.0,0.0
+3552,PS3,2013,Simulation,Namco Bandai Games,0.0,0.0,0.0
+68,X360,2010,Fighting,PQube,0.23,0.04,0.02
+1095,PSP,2010,Adventure,Prototype,0.0,0.0,0.0
+1337,3DS,2012,Action,Capcom,0.3,0.22,0.05
+2085,NES,1986,Action,Nintendo,3.74,0.93,0.14
+1575,DS,2011,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+2639,3DS,2012,Action,Nintendo,0.0,0.0,0.0
+2312,PSV,2014,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+2270,Wii,2007,Action,Tecmo Koei,0.11,0.0,0.01
+5470,DS,2007,Misc,Namco Bandai Games,0.0,0.0,0.0
+1427,3DS,2012,Role-Playing,Nintendo,0.89,0.45,0.13
+2896,GB,1988,Platform,Capcom,0.82,0.23,0.03
+4722,PSP,2011,Role-Playing,Namco Bandai Games,0.0,0.0,0.0
+2079,SAT,1994,Fighting,Sega,0.0,0.0,0.0
+1660,PSP,2010,Adventure,Nippon Ichi Software,0.07,0.0,0.01
+86,PS4,2015,Shooter,Ubisoft,0.54,1.16,0.32
+2154,GB,2000,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.01
+5671,Wii,2008,Sports,Atari,0.79,0.44,0.14
+2824,PS2,2000,Simulation,Asmik Ace Entertainment,0.0,0.0,0.0
+4963,DS,2008,Role-Playing,Sega,0.16,0.0,0.01
+4693,GB,2000,Adventure,Media Factory,0.0,0.0,0.0
+4309,PS2,2002,Sports,Zoo Digital Publishing,0.04,0.03,0.01
+3047,SNES,1994,Sports,ASCII Entertainment,0.0,0.0,0.0
+4414,PSP,2010,Adventure,Idea Factory,0.0,0.0,0.0
+5375,PS3,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+3967,PS2,2009,Strategy,Namco Bandai Games,0.0,0.0,0.0
+334,PSP,2011,Role-Playing,Tecmo Koei,0.0,0.0,0.0
+2764,PS2,2006,Sports,Sega,0.0,0.0,0.0
+1178,N64,2000,Misc,Nintendo,0.72,0.16,0.02
+652,DS,2009,Platform,505 Games,0.0,0.0,0.0
+2529,PSV,2012,Misc,CyberFront,0.0,0.0,0.0
+2674,PS4,2013,Racing,Electronic Arts,0.73,0.91,0.22
+609,PSP,2010,Strategy,Namco Bandai Games,0.0,0.0,0.0
+3985,GBA,2001,Strategy,Nintendo,0.0,0.0,0.0
+1111,PSV,2013,Adventure,5pb,0.0,0.0,0.0
+543,PS,2000,Role-Playing,Namco Bandai Games,0.06,0.04,0.05
+112,PSV,2012,Action,Sony Computer Entertainment,0.26,0.15,0.1
+5105,DS,2007,Action,MTO,0.0,0.0,0.0
+1598,PSP,2010,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+2641,X360,2010,Role-Playing,Capcom,0.0,0.0,0.0
+4992,PS4,2014,Shooter,Activision,2.49,2.05,0.96
+1767,GBA,2004,Puzzle,Namco Bandai Games,0.0,0.0,0.0
+3962,PSP,2010,Fighting,Marvelous Interactive,0.0,0.0,0.0
+1246,GC,2002,Action,Capcom,0.54,0.27,0.04
+5175,GC,2002,Adventure,Nintendo,0.96,0.53,0.09
+2716,PS2,2006,Action,Namco Bandai Games,0.0,0.0,0.0
+2856,PSP,2004,Misc,Konami Digital Entertainment,0.0,0.0,0.0
+1682,Wii,2008,Fighting,Takara Tomy,0.0,0.0,0.0
+4116,GC,2002,Fighting,Namco Bandai Games,0.04,0.01,0.0
+1822,PS3,2013,Role-Playing,Nippon Ichi Software,0.0,0.0,0.0
+2381,PSV,2015,Adventure,Idea Factory,0.0,0.0,0.0
+874,PSP,2010,Simulation,Namco Bandai Games,0.06,0.05,0.03
+1122,PS3,2006,Racing,Namco Bandai Games,0.24,0.7,0.26
+5165,PSP,2007,Fighting,Capcom,0.0,0.0,0.0
+1239,X360,2008,Racing,Electronic Arts,0.79,0.71,0.18
+1935,PS2,2007,Adventure,Alchemist,0.0,0.0,0.0
+5888,PS3,2012,Shooter,Namco Bandai Games,0.0,0.0,0.0
+3774,PSP,2014,Adventure,Idea Factory,0.0,0.0,0.0
+1344,3DS,2013,Role-Playing,Level 5,0.0,0.0,0.0
+3309,SNES,1996,Role-Playing,Hudson Soft,0.0,0.0,0.0
+311,PS2,2007,Adventure,Idea Factory,0.0,0.0,0.0
+3424,PS,1999,Role-Playing,SquareSoft,2.28,1.72,0.23
+1658,PS2,2002,Role-Playing,Gust,0.0,0.0,0.0
+5798,GBA,2001,Platform,Nintendo,0.9,0.73,0.09
+1233,SNES,1996,Strategy,Tecmo Koei,0.0,0.0,0.0
+1811,X360,2008,Shooter,Electronic Arts,1.09,0.38,0.16
+5562,DS,2007,Misc,Tecmo Koei,0.0,0.0,0.0
+1350,PSP,2011,Adventure,Idea Factory,0.0,0.0,0.0
+5047,DS,2007,Shooter,Activision,0.96,0.02,0.08
+332,PSV,2013,Role-Playing,Nippon Ichi Software,0.08,0.05,0.04
+1468,PS3,2007,Action,Sony Computer Entertainment,0.36,0.04,0.04
+4419,X360,2011,Shooter,Bethesda Softworks,0.82,0.61,0.15
+5878,SNES,1995,Puzzle,Nintendo,0.0,0.0,0.0
+1833,3DS,2016,Role-Playing,Rocket Company,0.0,0.0,0.0
+3184,PSP,2013,Adventure,D3Publisher,0.0,0.0,0.0
+740,PS3,2011,Action,Sony Computer Entertainment,1.05,0.49,0.23
+2800,Wii,2007,Sports,Konami Digital Entertainment,0.23,0.0,0.02
+182,3DS,2016,Misc,FuRyu,0.0,0.0,0.0
+1115,DS,2004,Action,Activision,0.41,0.02,0.04
+3201,PS3,2014,Misc,Namco Bandai Games,0.0,0.0,0.0
+4121,PSP,2011,Role-Playing,Marvelous Interactive,0.0,0.0,0.0
+174,PSV,2015,Action,Tecmo Koei,0.0,0.0,0.0
+2242,DS,2007,Action,Namco Bandai Games,0.0,0.0,0.0
+3018,PSP,2010,Sports,Electronic Arts,0.09,0.24,0.12
+5879,GBA,2004,Shooter,Konami Digital Entertainment,0.0,0.0,0.0
+5204,3DO,1995,Adventure,Konami Digital Entertainment,0.0,0.0,0.0
+2337,PSP,2008,Role-Playing,Square Enix,0.14,0.02,0.02
+2525,X360,2013,Shooter,Moss,0.0,0.0,0.0
+1787,3DS,2011,Misc,Namco Bandai Games,0.1,0.04,0.01
+4340,N64,1998,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3977,PS2,2008,Adventure,Princess Soft,0.0,0.0,0.0
+4914,PS3,2013,Fighting,Capcom,0.0,0.0,0.0
+1094,PSP,2013,Misc,Asgard,0.0,0.0,0.0
+3361,XOne,2013,Racing,Microsoft Game Studios,1.21,0.78,0.17
+4452,PS2,2006,Sports,Tecmo Koei,0.0,0.0,0.0
+346,GB,1989,Puzzle,Nintendo,2.18,0.96,0.2
+538,PS2,2000,Fighting,Empire Interactive,0.05,0.04,0.01
+5587,3DS,2013,Action,Nintendo,1.78,1.39,0.3
+2157,3DS,2012,Action,Irem Software Engineering,0.0,0.0,0.0
+5930,DS,2010,Adventure,Rocket Company,0.0,0.0,0.0
+875,PS,1998,Sports,Konami Digital Entertainment,0.0,0.0,0.05
+1939,PSP,2015,Action,Broccoli,0.0,0.0,0.0
+2770,3DS,2013,Action,Konami Digital Entertainment,0.04,0.07,0.01
+4085,PSV,2015,Strategy,Take-Two Interactive,0.0,0.0,0.0
+4352,GB,2000,Action,Konami Digital Entertainment,0.0,0.0,0.0
+4594,N64,1999,Adventure,Hudson Soft,0.05,0.01,0.0
+3770,DS,2007,Role-Playing,Hudson Soft,0.0,0.0,0.0
+825,PS4,2015,Action,Namco Bandai Games,0.0,0.0,0.0
+541,PS2,2002,Misc,Media Entertainment,0.0,0.0,0.0
+845,PS3,2013,Action,Sony Computer Entertainment Europe,2.41,2.28,1.01
+4627,NES,1984,Puzzle,Namco Bandai Games,0.27,0.08,0.02
+5724,X360,2007,Role-Playing,Microsoft Game Studios,1.83,0.8,0.27
+408,PSP,2012,Role-Playing,Level 5,0.0,0.0,0.0
+5548,DS,2006,Role-Playing,Success,0.0,0.0,0.0
+4387,SAT,1995,Fighting,Sega,0.0,0.0,0.0
+5929,PS3,2014,Fighting,Arc System Works,0.09,0.0,0.02
+4701,SAT,1996,Fighting,Sega,0.0,0.0,0.0
+4295,GB,2001,Role-Playing,Enix Corporation,0.0,0.0,0.0
+4557,DS,2008,Misc,Benesse,0.0,0.0,0.0
+2209,PS3,2013,Sports,Take-Two Interactive,1.43,0.33,0.25
+1907,DS,2007,Simulation,Square Enix,0.54,0.05,0.05
+5076,PSP,2010,Adventure,Idea Factory,0.0,0.0,0.0
+4184,PSP,2011,Action,Takara Tomy,0.0,0.0,0.0
+5297,PS3,2013,Action,Warner Bros. Interactive Entertainment,0.77,0.85,0.37
+1409,DS,2012,Action,Namco Bandai Games,0.0,0.0,0.0
+4100,GBA,2003,Simulation,Ubisoft,0.34,0.13,0.01
+4705,DS,2008,Role-Playing,Nintendo,0.2,0.0,0.01
+5746,N64,2000,Sports,Nintendo,0.0,0.0,0.0
+4356,PS2,2006,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+3529,PS2,2000,Sports,Konami Digital Entertainment,0.0,0.0,0.0
+214,DS,2008,Misc,Commseed,0.0,0.0,0.0
+5531,PSP,2011,Adventure,Idea Factory,0.0,0.0,0.0
+4659,PS2,2008,Adventure,Russel,0.0,0.0,0.0
+410,X360,2011,Action,Sega,0.28,0.13,0.04
+2220,N64,2000,Action,Nintendo,1.55,0.75,0.06
+3193,PSP,2009,Strategy,Namco Bandai Games,0.0,0.0,0.0
+4308,PSV,2014,Adventure,5pb,0.0,0.0,0.0
+2808,PSV,2015,Adventure,TGL,0.0,0.0,0.0
+1710,3DS,2013,Fighting,Namco Bandai Games,0.0,0.0,0.0
+5488,PS3,2010,Shooter,Sony Computer Entertainment,0.13,0.16,0.06
+5534,PS2,2005,Strategy,Banpresto,0.0,0.0,0.0
+5596,PSP,2013,Adventure,Idea Factory,0.0,0.0,0.0
+4544,GC,2003,Fighting,Namco Bandai Games,0.99,0.32,0.08
+3474,DS,2008,Adventure,ASCII Media Works,0.0,0.0,0.0
+4280,DS,2010,Puzzle,Nintendo,0.29,0.3,0.07
+5666,Wii,2009,Misc,Nintendo,0.0,0.0,0.0
+4600,PS2,2008,Adventure,Kadokawa Shoten,0.0,0.0,0.0
+3224,PS,1997,Strategy,Namco Bandai Games,0.0,0.0,0.02
+4931,PS2,2003,Sports,Konami Digital Entertainment,0.08,1.24,0.45
+1419,SNES,1993,Puzzle,Banpresto,0.0,0.0,0.01
+5924,WiiU,2014,Action,Namco Bandai Games,0.0,0.0,0.0
+1235,PSP,2009,Role-Playing,Rising Star Games,0.08,0.02,0.02
+2986,PSP,2011,Adventure,Alchemist,0.0,0.0,0.0
+2861,PS2,2000,Action,Sony Computer Entertainment,0.3,0.23,0.08
+6,PS2,2009,Adventure,5pb,0.0,0.0,0.0
+5953,PS2,2008,Adventure,5pb,0.0,0.0,0.0
+1793,PS2,2004,Simulation,Kadokawa Shoten,0.0,0.0,0.0
+4107,PS2,2004,Role-Playing,Square Enix,0.0,0.0,0.0
+1113,GB,1989,Platform,Nintendo,10.83,2.71,0.42
+1359,XOne,2015,Shooter,Activision,4.52,2.09,0.67
+2953,Wii,2011,Platform,Nintendo,0.62,0.21,0.08
+5418,PS3,2013,Role-Playing,Nippon Ichi Software,0.02,0.01,0.01
+2871,PS2,2007,Shooter,Ignition Entertainment,0.0,0.0,0.0
+2479,PS3,2008,Role-Playing,Nippon Ichi Software,0.14,0.02,0.02
+4274,Wii,2011,Action,Ackkstudios,0.0,0.0,0.0
+1221,GBA,2004,Adventure,Nintendo,0.37,0.14,0.01
+4084,PSP,2012,Action,Capcom,0.0,0.0,0.0
+2072,DS,2008,Action,Namco Bandai Games,0.0,0.0,0.0
+2501,DS,2008,Simulation,Square Enix,0.0,0.0,0.0
+4349,DS,2009,Role-Playing,Atlus,0.14,0.0,0.01
+4545,GC,2004,Racing,Electronic Arts,0.7,0.39,0.03
+1384,XOne,2014,Shooter,Microsoft Game Studios,1.89,0.99,0.24
+1099,Wii,2008,Fighting,Nintendo,6.75,2.61,1.02
+5136,PS,2000,Adventure,Capcom,0.17,0.12,0.03
+3945,PSP,2011,Adventure,Idea Factory,0.0,0.0,0.0
+4719,3DS,2015,Action,Alchemist,0.0,0.0,0.0
+480,PSP,2005,Fighting,Sony Computer Entertainment,0.0,0.0,0.0
+2430,PSP,2009,Adventure,Tecmo Koei,0.0,0.0,0.0
+2561,PS3,2014,Racing,Codemasters,0.05,0.11,0.04
+4745,3DS,2011,Strategy,Namco Bandai Games,0.0,0.0,0.0
+277,NES,1989,Action,Palcom,3.38,0.44,0.04
+5610,PS2,2001,Misc,Konami Digital Entertainment,0.0,0.0,0.0
+3258,GC,2002,Misc,Nintendo,1.13,0.36,0.07
+20,PS4,2015,Action,Konami Digital Entertainment,1.08,1.35,0.47
+4585,PS2,2006,Action,Sega,0.0,0.0,0.0
+5528,SAT,1998,Adventure,NEC Interchannel,0.0,0.0,0.0
+786,PSP,2006,Fighting,Banpresto,0.0,0.0,0.0
+1375,GC,2006,Role-Playing,Unknown,0.06,0.02,0.0
+2418,PS,1997,Fighting,Capcom,0.0,0.0,0.01
+2404,GBA,2004,Action,Hudson Soft,0.0,0.0,0.0
+1020,PS3,2011,Action,Capcom,0.0,0.0,0.0
+1949,PS2,2007,Role-Playing,Sega,0.0,0.0,0.0
+2927,NES,1990,Platform,Capcom,0.68,0.14,0.02
+1368,SNES,1994,Fighting,Sunsoft,0.0,0.0,0.0
+2852,3DS,2014,Platform,Nintendo,0.61,0.34,0.09
